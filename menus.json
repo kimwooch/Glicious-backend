@@ -1,0 +1,2132 @@
+{
+ "Date": [
+  {
+   "Time": "Tuesday, August 4, 2020",
+   "TypeFood": [
+    {
+     "Type": "LUNCH",
+     "Table": [
+      {
+       "all_menu": "PLAT DU JOUR"
+      },
+      {
+       "all_menu": "Butter Chicken with Cashew Cream"
+      },
+      {
+       "all_menu": "(6 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Steamed Rice (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Roasted Zucchini (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "VEGAN SPECIAL"
+      },
+      {
+       "all_menu": "Curried Chickpea Burger (V)"
+      },
+      {
+       "all_menu": "Sandwich"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Steamed White Rice (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Roasted Zucchini (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "DESSERTS"
+      },
+      {
+       "all_menu": "Peanut Butter Cup Bars (V)"
+      },
+      {
+       "all_menu": "(1 Piece)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "White Chocolate Brownie Cookies (OL)"
+      },
+      {
+       "all_menu": "(1 Cookie)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      }
+     ],
+     "Stations": [
+      {
+       "station": "PLAT DU JOUR"
+      },
+      {
+       "station": "VEGAN SPECIAL"
+      },
+      {
+       "station": "DESSERTS"
+      }
+     ],
+     "Menus": [
+      {
+       "Menu": "Butter Chicken with Cashew Cream"
+      },
+      {
+       "Menu": "Steamed Rice (V)"
+      },
+      {
+       "Menu": "Roasted Zucchini (V)"
+      },
+      {
+       "Menu": "Curried Chickpea Burger (V)"
+      },
+      {
+       "Menu": "Steamed White Rice (V)"
+      },
+      {
+       "Menu": "Roasted Zucchini (V)"
+      },
+      {
+       "Menu": "Peanut Butter Cup Bars (V)"
+      },
+      {
+       "Menu": "White Chocolate Brownie Cookies (OL)"
+      }
+     ]
+    },
+    {
+     "Type": "DINNER",
+     "Table": [
+      {
+       "all_menu": "PLAT DU JOUR"
+      },
+      {
+       "all_menu": "Bob Cobb Salad"
+      },
+      {
+       "all_menu": "Salad"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Chip Potato Lays Individual"
+      },
+      {
+       "all_menu": "Bag"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Gala Apple (V)"
+      },
+      {
+       "all_menu": "(1 Apple)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "VEGAN SPECIAL"
+      },
+      {
+       "all_menu": "House Salad (V)"
+      },
+      {
+       "all_menu": "Salad"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Chip Potato Lays Individual"
+      },
+      {
+       "all_menu": "Bag"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Gala Apple (V)"
+      },
+      {
+       "all_menu": "(1 Apple)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "DESSERTS"
+      },
+      {
+       "all_menu": "Peanut Butter Cup Bars (V)"
+      },
+      {
+       "all_menu": "(1 Piece)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Key Lime Pie (OL)"
+      },
+      {
+       "all_menu": "(Slice)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      }
+     ],
+     "Stations": [
+      {
+       "station": "PLAT DU JOUR"
+      },
+      {
+       "station": "VEGAN SPECIAL"
+      },
+      {
+       "station": "DESSERTS"
+      }
+     ],
+     "Menus": [
+      {
+       "Menu": "Bob Cobb Salad"
+      },
+      {
+       "Menu": "Chip Potato Lays Individual"
+      },
+      {
+       "Menu": "Gala Apple (V)"
+      },
+      {
+       "Menu": "House Salad (V)"
+      },
+      {
+       "Menu": "Chip Potato Lays Individual"
+      },
+      {
+       "Menu": "Gala Apple (V)"
+      },
+      {
+       "Menu": "Peanut Butter Cup Bars (V)"
+      },
+      {
+       "Menu": "Key Lime Pie (OL)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Time": "Wednesday, August 5, 2020",
+   "TypeFood": [
+    {
+     "Type": "LUNCH",
+     "Table": [
+      {
+       "all_menu": "PLAT DU JOUR"
+      },
+      {
+       "all_menu": "Chipotle Chicken Burrito"
+      },
+      {
+       "all_menu": "(Chicken Burrito)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Sour Cream (OL)"
+      },
+      {
+       "all_menu": "(1 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Picante Sauce (V)"
+      },
+      {
+       "all_menu": "(1 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Homemade Fiesta Rice (V)"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Roasted Corn and Peppers (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "VEGAN SPECIAL"
+      },
+      {
+       "all_menu": "Spicy Tofu (V)"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Basmati Rice (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Roasted Corn and Peppers (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "DESSERTS"
+      },
+      {
+       "all_menu": "Oatmeal Raisin Cookies (V)"
+      },
+      {
+       "all_menu": "(1 Cookie)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Almond Bars (OL)"
+      },
+      {
+       "all_menu": "(1 Piece)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      }
+     ],
+     "Stations": [
+      {
+       "station": "PLAT DU JOUR"
+      },
+      {
+       "station": "VEGAN SPECIAL"
+      },
+      {
+       "station": "DESSERTS"
+      }
+     ],
+     "Menus": [
+      {
+       "Menu": "Chipotle Chicken Burrito"
+      },
+      {
+       "Menu": "Sour Cream (OL)"
+      },
+      {
+       "Menu": "Picante Sauce (V)"
+      },
+      {
+       "Menu": "Homemade Fiesta Rice (V)"
+      },
+      {
+       "Menu": "Roasted Corn and Peppers (V)"
+      },
+      {
+       "Menu": "Spicy Tofu (V)"
+      },
+      {
+       "Menu": "Basmati Rice (V)"
+      },
+      {
+       "Menu": "Roasted Corn and Peppers (V)"
+      },
+      {
+       "Menu": "Oatmeal Raisin Cookies (V)"
+      },
+      {
+       "Menu": "Almond Bars (OL)"
+      }
+     ]
+    },
+    {
+     "Type": "DINNER",
+     "Table": [
+      {
+       "all_menu": "PLAT DU JOUR"
+      },
+      {
+       "all_menu": "Beef Curry"
+      },
+      {
+       "all_menu": "(6 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Curry Rice (V)"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Spicy Peas and Carrots (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "VEGAN SPECIAL"
+      },
+      {
+       "all_menu": "Spicy Vegetable Lo Mein (V)"
+      },
+      {
+       "all_menu": "(6 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Basmati Rice (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Spicy Peas and Carrots (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "DESSERTS"
+      },
+      {
+       "all_menu": "Oatmeal Raisin Cookies (V)"
+      },
+      {
+       "all_menu": "(1 Cookie)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Berry Yogurt Cake"
+      },
+      {
+       "all_menu": "(1 Piece)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      }
+     ],
+     "Stations": [
+      {
+       "station": "PLAT DU JOUR"
+      },
+      {
+       "station": "VEGAN SPECIAL"
+      },
+      {
+       "station": "DESSERTS"
+      }
+     ],
+     "Menus": [
+      {
+       "Menu": "Beef Curry"
+      },
+      {
+       "Menu": "Curry Rice (V)"
+      },
+      {
+       "Menu": "Spicy Peas and Carrots (V)"
+      },
+      {
+       "Menu": "Spicy Vegetable Lo Mein (V)"
+      },
+      {
+       "Menu": "Basmati Rice (V)"
+      },
+      {
+       "Menu": "Spicy Peas and Carrots (V)"
+      },
+      {
+       "Menu": "Oatmeal Raisin Cookies (V)"
+      },
+      {
+       "Menu": "Berry Yogurt Cake"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Time": "Thursday, August 6, 2020",
+   "TypeFood": [
+    {
+     "Type": "LUNCH",
+     "Table": [
+      {
+       "all_menu": "PLAT DU JOUR"
+      },
+      {
+       "all_menu": "Smoked Pork"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "BBQ Sauce (V)"
+      },
+      {
+       "all_menu": "(1 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Kaiser Bun (V)"
+      },
+      {
+       "all_menu": "(Bun)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Homemade Coleslaw (OL)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Roasted Fresh Green Beans (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "VEGAN SPECIAL"
+      },
+      {
+       "all_menu": "Spaghetti Squash Primavera (V)"
+      },
+      {
+       "all_menu": "(6.5 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Steamed White Rice (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Roasted Fresh Green Beans (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "DESSERTS"
+      },
+      {
+       "all_menu": "Southern Berry Cobbler (V)"
+      },
+      {
+       "all_menu": "(1 Piece)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Butterfinger Cookies (OL)"
+      },
+      {
+       "all_menu": "(1 Cookie)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      }
+     ],
+     "Stations": [
+      {
+       "station": "PLAT DU JOUR"
+      },
+      {
+       "station": "VEGAN SPECIAL"
+      },
+      {
+       "station": "DESSERTS"
+      }
+     ],
+     "Menus": [
+      {
+       "Menu": "Smoked Pork"
+      },
+      {
+       "Menu": "BBQ Sauce (V)"
+      },
+      {
+       "Menu": "Kaiser Bun (V)"
+      },
+      {
+       "Menu": "Homemade Coleslaw (OL)"
+      },
+      {
+       "Menu": "Roasted Fresh Green Beans (V)"
+      },
+      {
+       "Menu": "Spaghetti Squash Primavera (V)"
+      },
+      {
+       "Menu": "Steamed White Rice (V)"
+      },
+      {
+       "Menu": "Roasted Fresh Green Beans (V)"
+      },
+      {
+       "Menu": "Southern Berry Cobbler (V)"
+      },
+      {
+       "Menu": "Butterfinger Cookies (OL)"
+      }
+     ]
+    },
+    {
+     "Type": "DINNER",
+     "Table": [
+      {
+       "all_menu": "PLAT DU JOUR"
+      },
+      {
+       "all_menu": "Chicken Sriracha Potstickers"
+      },
+      {
+       "all_menu": "(3 Potstickers)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Tempura Dipping Sauce (V)"
+      },
+      {
+       "all_menu": "(1 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Vegetarian Eggrolls (OL)"
+      },
+      {
+       "all_menu": "(1 Eggroll)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Sweet & Sour Sauce (V)"
+      },
+      {
+       "all_menu": "(1 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Fried Rice with Peas (V)"
+      },
+      {
+       "all_menu": "(8 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Sugar Snap Peas (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "VEGAN SPECIAL"
+      },
+      {
+       "all_menu": "Vegetable Potstickers (V)"
+      },
+      {
+       "all_menu": "(3 Potstickers)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Fried Rice with Peas (V)"
+      },
+      {
+       "all_menu": "(8 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Sugar Snap Peas (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "DESSERTS"
+      },
+      {
+       "all_menu": "Southern Berry Cobbler (V)"
+      },
+      {
+       "all_menu": "(1 Piece)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Pumpkin Pie (OL)"
+      },
+      {
+       "all_menu": "(Slice)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      }
+     ],
+     "Stations": [
+      {
+       "station": "PLAT DU JOUR"
+      },
+      {
+       "station": "VEGAN SPECIAL"
+      },
+      {
+       "station": "DESSERTS"
+      }
+     ],
+     "Menus": [
+      {
+       "Menu": "Chicken Sriracha Potstickers"
+      },
+      {
+       "Menu": "Tempura Dipping Sauce (V)"
+      },
+      {
+       "Menu": "Vegetarian Eggrolls (OL)"
+      },
+      {
+       "Menu": "Sweet & Sour Sauce (V)"
+      },
+      {
+       "Menu": "Fried Rice with Peas (V)"
+      },
+      {
+       "Menu": "Sugar Snap Peas (V)"
+      },
+      {
+       "Menu": "Vegetable Potstickers (V)"
+      },
+      {
+       "Menu": "Fried Rice with Peas (V)"
+      },
+      {
+       "Menu": "Sugar Snap Peas (V)"
+      },
+      {
+       "Menu": "Southern Berry Cobbler (V)"
+      },
+      {
+       "Menu": "Pumpkin Pie (OL)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Time": "Friday, August 7, 2020",
+   "TypeFood": [
+    {
+     "Type": "LUNCH",
+     "Table": [
+      {
+       "all_menu": "PLAT DU JOUR"
+      },
+      {
+       "all_menu": "Lasagna with Beef & Pork"
+      },
+      {
+       "all_menu": "(6.4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Broccoli Florets (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Garlic Breadsticks (OL)"
+      },
+      {
+       "all_menu": "(1 Breadstick)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "VEGAN SPECIAL"
+      },
+      {
+       "all_menu": "Thai Red Curry w/ Squash & Chickpeas (V)"
+      },
+      {
+       "all_menu": "(6 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Jasmine Rice (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Broccoli Florets (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "DESSERTS"
+      },
+      {
+       "all_menu": "Cherry Pie (V)"
+      },
+      {
+       "all_menu": "(Slice)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "M & M Bars (OL)"
+      },
+      {
+       "all_menu": "(1 Piece)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      }
+     ],
+     "Stations": [
+      {
+       "station": "PLAT DU JOUR"
+      },
+      {
+       "station": "VEGAN SPECIAL"
+      },
+      {
+       "station": "DESSERTS"
+      }
+     ],
+     "Menus": [
+      {
+       "Menu": "Lasagna with Beef & Pork"
+      },
+      {
+       "Menu": "Broccoli Florets (V)"
+      },
+      {
+       "Menu": "Garlic Breadsticks (OL)"
+      },
+      {
+       "Menu": "Thai Red Curry w/ Squash & Chickpeas (V)"
+      },
+      {
+       "Menu": "Jasmine Rice (V)"
+      },
+      {
+       "Menu": "Broccoli Florets (V)"
+      },
+      {
+       "Menu": "Cherry Pie (V)"
+      },
+      {
+       "Menu": "M & M Bars (OL)"
+      }
+     ]
+    },
+    {
+     "Type": "DINNER",
+     "Table": [
+      {
+       "all_menu": "PLAT DU JOUR"
+      },
+      {
+       "all_menu": "Bean Thread Noodle & Chicken Curry"
+      },
+      {
+       "all_menu": "(8 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Steamed White Rice (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Roasted Vegetable Du Jour (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "VEGAN SPECIAL"
+      },
+      {
+       "all_menu": "Curry Coconut Quinoa w/ Cauliflower (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Steamed Brown Rice (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Roasted Vegetable Du Jour (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "DESSERTS"
+      },
+      {
+       "all_menu": "Cherry Pie (V)"
+      },
+      {
+       "all_menu": "(Slice)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Red Velvet Cupcakes (OL)"
+      },
+      {
+       "all_menu": "(Cupcake)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      }
+     ],
+     "Stations": [
+      {
+       "station": "PLAT DU JOUR"
+      },
+      {
+       "station": "VEGAN SPECIAL"
+      },
+      {
+       "station": "DESSERTS"
+      }
+     ],
+     "Menus": [
+      {
+       "Menu": "Bean Thread Noodle & Chicken Curry"
+      },
+      {
+       "Menu": "Steamed White Rice (V)"
+      },
+      {
+       "Menu": "Roasted Vegetable Du Jour (V)"
+      },
+      {
+       "Menu": "Curry Coconut Quinoa w/ Cauliflower (V)"
+      },
+      {
+       "Menu": "Steamed Brown Rice (V)"
+      },
+      {
+       "Menu": "Roasted Vegetable Du Jour (V)"
+      },
+      {
+       "Menu": "Cherry Pie (V)"
+      },
+      {
+       "Menu": "Red Velvet Cupcakes (OL)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Time": "Saturday, August 8, 2020",
+   "TypeFood": [
+    {
+     "Type": "LUNCH",
+     "Table": [
+      {
+       "all_menu": "PLAT DU JOUR"
+      },
+      {
+       "all_menu": "Huli Huli Chicken Thighs"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Cilantro Lime Rice"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Broccoli, Carrots, Cauliflower (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "VEGAN SPECIAL"
+      },
+      {
+       "all_menu": "Roasted Vegetables and Quinoa Pilaf (V)"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Jasmine Rice (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Broccoli, Carrots, Cauliflower (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "DESSERTS"
+      },
+      {
+       "all_menu": "Brown Sugar Cookies (V)"
+      },
+      {
+       "all_menu": "(1 Cookie)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Chocolate Chip Cheesecake Bars (OL)"
+      },
+      {
+       "all_menu": "(1 Piece)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      }
+     ],
+     "Stations": [
+      {
+       "station": "PLAT DU JOUR"
+      },
+      {
+       "station": "VEGAN SPECIAL"
+      },
+      {
+       "station": "DESSERTS"
+      }
+     ],
+     "Menus": [
+      {
+       "Menu": "Huli Huli Chicken Thighs"
+      },
+      {
+       "Menu": "Cilantro Lime Rice"
+      },
+      {
+       "Menu": "Broccoli, Carrots, Cauliflower (V)"
+      },
+      {
+       "Menu": "Roasted Vegetables and Quinoa Pilaf (V)"
+      },
+      {
+       "Menu": "Jasmine Rice (V)"
+      },
+      {
+       "Menu": "Broccoli, Carrots, Cauliflower (V)"
+      },
+      {
+       "Menu": "Brown Sugar Cookies (V)"
+      },
+      {
+       "Menu": "Chocolate Chip Cheesecake Bars (OL)"
+      }
+     ]
+    },
+    {
+     "Type": "DINNER",
+     "Table": [
+      {
+       "all_menu": "PLAT DU JOUR"
+      },
+      {
+       "all_menu": "Roman Chicken"
+      },
+      {
+       "all_menu": "(Piece)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Pasta Fettuccine Buttered (OL)"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Garden Blend Vegetables (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "VEGAN SPECIAL"
+      },
+      {
+       "all_menu": "Sriracha Tofu with Vegetables (V)"
+      },
+      {
+       "all_menu": "(6 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Basmati Rice (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Garden Blend Vegetables (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "DESSERTS"
+      },
+      {
+       "all_menu": "Brown Sugar Cookies (V)"
+      },
+      {
+       "all_menu": "(1 Cookie)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Chocolate Upside Down Cake (OL)"
+      },
+      {
+       "all_menu": "(1 Piece)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      }
+     ],
+     "Stations": [
+      {
+       "station": "PLAT DU JOUR"
+      },
+      {
+       "station": "VEGAN SPECIAL"
+      },
+      {
+       "station": "DESSERTS"
+      }
+     ],
+     "Menus": [
+      {
+       "Menu": "Roman Chicken"
+      },
+      {
+       "Menu": "Pasta Fettuccine Buttered (OL)"
+      },
+      {
+       "Menu": "Garden Blend Vegetables (V)"
+      },
+      {
+       "Menu": "Sriracha Tofu with Vegetables (V)"
+      },
+      {
+       "Menu": "Basmati Rice (V)"
+      },
+      {
+       "Menu": "Garden Blend Vegetables (V)"
+      },
+      {
+       "Menu": "Brown Sugar Cookies (V)"
+      },
+      {
+       "Menu": "Chocolate Upside Down Cake (OL)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Time": "Sunday, August 9, 2020",
+   "TypeFood": [
+    {
+     "Type": "LUNCH",
+     "Table": [
+      {
+       "all_menu": "PLAT DU JOUR"
+      },
+      {
+       "all_menu": "Fried Chicken Sandwich with Spicy Slaw"
+      },
+      {
+       "all_menu": "(Sandwich)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Roasted Redskin Potatoes (V)"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Vegetables Melange' (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "VEGAN SPECIAL"
+      },
+      {
+       "all_menu": "Black Bean Vegandillas (V)"
+      },
+      {
+       "all_menu": "(4.37 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Steamed White Rice (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Vegetables Melange' (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "DESSERTS"
+      },
+      {
+       "all_menu": "Strawberry Spritz Bars (V)"
+      },
+      {
+       "all_menu": "(1 Piece)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Lemon Curd with Raspberry Cupcake (OL)"
+      },
+      {
+       "all_menu": "(1 Cupcake)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      }
+     ],
+     "Stations": [
+      {
+       "station": "PLAT DU JOUR"
+      },
+      {
+       "station": "VEGAN SPECIAL"
+      },
+      {
+       "station": "DESSERTS"
+      }
+     ],
+     "Menus": [
+      {
+       "Menu": "Fried Chicken Sandwich with Spicy Slaw"
+      },
+      {
+       "Menu": "Roasted Redskin Potatoes (V)"
+      },
+      {
+       "Menu": "Vegetables Melange' (V)"
+      },
+      {
+       "Menu": "Black Bean Vegandillas (V)"
+      },
+      {
+       "Menu": "Steamed White Rice (V)"
+      },
+      {
+       "Menu": "Vegetables Melange' (V)"
+      },
+      {
+       "Menu": "Strawberry Spritz Bars (V)"
+      },
+      {
+       "Menu": "Lemon Curd with Raspberry Cupcake (OL)"
+      }
+     ]
+    },
+    {
+     "Type": "DINNER",
+     "Table": [
+      {
+       "all_menu": "PLAT DU JOUR"
+      },
+      {
+       "all_menu": "Salmon w/Citrus Teriyaki Sauce and Glaze"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Rice Pilaf (V)"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Zucchini, Squash and Red Pepper (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "VEGAN SPECIAL"
+      },
+      {
+       "all_menu": "Teriyaki Tofu & Rice Noodles (V)"
+      },
+      {
+       "all_menu": "(6 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Steamed Brown Rice (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Zucchini, Squash and Red Pepper (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "DESSERTS"
+      },
+      {
+       "all_menu": "Red Velvet Bars (OL)"
+      },
+      {
+       "all_menu": "(1 Piece)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Strawberry Spritz Bars (V)"
+      },
+      {
+       "all_menu": "(1 Piece)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      }
+     ],
+     "Stations": [
+      {
+       "station": "PLAT DU JOUR"
+      },
+      {
+       "station": "VEGAN SPECIAL"
+      },
+      {
+       "station": "DESSERTS"
+      }
+     ],
+     "Menus": [
+      {
+       "Menu": "Salmon w/Citrus Teriyaki Sauce and Glaze"
+      },
+      {
+       "Menu": "Rice Pilaf (V)"
+      },
+      {
+       "Menu": "Zucchini, Squash and Red Pepper (V)"
+      },
+      {
+       "Menu": "Teriyaki Tofu & Rice Noodles (V)"
+      },
+      {
+       "Menu": "Steamed Brown Rice (V)"
+      },
+      {
+       "Menu": "Zucchini, Squash and Red Pepper (V)"
+      },
+      {
+       "Menu": "Red Velvet Bars (OL)"
+      },
+      {
+       "Menu": "Strawberry Spritz Bars (V)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Time": "Monday, August 10, 2020",
+   "TypeFood": [
+    {
+     "Type": "LUNCH",
+     "Table": [
+      {
+       "all_menu": "PLAT DU JOUR"
+      },
+      {
+       "all_menu": "Roasted Vegetable Du Jour (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Steamed White Rice (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Hunan Style Eggplant (V)"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "VEGAN SPECIAL"
+      },
+      {
+       "all_menu": "Roasted Vegetable Du Jour (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Steamed White Rice (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Vegan Tofu Stew"
+      },
+      {
+       "all_menu": "(8 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "DESSERTS"
+      },
+      {
+       "all_menu": "Fruit Cup"
+      },
+      {
+       "all_menu": "(7 Oz)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Strawberry Peach Crisp (V)"
+      },
+      {
+       "all_menu": "(1 Piece)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Rice Krispie Bar"
+      },
+      {
+       "all_menu": "(1 Piece)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      }
+     ],
+     "Stations": [
+      {
+       "station": "PLAT DU JOUR"
+      },
+      {
+       "station": "VEGAN SPECIAL"
+      },
+      {
+       "station": "DESSERTS"
+      }
+     ],
+     "Menus": [
+      {
+       "Menu": "Roasted Vegetable Du Jour (V)"
+      },
+      {
+       "Menu": "Steamed White Rice (V)"
+      },
+      {
+       "Menu": "Hunan Style Eggplant (V)"
+      },
+      {
+       "Menu": "Roasted Vegetable Du Jour (V)"
+      },
+      {
+       "Menu": "Steamed White Rice (V)"
+      },
+      {
+       "Menu": "Vegan Tofu Stew"
+      },
+      {
+       "Menu": "Fruit Cup"
+      },
+      {
+       "Menu": "Strawberry Peach Crisp (V)"
+      },
+      {
+       "Menu": "Rice Krispie Bar"
+      }
+     ]
+    },
+    {
+     "Type": "DINNER",
+     "Table": [
+      {
+       "all_menu": "PLAT DU JOUR"
+      },
+      {
+       "all_menu": "Marinara Sauce (V)"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Garlic Breadsticks (OL)"
+      },
+      {
+       "all_menu": "(1 Breadstick)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Zucchini, Squash and Red Pepper (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Spaghetti Pasta (V)"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Beef & Pork Meatballs"
+      },
+      {
+       "all_menu": "(3/1 Oz Meatballs)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "VEGAN SPECIAL"
+      },
+      {
+       "all_menu": "Zucchini, Squash and Red Pepper (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Black Bean-Sweet Potato Burritos (V)"
+      },
+      {
+       "all_menu": "(1 Burrito)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Black Beans (V)"
+      },
+      {
+       "all_menu": "(6 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "DESSERTS"
+      },
+      {
+       "all_menu": "Strawberry Peach Crisp (V)"
+      },
+      {
+       "all_menu": "(1 Piece)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Mocha Cheesecake (OL)"
+      },
+      {
+       "all_menu": "(1 Piece)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      }
+     ],
+     "Stations": [
+      {
+       "station": "PLAT DU JOUR"
+      },
+      {
+       "station": "VEGAN SPECIAL"
+      },
+      {
+       "station": "DESSERTS"
+      }
+     ],
+     "Menus": [
+      {
+       "Menu": "Marinara Sauce (V)"
+      },
+      {
+       "Menu": "Garlic Breadsticks (OL)"
+      },
+      {
+       "Menu": "Zucchini, Squash and Red Pepper (V)"
+      },
+      {
+       "Menu": "Spaghetti Pasta (V)"
+      },
+      {
+       "Menu": "Beef & Pork Meatballs"
+      },
+      {
+       "Menu": "Zucchini, Squash and Red Pepper (V)"
+      },
+      {
+       "Menu": "Black Bean-Sweet Potato Burritos (V)"
+      },
+      {
+       "Menu": "Black Beans (V)"
+      },
+      {
+       "Menu": "Strawberry Peach Crisp (V)"
+      },
+      {
+       "Menu": "Mocha Cheesecake (OL)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Time": "Tuesday, August 11, 2020",
+   "TypeFood": [
+    {
+     "Type": "LUNCH",
+     "Table": [
+      {
+       "all_menu": "PLAT DU JOUR"
+      },
+      {
+       "all_menu": "Chicken Strips"
+      },
+      {
+       "all_menu": "(4 Oz Strips)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Macaroni & Cheese (OL)"
+      },
+      {
+       "all_menu": "(6.4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Broccoli Florets (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "VEGAN SPECIAL"
+      },
+      {
+       "all_menu": "Tofu Tikka Masala (V)"
+      },
+      {
+       "all_menu": "(7 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Steamed White Rice (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Broccoli Florets (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "DESSERTS"
+      },
+      {
+       "all_menu": "Snickerdoodle Cookies (V)"
+      },
+      {
+       "all_menu": "(1 Cookie)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Banana Bar with Vanilla Frosting (OL)"
+      },
+      {
+       "all_menu": "(1 Piece)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      }
+     ],
+     "Stations": [
+      {
+       "station": "PLAT DU JOUR"
+      },
+      {
+       "station": "VEGAN SPECIAL"
+      },
+      {
+       "station": "DESSERTS"
+      }
+     ],
+     "Menus": [
+      {
+       "Menu": "Chicken Strips"
+      },
+      {
+       "Menu": "Macaroni & Cheese (OL)"
+      },
+      {
+       "Menu": "Broccoli Florets (V)"
+      },
+      {
+       "Menu": "Tofu Tikka Masala (V)"
+      },
+      {
+       "Menu": "Steamed White Rice (V)"
+      },
+      {
+       "Menu": "Broccoli Florets (V)"
+      },
+      {
+       "Menu": "Snickerdoodle Cookies (V)"
+      },
+      {
+       "Menu": "Banana Bar with Vanilla Frosting (OL)"
+      }
+     ]
+    },
+    {
+     "Type": "DINNER",
+     "Table": [
+      {
+       "all_menu": "PLAT DU JOUR"
+      },
+      {
+       "all_menu": "Chicken Cacciatore"
+      },
+      {
+       "all_menu": "(1Piece)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Roasted Redskin Potatoes (V)"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Roasted Cauliflower (V)"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "VEGAN SPECIAL"
+      },
+      {
+       "all_menu": "White Bean & Vegetable Cassoulet (V)"
+      },
+      {
+       "all_menu": "(5.5 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Jasmine Rice (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Roasted Cauliflower (V)"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "DESSERTS"
+      },
+      {
+       "all_menu": "Snickerdoodle Cookies (V)"
+      },
+      {
+       "all_menu": "(1 Cookie)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Cherry Bars"
+      },
+      {
+       "all_menu": "8 X10 Cut"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      }
+     ],
+     "Stations": [
+      {
+       "station": "PLAT DU JOUR"
+      },
+      {
+       "station": "VEGAN SPECIAL"
+      },
+      {
+       "station": "DESSERTS"
+      }
+     ],
+     "Menus": [
+      {
+       "Menu": "Chicken Cacciatore"
+      },
+      {
+       "Menu": "Roasted Redskin Potatoes (V)"
+      },
+      {
+       "Menu": "Roasted Cauliflower (V)"
+      },
+      {
+       "Menu": "White Bean & Vegetable Cassoulet (V)"
+      },
+      {
+       "Menu": "Jasmine Rice (V)"
+      },
+      {
+       "Menu": "Roasted Cauliflower (V)"
+      },
+      {
+       "Menu": "Snickerdoodle Cookies (V)"
+      },
+      {
+       "Menu": "Cherry Bars"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
