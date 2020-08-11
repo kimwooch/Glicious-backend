@@ -4,39 +4,45 @@ import json
 import os
 
 class Obj0(object):
-    def __init__(self, date, obj1):
+    def __init__(date, obj1):
         self.date = date
         self.obj1 = obj1
 
+    def make_obj0(date, obj1):
+        obj0 = Obj0(date, obj1)
+        return obj0
 
-def make_obj0(date, obj1):
-    obj0 = Obj0(date, obj1)
-    return obj0
+    def make_serial0(date, obj1):
+        return {"date": date, "obj1": obj1}
 
 
 class Obj1(object):
-    def __init__(self, type, obj2):
+    def __init__(type, obj2):
         self.type = type
         self.obj2 = obj2
 
+    def make_obj1(type, obj2):
+        obj1 = Obj1(type, obj2)
+        return obj1
 
-def make_obj1(type, obj2):
-    obj1 = Obj1(type, obj2)
-    return obj1
+    def make_serial1(type, obj2):
+        return {"type": type, "obj2": obj2}
 
 
 class Obj2(object):
     menus = []
     time = ""
 
-    def __init__(self, menus, time):
+    def __init__(menus, time):
         self.menus = menus
         self.time = time
 
+    def make_obj2(menus, time):
+        obj2 = Obj2(menus, time)
+        return obj2
 
-def make_obj2(menus, time):
-    obj2 = Obj2(menus, time)
-    return obj2
+    def make_serial2(menus, time):
+        return {"menus": menus, "time": time}
 
 
 def api_test():
@@ -132,14 +138,14 @@ def api_test():
             # remove the duplicates
             arrMenu = list(setMenu)
 
-            object2 = make_obj2(arrMenu, timeDictionary[week][type])
+            object2 = Obj2.make_serial2(arrMenu, timeDictionary[week][type])
 
-            object1 = make_obj1(type, object2)
+            object1 = Obj1.make_serial1(type, object2)
             lst0.append(object1)
 
-        object0 = make_obj0(date, lst0)
+        object0 = Obj0.make_serial0(date, lst0)
         lst1.append(object0)
-    return lst1
+    print(lst1)
 
 app = Flask(__name__, template_folder=".")
 
