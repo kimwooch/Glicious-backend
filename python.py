@@ -143,9 +143,9 @@ def api_test():
             object1 = Obj1.make_serial1(type, object2)
             lst0.append(object1)
 
-        object0 = Obj0.make_serial0(date, lst0)
+        object0 = Obj0.make_serial0(day, lst0)
         lst1.append(object0)
-    print(lst1)
+    return lst1
 
 app = Flask(__name__, template_folder=".")
 
