@@ -47,7 +47,7 @@ class Obj2(object):
 
 def api_test():
     # accessing the files
-    f = open("/Users/kevinkim/Desktop/menus.json", "r")
+    f = open("menus.json", "r")
     data = json.loads(f.read())
     # dictionary for time open
     timeDictionary = {
