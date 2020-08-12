@@ -136,7 +136,7 @@ def api_test():
         missingTypes = list(set(listMenuType) - set(currMenuType))
         for missing in missingTypes:
             object1 = Obj1.make_serial1(missing, [], "")
-        lst0.append(object1)
+            lst0.append(object1)
         object0 = Obj0.make_serial0(day, lst0)
         lst1.append(object0)
     return lst1
