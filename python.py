@@ -17,32 +17,18 @@ class Obj0(object):
 
 
 class Obj1(object):
-    def __init__(type, obj2):
+    def __init__(type, menus, time):
         self.type = type
-        self.obj2 = obj2
-
-    def make_obj1(type, obj2):
-        obj1 = Obj1(type, obj2)
-        return obj1
-
-    def make_serial1(type, obj2):
-        return {"type": type, "obj2": obj2}
-
-
-class Obj2(object):
-    menus = []
-    time = ""
-
-    def __init__(menus, time):
         self.menus = menus
         self.time = time
 
-    def make_obj2(menus, time):
-        obj2 = Obj2(menus, time)
-        return obj2
+    def make_obj1(type, menus, time):
+        obj1 = Obj1(type, menus, time)
+        return obj1
 
-    def make_serial2(menus, time):
-        return {"menus": menus, "time": time}
+    def make_serial1(type, menus, time):
+        return {"type": type, "menus": menus, "time": time}
+
 
 
 def api_test():
@@ -138,9 +124,7 @@ def api_test():
             # remove the duplicates
             arrMenu = list(setMenu)
 
-            object2 = Obj2.make_serial2(arrMenu, timeDictionary[week][type])
-
-            object1 = Obj1.make_serial1(type, object2)
+            object1 = Obj1.make_serial1(type, arrMenu, timeDictionary[week][type])
             lst0.append(object1)
 
         object0 = Obj0.make_serial0(day, lst0)
