@@ -133,7 +133,7 @@ def api_test():
             object1 = Obj1.make_serial1(type, arrMenu, timeDictionary[week][type])
             lst0.append(object1)
         
-        missingTypes = list((listMenuType) - set(currMenuType))
+        missingTypes = list(set(listMenuType) - set(currMenuType))
         for missing in missingTypes:
             object1 = Obj1.make_serial1(missing, [], "")
         lst0.append(object1)
