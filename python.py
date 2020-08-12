@@ -95,6 +95,9 @@ def api_test():
     setMenu = set()
     arrMenu = []
     openTime = ""
+    #to find the missing menus types and set it to null
+    listMenuType = ["BREAKFAST", "LIGHT BREAKFAST", "LUNCH","LIGHT LUNCH", "DINNER"]
+    
 
     lst1 = []
     # loops through json
@@ -109,24 +112,31 @@ def api_test():
         week = wordList[0]
         day = int(word[-2:])
         typeFood = timeTypeFood["TypeFood"]
+        currMenuType = []
+        missingTypes = []
         for j in range(0, len(typeFood)):
             hashmap = {}
             setMenu = set()
             arrMenu = []
             typeTableStationMenu = typeFood[j]
             type = typeTableStationMenu["Type"]
+            currMenuType.append(type)
             menu = typeTableStationMenu["Menus"]
             for k in range(0, len(menu)):
                 menuObj = menu[k]
                 food = menuObj["Menu"]
                 setMenu.add(food)
-
+            
             # remove the duplicates
             arrMenu = list(setMenu)
 
             object1 = Obj1.make_serial1(type, arrMenu, timeDictionary[week][type])
             lst0.append(object1)
-
+        
+        missingTypes = list((listMenuType) - set(currMenuType))
+        for missing in missingTypes:
+            object1 = Obj1.make_serial1(missing, [], "")
+        lst0.append(object1)
         object0 = Obj0.make_serial0(day, lst0)
         lst1.append(object0)
     return lst1
