@@ -91,53 +91,53 @@ def api_test():
     
     timeDictionary1 = {
         "Monday": {
-            "BREAKFAST": [7.25, 9],
-            "LIGHT BREAKFAST": [],
-            "LUNCH": [11.5, 13],
-            "LIGHT LUNCH": [],
-            "DINNER": [17.5, 19]
+            "BREAKFAST": [7.25, 9.0],
+            "LIGHT BREAKFAST": [0.0, 0.0],
+            "LUNCH": [11.5, 13.0],
+            "LIGHT LUNCH": [0.0, 0.0],
+            "DINNER": [17.5, 19.0]
         },
         "Tuesday": {
-            "BREAKFAST": [7.25, 9],
-            "LIGHT BREAKFAST": [],
-            "LUNCH": [11.5, 13],
-            "LIGHT LUNCH": [],
-            "DINNER": [17.5, 19]
+            "BREAKFAST": [7.25, 9.0],
+            "LIGHT BREAKFAST": [0.0, 0.0],
+            "LUNCH": [11.5, 13.0],
+            "LIGHT LUNCH": [0.0, 0.0],
+            "DINNER": [17.5, 19.0]
         },
         "Wednesday": {
-            "BREAKFAST": [7.25, 9],
-            "LIGHT BREAKFAST": [],
-            "LUNCH": [11.5, 13],
-            "LIGHT LUNCH": [],
-            "DINNER": [17.5, 19]
+            "BREAKFAST": [7.25, 9.0],
+            "LIGHT BREAKFAST": [0.0, 0.0],
+            "LUNCH": [11.5, 13.0],
+            "LIGHT LUNCH": [0.0, 0.0],
+            "DINNER": [17.5, 19.0]
         },
         "Thursday": {
-            "BREAKFAST": [7.25, 9],
-            "LIGHT BREAKFAST": [],
-            "LUNCH": [11.5, 13],
-            "LIGHT LUNCH": [],
-            "DINNER": [17.5, 19]
+            "BREAKFAST": [7.25, 9.0],
+            "LIGHT BREAKFAST": [0.0, 0.0],
+            "LUNCH": [11.5, 13.0],
+            "LIGHT LUNCH": [0.0, 0.0],
+            "DINNER": [17.5, 19.0]
         },
         "Friday": {
-            "BREAKFAST": [7.25, 9],
-            "LIGHT BREAKFAST": [],
-            "LUNCH": [11.5, 13],
-            "LIGHT LUNCH": [],
-            "DINNER": [17.5, 19]
+            "BREAKFAST": [7.25, 9.0],
+            "LIGHT BREAKFAST": [0.0, 0.0],
+            "LUNCH": [11.5, 13.0],
+            "LIGHT LUNCH": [0.0, 0.0],
+            "DINNER": [17.5, 19.0]
         },
         "Saturday": {
-           "BREAKFAST": [7.25, 9],
-           "LIGHT BREAKFAST": [],
-            "LUNCH": [11.5, 13],
-            "LIGHT LUNCH": [],
-            "DINNER": [17.5, 19]
+           "BREAKFAST": [7.25, 9.0],
+           "LIGHT BREAKFAST": [0.0, 0.0],
+            "LUNCH": [11.5, 13.0],
+            "LIGHT LUNCH": [0.0, 0.0],
+            "DINNER": [17.5, 19.0]
         },
         "Sunday": {
-            "BREAKFAST": [],
-            "LIGHT BREAKFAST": [],
-            "LUNCH": [11.5, 13],
-            "LIGHT LUNCH": [],
-            "DINNER": [17.5, 19],
+            "BREAKFAST": [0.0, 0.0],
+            "LIGHT BREAKFAST": [0.0, 0.0],
+            "LUNCH": [11.5, 13.0],
+            "LIGHT LUNCH": [0.0, 0.0],
+            "DINNER": [17.5, 19.0],
         },
     }
 
