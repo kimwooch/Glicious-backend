@@ -1,1889 +1,8 @@
 {
  "Date": [
   {
-   "Time": "Saturday, August 15, 2020",
-   "TypeFood": [
-    {
-     "Type": "LUNCH",
-     "Table": [
-      {
-       "all_menu": "PLAT DU JOUR"
-      },
-      {
-       "all_menu": "Chicken Khao Soi"
-      },
-      {
-       "all_menu": "(9 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Basmati Rice (V)"
-      },
-      {
-       "all_menu": "(3 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Sugar Snap Peas (V)"
-      },
-      {
-       "all_menu": "(3 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "VEGAN SPECIAL"
-      },
-      {
-       "all_menu": "Pita (V)"
-      },
-      {
-       "all_menu": "(Pita Wrap)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Roasted Red Pepper Hummus (V)"
-      },
-      {
-       "all_menu": "(2 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Smokey Carrot Hummus (V)"
-      },
-      {
-       "all_menu": "(2 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Edamame Hummus (V)"
-      },
-      {
-       "all_menu": "(2 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Steamed White Rice (V)"
-      },
-      {
-       "all_menu": "(3 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Sugar Snap Peas (V)"
-      },
-      {
-       "all_menu": "(3 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "DESSERTS"
-      },
-      {
-       "all_menu": "Peanut Butter Cornflake Bars (V)"
-      },
-      {
-       "all_menu": "(1 Piece)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Cinnamon Toast Crunch Cookies (OL)"
-      },
-      {
-       "all_menu": "(1 Cookie)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      }
-     ],
-     "Stations": [
-      {
-       "station": "PLAT DU JOUR"
-      },
-      {
-       "station": "VEGAN SPECIAL"
-      },
-      {
-       "station": "DESSERTS"
-      }
-     ],
-     "Menus": [
-      {
-       "Menu": "Chicken Khao Soi"
-      },
-      {
-       "Menu": "Basmati Rice (V)"
-      },
-      {
-       "Menu": "Sugar Snap Peas (V)"
-      },
-      {
-       "Menu": "Pita (V)"
-      },
-      {
-       "Menu": "Roasted Red Pepper Hummus (V)"
-      },
-      {
-       "Menu": "Smokey Carrot Hummus (V)"
-      },
-      {
-       "Menu": "Edamame Hummus (V)"
-      },
-      {
-       "Menu": "Steamed White Rice (V)"
-      },
-      {
-       "Menu": "Sugar Snap Peas (V)"
-      },
-      {
-       "Menu": "Peanut Butter Cornflake Bars (V)"
-      },
-      {
-       "Menu": "Cinnamon Toast Crunch Cookies (OL)"
-      }
-     ]
-    },
-    {
-     "Type": "DINNER",
-     "Table": [
-      {
-       "all_menu": "PLAT DU JOUR"
-      },
-      {
-       "all_menu": "Chicken Piccata"
-      },
-      {
-       "all_menu": "(4 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Orzo w/Feta, Tomatoes & Dill (OL)"
-      },
-      {
-       "all_menu": "(4 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Glazed Baby Carrots (V)"
-      },
-      {
-       "all_menu": "(4 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "VEGAN SPECIAL"
-      },
-      {
-       "all_menu": "Carrot Rice Nut Burger w/Cashews (V)"
-      },
-      {
-       "all_menu": "(1 Burger)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Steamed White Rice (V)"
-      },
-      {
-       "all_menu": "(3 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Glazed Baby Carrots (V)"
-      },
-      {
-       "all_menu": "(4 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "DESSERTS"
-      },
-      {
-       "all_menu": "Fruit Cup"
-      },
-      {
-       "all_menu": "(7 Oz)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Peanut Butter Cornflake Bars (V)"
-      },
-      {
-       "all_menu": "(1 Piece)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Devils Food Cake with Ganache (OL)"
-      },
-      {
-       "all_menu": "(1 Piece)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      }
-     ],
-     "Stations": [
-      {
-       "station": "PLAT DU JOUR"
-      },
-      {
-       "station": "VEGAN SPECIAL"
-      },
-      {
-       "station": "DESSERTS"
-      }
-     ],
-     "Menus": [
-      {
-       "Menu": "Chicken Piccata"
-      },
-      {
-       "Menu": "Orzo w/Feta, Tomatoes & Dill (OL)"
-      },
-      {
-       "Menu": "Glazed Baby Carrots (V)"
-      },
-      {
-       "Menu": "Carrot Rice Nut Burger w/Cashews (V)"
-      },
-      {
-       "Menu": "Steamed White Rice (V)"
-      },
-      {
-       "Menu": "Glazed Baby Carrots (V)"
-      },
-      {
-       "Menu": "Fruit Cup"
-      },
-      {
-       "Menu": "Peanut Butter Cornflake Bars (V)"
-      },
-      {
-       "Menu": "Devils Food Cake with Ganache (OL)"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "Time": "Sunday, August 16, 2020",
-   "TypeFood": [
-    {
-     "Type": "LUNCH",
-     "Table": [
-      {
-       "all_menu": "PLAT DU JOUR"
-      },
-      {
-       "all_menu": "Chicken & Dumpling Soup"
-      },
-      {
-       "all_menu": "(4 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Toasted-Roasted Turkey Sandwich"
-      },
-      {
-       "all_menu": "(Sandwich)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Jalapeno & Cornmeal Crackers (OL)"
-      },
-      {
-       "all_menu": "Cracker"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Fruit Cup"
-      },
-      {
-       "all_menu": "(7 Oz)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "VEGAN SPECIAL"
-      },
-      {
-       "all_menu": "Homemade Mediterranean Soup (V)"
-      },
-      {
-       "all_menu": "(4 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Grilled Vegetable Club Sandwich (V)"
-      },
-      {
-       "all_menu": "Sandwich"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Chip Potato Lays Individual"
-      },
-      {
-       "all_menu": "Bag"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Fruit Cup"
-      },
-      {
-       "all_menu": "(7 Oz)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "GLUTEN FREE"
-      },
-      {
-       "all_menu": "Homemade Mediterranean Soup (V)"
-      },
-      {
-       "all_menu": "(4 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Cuban Sandwiches"
-      },
-      {
-       "all_menu": "Sandwich"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Chip Potato Lays Individual"
-      },
-      {
-       "all_menu": "Bag"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Apples Granny Smith"
-      },
-      {
-       "all_menu": "(Granny Smith Apple)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "HALAL"
-      },
-      {
-       "all_menu": "Homemade Mediterranean Soup (V)"
-      },
-      {
-       "all_menu": "(4 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Grilled Vegetable Club Sandwich (V)"
-      },
-      {
-       "all_menu": "Sandwich"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Chip Potato Lays Individual"
-      },
-      {
-       "all_menu": "Bag"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Apples Granny Smith"
-      },
-      {
-       "all_menu": "(Granny Smith Apple)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "DESSERTS"
-      },
-      {
-       "all_menu": "Banana Bar with Vanilla Frosting (OL)"
-      },
-      {
-       "all_menu": "(1 Piece)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Chocolate Chip Cookies (V)"
-      },
-      {
-       "all_menu": "(1 Cookie)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      }
-     ],
-     "Stations": [
-      {
-       "station": "PLAT DU JOUR"
-      },
-      {
-       "station": "VEGAN SPECIAL"
-      },
-      {
-       "station": "GLUTEN FREE"
-      },
-      {
-       "station": "HALAL"
-      },
-      {
-       "station": "DESSERTS"
-      }
-     ],
-     "Menus": [
-      {
-       "Menu": "Chicken & Dumpling Soup"
-      },
-      {
-       "Menu": "Toasted-Roasted Turkey Sandwich"
-      },
-      {
-       "Menu": "Jalapeno & Cornmeal Crackers (OL)"
-      },
-      {
-       "Menu": "Fruit Cup"
-      },
-      {
-       "Menu": "Homemade Mediterranean Soup (V)"
-      },
-      {
-       "Menu": "Grilled Vegetable Club Sandwich (V)"
-      },
-      {
-       "Menu": "Chip Potato Lays Individual"
-      },
-      {
-       "Menu": "Fruit Cup"
-      },
-      {
-       "Menu": "Homemade Mediterranean Soup (V)"
-      },
-      {
-       "Menu": "Cuban Sandwiches"
-      },
-      {
-       "Menu": "Chip Potato Lays Individual"
-      },
-      {
-       "Menu": "Apples Granny Smith"
-      },
-      {
-       "Menu": "Homemade Mediterranean Soup (V)"
-      },
-      {
-       "Menu": "Grilled Vegetable Club Sandwich (V)"
-      },
-      {
-       "Menu": "Chip Potato Lays Individual"
-      },
-      {
-       "Menu": "Apples Granny Smith"
-      },
-      {
-       "Menu": "Banana Bar with Vanilla Frosting (OL)"
-      },
-      {
-       "Menu": "Chocolate Chip Cookies (V)"
-      }
-     ]
-    },
-    {
-     "Type": "LIGHT LUNCH",
-     "Table": [
-      {
-       "all_menu": "PLAT DU JOUR"
-      },
-      {
-       "all_menu": "Chicken Caesar Salad To Go"
-      },
-      {
-       "all_menu": "(Salad)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Chip Potato Lays Individual"
-      },
-      {
-       "all_menu": "Bag"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Fruit Cup"
-      },
-      {
-       "all_menu": "(7 Oz)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "VEGAN SPECIAL"
-      },
-      {
-       "all_menu": "Roasted Vegetable Salad To Go"
-      },
-      {
-       "all_menu": "(4 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Chip Potato Lays Individual"
-      },
-      {
-       "all_menu": "Bag"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Fruit Cup"
-      },
-      {
-       "all_menu": "(7 Oz)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "DESSERTS"
-      },
-      {
-       "all_menu": "Chocolate Chip Cookies (V)"
-      },
-      {
-       "all_menu": "(1 Cookie)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      }
-     ],
-     "Stations": [
-      {
-       "station": "PLAT DU JOUR"
-      },
-      {
-       "station": "VEGAN SPECIAL"
-      },
-      {
-       "station": "DESSERTS"
-      }
-     ],
-     "Menus": [
-      {
-       "Menu": "Chicken Caesar Salad To Go"
-      },
-      {
-       "Menu": "Chip Potato Lays Individual"
-      },
-      {
-       "Menu": "Fruit Cup"
-      },
-      {
-       "Menu": "Roasted Vegetable Salad To Go"
-      },
-      {
-       "Menu": "Chip Potato Lays Individual"
-      },
-      {
-       "Menu": "Fruit Cup"
-      },
-      {
-       "Menu": "Chocolate Chip Cookies (V)"
-      }
-     ]
-    },
-    {
-     "Type": "DINNER",
-     "Table": [
-      {
-       "all_menu": "PLAT DU JOUR"
-      },
-      {
-       "all_menu": "Beef Meat Loaf"
-      },
-      {
-       "all_menu": "(1 Piece)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Mashed Potatoes (OL)"
-      },
-      {
-       "all_menu": "(4 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Beef Gravy"
-      },
-      {
-       "all_menu": "(2 Oz Ladle)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Roasted Baby Carrots (V)"
-      },
-      {
-       "all_menu": "(3 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "VEGAN SPECIAL"
-      },
-      {
-       "all_menu": "Tofu Tikka Masala (V)"
-      },
-      {
-       "all_menu": "(7 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Jasmine Rice (V)"
-      },
-      {
-       "all_menu": "(3 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Roasted Baby Carrots (V)"
-      },
-      {
-       "all_menu": "(3 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "GLUTEN FREE"
-      },
-      {
-       "all_menu": "Beef Meat Loaf"
-      },
-      {
-       "all_menu": "(1 Piece)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Mashed Potatoes (OL)"
-      },
-      {
-       "all_menu": "(4 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Roasted Baby Carrots (V)"
-      },
-      {
-       "all_menu": "(3 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "HALAL"
-      },
-      {
-       "all_menu": "Meat Loaf"
-      },
-      {
-       "all_menu": "(1 Piece)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Mashed Potatoes (OL)"
-      },
-      {
-       "all_menu": "(4 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Roasted Baby Carrots (V)"
-      },
-      {
-       "all_menu": "(3 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "BREADS"
-      },
-      {
-       "all_menu": "Multi Grain Boule (V)"
-      },
-      {
-       "all_menu": "(Slice)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "DESSERTS"
-      },
-      {
-       "all_menu": "Bars Pumpkin Cheesecake (OL)"
-      },
-      {
-       "all_menu": "(1 Bar)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Chocolate Chip Cookies (V)"
-      },
-      {
-       "all_menu": "(1 Cookie)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      }
-     ],
-     "Stations": [
-      {
-       "station": "PLAT DU JOUR"
-      },
-      {
-       "station": "VEGAN SPECIAL"
-      },
-      {
-       "station": "GLUTEN FREE"
-      },
-      {
-       "station": "HALAL"
-      },
-      {
-       "station": "BREADS"
-      },
-      {
-       "station": "DESSERTS"
-      }
-     ],
-     "Menus": [
-      {
-       "Menu": "Beef Meat Loaf"
-      },
-      {
-       "Menu": "Mashed Potatoes (OL)"
-      },
-      {
-       "Menu": "Beef Gravy"
-      },
-      {
-       "Menu": "Roasted Baby Carrots (V)"
-      },
-      {
-       "Menu": "Tofu Tikka Masala (V)"
-      },
-      {
-       "Menu": "Jasmine Rice (V)"
-      },
-      {
-       "Menu": "Roasted Baby Carrots (V)"
-      },
-      {
-       "Menu": "Beef Meat Loaf"
-      },
-      {
-       "Menu": "Mashed Potatoes (OL)"
-      },
-      {
-       "Menu": "Roasted Baby Carrots (V)"
-      },
-      {
-       "Menu": "Meat Loaf"
-      },
-      {
-       "Menu": "Mashed Potatoes (OL)"
-      },
-      {
-       "Menu": "Roasted Baby Carrots (V)"
-      },
-      {
-       "Menu": "Multi Grain Boule (V)"
-      },
-      {
-       "Menu": "Bars Pumpkin Cheesecake (OL)"
-      },
-      {
-       "Menu": "Chocolate Chip Cookies (V)"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "Time": "Monday, August 17, 2020",
-   "TypeFood": [
-    {
-     "Type": "BREAKFAST",
-     "Table": [
-      {
-       "all_menu": "BREAKFAST PASTRY"
-      },
-      {
-       "all_menu": "Apple Butter Cinnamon Muffins (V)"
-      },
-      {
-       "all_menu": "(1 Muffin)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "PLAT DU JOUR"
-      },
-      {
-       "all_menu": "Scrambled Eggs (OL)"
-      },
-      {
-       "all_menu": "(2.66 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Batter Dipped Texas Toast (OL)"
-      },
-      {
-       "all_menu": "(1 Slice)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Maple Syrup (V)"
-      },
-      {
-       "all_menu": "(1 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Bacon Strips"
-      },
-      {
-       "all_menu": "(4 Strips)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Potatoes O'Brien (V)"
-      },
-      {
-       "all_menu": "(4 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "VEGAN SPECIAL"
-      },
-      {
-       "all_menu": "Banana Marketplace"
-      },
-      {
-       "all_menu": "Banana"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Potatoes O'Brien (V)"
-      },
-      {
-       "all_menu": "(4 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Maple Syrup (V)"
-      },
-      {
-       "all_menu": "(1 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "GLUTEN FREE"
-      },
-      {
-       "all_menu": "Scrambled Eggs (OL)"
-      },
-      {
-       "all_menu": "(2.66 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Bacon Strips"
-      },
-      {
-       "all_menu": "(4 Strips)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Potatoes O'Brien (V)"
-      },
-      {
-       "all_menu": "(4 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      }
-     ],
-     "Stations": [
-      {
-       "station": "BREAKFAST PASTRY"
-      },
-      {
-       "station": "PLAT DU JOUR"
-      },
-      {
-       "station": "VEGAN SPECIAL"
-      },
-      {
-       "station": "GLUTEN FREE"
-      }
-     ],
-     "Menus": [
-      {
-       "Menu": "Apple Butter Cinnamon Muffins (V)"
-      },
-      {
-       "Menu": "Scrambled Eggs (OL)"
-      },
-      {
-       "Menu": "Batter Dipped Texas Toast (OL)"
-      },
-      {
-       "Menu": "Maple Syrup (V)"
-      },
-      {
-       "Menu": "Bacon Strips"
-      },
-      {
-       "Menu": "Potatoes O'Brien (V)"
-      },
-      {
-       "Menu": "Banana Marketplace"
-      },
-      {
-       "Menu": "Potatoes O'Brien (V)"
-      },
-      {
-       "Menu": "Maple Syrup (V)"
-      },
-      {
-       "Menu": "Scrambled Eggs (OL)"
-      },
-      {
-       "Menu": "Bacon Strips"
-      },
-      {
-       "Menu": "Potatoes O'Brien (V)"
-      }
-     ]
-    },
-    {
-     "Type": "LIGHT BREAKFAST",
-     "Table": [
-      {
-       "all_menu": "BREAKFAST PASTRY"
-      },
-      {
-       "all_menu": "Apple Butter Cinnamon Muffins (V)"
-      },
-      {
-       "all_menu": "(1 Muffin)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "PLAT DU JOUR"
-      },
-      {
-       "all_menu": "Cereal Toasted Oats To Go"
-      },
-      {
-       "all_menu": "(9 Oz Serving)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Assorted Yogurts (OL)"
-      },
-      {
-       "all_menu": "Yogurt Cup/6 Oz"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Orange Fresh"
-      },
-      {
-       "all_menu": "(Orange)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      }
-     ],
-     "Stations": [
-      {
-       "station": "BREAKFAST PASTRY"
-      },
-      {
-       "station": "PLAT DU JOUR"
-      }
-     ],
-     "Menus": [
-      {
-       "Menu": "Apple Butter Cinnamon Muffins (V)"
-      },
-      {
-       "Menu": "Cereal Toasted Oats To Go"
-      },
-      {
-       "Menu": "Assorted Yogurts (OL)"
-      },
-      {
-       "Menu": "Orange Fresh"
-      }
-     ]
-    },
-    {
-     "Type": "LUNCH",
-     "Table": [
-      {
-       "all_menu": "PLAT DU JOUR"
-      },
-      {
-       "all_menu": "Meatballs in Tomato Sauce"
-      },
-      {
-       "all_menu": "(3 Meatball w/Sauce)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Fresh Mushroom Risotto (OL)"
-      },
-      {
-       "all_menu": "(4 Oz. Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Zucchini, Squash and Red Pepper (V)"
-      },
-      {
-       "all_menu": "(3 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "VEGAN SPECIAL"
-      },
-      {
-       "all_menu": "Spicy BBQ Chickpea Burgers (V)"
-      },
-      {
-       "all_menu": "(Sandwich)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Red Quinoa (V)"
-      },
-      {
-       "all_menu": "(2 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Zucchini, Squash and Red Pepper (V)"
-      },
-      {
-       "all_menu": "(3 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "GLUTEN FREE"
-      },
-      {
-       "all_menu": "Curried Chickpea Burger (OL)"
-      },
-      {
-       "all_menu": "Sandwich"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Red Quinoa (V)"
-      },
-      {
-       "all_menu": "(2 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Zucchini, Squash and Red Pepper (V)"
-      },
-      {
-       "all_menu": "(3 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "HALAL"
-      },
-      {
-       "all_menu": "Curried Chickpea Burger (OL)"
-      },
-      {
-       "all_menu": "Sandwich"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Red Quinoa (V)"
-      },
-      {
-       "all_menu": "(2 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Zucchini, Squash and Red Pepper (V)"
-      },
-      {
-       "all_menu": "(3 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "DESSERTS"
-      },
-      {
-       "all_menu": "Butterscotch Oatmeal Rice Krispie Cookie"
-      },
-      {
-       "all_menu": "Cookie"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Lemon Bars (V)"
-      },
-      {
-       "all_menu": "(1 Piece)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      }
-     ],
-     "Stations": [
-      {
-       "station": "PLAT DU JOUR"
-      },
-      {
-       "station": "VEGAN SPECIAL"
-      },
-      {
-       "station": "GLUTEN FREE"
-      },
-      {
-       "station": "HALAL"
-      },
-      {
-       "station": "DESSERTS"
-      }
-     ],
-     "Menus": [
-      {
-       "Menu": "Meatballs in Tomato Sauce"
-      },
-      {
-       "Menu": "Fresh Mushroom Risotto (OL)"
-      },
-      {
-       "Menu": "Zucchini, Squash and Red Pepper (V)"
-      },
-      {
-       "Menu": "Spicy BBQ Chickpea Burgers (V)"
-      },
-      {
-       "Menu": "Red Quinoa (V)"
-      },
-      {
-       "Menu": "Zucchini, Squash and Red Pepper (V)"
-      },
-      {
-       "Menu": "Curried Chickpea Burger (OL)"
-      },
-      {
-       "Menu": "Red Quinoa (V)"
-      },
-      {
-       "Menu": "Zucchini, Squash and Red Pepper (V)"
-      },
-      {
-       "Menu": "Curried Chickpea Burger (OL)"
-      },
-      {
-       "Menu": "Red Quinoa (V)"
-      },
-      {
-       "Menu": "Zucchini, Squash and Red Pepper (V)"
-      },
-      {
-       "Menu": "Butterscotch Oatmeal Rice Krispie Cookie"
-      },
-      {
-       "Menu": "Lemon Bars (V)"
-      }
-     ]
-    },
-    {
-     "Type": "LIGHT LUNCH",
-     "Table": [
-      {
-       "all_menu": "PLAT DU JOUR"
-      },
-      {
-       "all_menu": "Deluxe Beef Sandwich To Go"
-      },
-      {
-       "all_menu": "Sandwich"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Salad Barley w/ Corn And Peppers To Go"
-      },
-      {
-       "all_menu": "4 oz servings"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Orange Fresh"
-      },
-      {
-       "all_menu": "(Orange)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "VEGAN SPECIAL"
-      },
-      {
-       "all_menu": "Vegetable & Portobello Wrap To Go"
-      },
-      {
-       "all_menu": "Wrap"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Salad Barley w/ Corn And Peppers To Go"
-      },
-      {
-       "all_menu": "4 oz servings"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Orange Fresh"
-      },
-      {
-       "all_menu": "(Orange)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "DESSERTS"
-      },
-      {
-       "all_menu": "Lemon Bars (V)"
-      },
-      {
-       "all_menu": "(1 Piece)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      }
-     ],
-     "Stations": [
-      {
-       "station": "PLAT DU JOUR"
-      },
-      {
-       "station": "VEGAN SPECIAL"
-      },
-      {
-       "station": "DESSERTS"
-      }
-     ],
-     "Menus": [
-      {
-       "Menu": "Deluxe Beef Sandwich To Go"
-      },
-      {
-       "Menu": "Salad Barley w/ Corn And Peppers To Go"
-      },
-      {
-       "Menu": "Orange Fresh"
-      },
-      {
-       "Menu": "Vegetable & Portobello Wrap To Go"
-      },
-      {
-       "Menu": "Salad Barley w/ Corn And Peppers To Go"
-      },
-      {
-       "Menu": "Orange Fresh"
-      },
-      {
-       "Menu": "Lemon Bars (V)"
-      }
-     ]
-    },
-    {
-     "Type": "DINNER",
-     "Table": [
-      {
-       "all_menu": "PLAT DU JOUR"
-      },
-      {
-       "all_menu": "Sausage & Mushroom Brick Oven Pizza"
-      },
-      {
-       "all_menu": "(Slice)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Tossed Salad"
-      },
-      {
-       "all_menu": "Salad"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Fruit Cup"
-      },
-      {
-       "all_menu": "(7 Oz)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "VEGAN SPECIAL"
-      },
-      {
-       "all_menu": "Vegan Eggplant Pizza (V)"
-      },
-      {
-       "all_menu": "(Slice)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Tossed Salad (V)"
-      },
-      {
-       "all_menu": "Salad"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Fruit Cup"
-      },
-      {
-       "all_menu": "(7 Oz)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "GLUTEN FREE"
-      },
-      {
-       "all_menu": "Goat Cheese & BBQ Chicken Pizza"
-      },
-      {
-       "all_menu": "(Slice)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Tossed Salad"
-      },
-      {
-       "all_menu": "Salad"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Fruit Cup"
-      },
-      {
-       "all_menu": "(7 Oz)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "HALAL"
-      },
-      {
-       "all_menu": "Pizza Barbecued Chicken (H)"
-      },
-      {
-       "all_menu": "1 Slice"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Tossed Salad (V)"
-      },
-      {
-       "all_menu": "Salad"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Fruit Cup"
-      },
-      {
-       "all_menu": "(7 Oz)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "DESSERTS"
-      },
-      {
-       "all_menu": "Amaretto Crazy Cake (AL) (OL)"
-      },
-      {
-       "all_menu": "(Piece)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Lemon Bars (V)"
-      },
-      {
-       "all_menu": "(1 Piece)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      }
-     ],
-     "Stations": [
-      {
-       "station": "PLAT DU JOUR"
-      },
-      {
-       "station": "VEGAN SPECIAL"
-      },
-      {
-       "station": "GLUTEN FREE"
-      },
-      {
-       "station": "HALAL"
-      },
-      {
-       "station": "DESSERTS"
-      }
-     ],
-     "Menus": [
-      {
-       "Menu": "Sausage & Mushroom Brick Oven Pizza"
-      },
-      {
-       "Menu": "Tossed Salad"
-      },
-      {
-       "Menu": "Fruit Cup"
-      },
-      {
-       "Menu": "Vegan Eggplant Pizza (V)"
-      },
-      {
-       "Menu": "Tossed Salad (V)"
-      },
-      {
-       "Menu": "Fruit Cup"
-      },
-      {
-       "Menu": "Goat Cheese & BBQ Chicken Pizza"
-      },
-      {
-       "Menu": "Tossed Salad"
-      },
-      {
-       "Menu": "Fruit Cup"
-      },
-      {
-       "Menu": "Pizza Barbecued Chicken (H)"
-      },
-      {
-       "Menu": "Tossed Salad (V)"
-      },
-      {
-       "Menu": "Fruit Cup"
-      },
-      {
-       "Menu": "Amaretto Crazy Cake (AL) (OL)"
-      },
-      {
-       "Menu": "Lemon Bars (V)"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "Time": "Tuesday, August 18, 2020",
    "TypeFood": [
-    {
-     "Type": "BREAKFAST",
-     "Table": [
-      {
-       "all_menu": "PLAT DU JOUR"
-      },
-      {
-       "all_menu": "Scrambled Eggs (OL)"
-      },
-      {
-       "all_menu": "(2.66 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Pork Sausage Gravy"
-      },
-      {
-       "all_menu": "(6.8 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Southern Style Biscuits"
-      },
-      {
-       "all_menu": "(1 Biscuit)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Savory Potato Wedges"
-      },
-      {
-       "all_menu": "(2.5 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Fruit Cup"
-      },
-      {
-       "all_menu": "(7 Oz)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "VEGAN SPECIAL"
-      },
-      {
-       "all_menu": "Potato Wedges"
-      },
-      {
-       "all_menu": "(4 Oz/2 Wedges)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Fruit Cup"
-      },
-      {
-       "all_menu": "(7 Oz)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "GLUTEN FREE"
-      },
-      {
-       "all_menu": "Scrambled Eggs (OL)"
-      },
-      {
-       "all_menu": "(2.66 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Pork Sausage"
-      },
-      {
-       "all_menu": "2 (1.5 Oz Patty)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Oven Fried Potato Wedges (V)"
-      },
-      {
-       "all_menu": "(4 Oz/2 Wedges)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      }
-     ],
-     "Stations": [
-      {
-       "station": "PLAT DU JOUR"
-      },
-      {
-       "station": "VEGAN SPECIAL"
-      },
-      {
-       "station": "GLUTEN FREE"
-      }
-     ],
-     "Menus": [
-      {
-       "Menu": "Scrambled Eggs (OL)"
-      },
-      {
-       "Menu": "Pork Sausage Gravy"
-      },
-      {
-       "Menu": "Southern Style Biscuits"
-      },
-      {
-       "Menu": "Savory Potato Wedges"
-      },
-      {
-       "Menu": "Fruit Cup"
-      },
-      {
-       "Menu": "Potato Wedges"
-      },
-      {
-       "Menu": "Fruit Cup"
-      },
-      {
-       "Menu": "Scrambled Eggs (OL)"
-      },
-      {
-       "Menu": "Pork Sausage"
-      },
-      {
-       "Menu": "Oven Fried Potato Wedges (V)"
-      }
-     ]
-    },
-    {
-     "Type": "LIGHT BREAKFAST",
-     "Table": [
-      {
-       "all_menu": "PLAT DU JOUR"
-      },
-      {
-       "all_menu": "Cereal Raisin Bran To Go"
-      },
-      {
-       "all_menu": "(9.5 Oz Serving)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Assorted Yogurts (OL)"
-      },
-      {
-       "all_menu": "Yogurt Cup/6 Oz"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Banana Marketplace"
-      },
-      {
-       "all_menu": "Banana"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      }
-     ],
-     "Stations": [
-      {
-       "station": "PLAT DU JOUR"
-      }
-     ],
-     "Menus": [
-      {
-       "Menu": "Cereal Raisin Bran To Go"
-      },
-      {
-       "Menu": "Assorted Yogurts (OL)"
-      },
-      {
-       "Menu": "Banana Marketplace"
-      }
-     ]
-    },
     {
      "Type": "LUNCH",
      "Table": [
@@ -2116,7 +235,7 @@
        "all_menu": "1\n2\n3\n4\n5"
       },
       {
-       "all_menu": "Banana Marketplace"
+       "all_menu": "Fresh Banana"
       },
       {
        "all_menu": "Banana"
@@ -2146,7 +265,7 @@
        "all_menu": "1\n2\n3\n4\n5"
       },
       {
-       "all_menu": "Banana Marketplace"
+       "all_menu": "Fresh Banana"
       },
       {
        "all_menu": "Banana"
@@ -2186,7 +305,7 @@
        "Menu": "Multigrain Sun Chip"
       },
       {
-       "Menu": "Banana Marketplace"
+       "Menu": "Fresh Banana"
       },
       {
        "Menu": "Salad w/Soy Dressing & Almonds V To Go"
@@ -2195,7 +314,7 @@
        "Menu": "Multigrain Sun Chip"
       },
       {
-       "Menu": "Banana Marketplace"
+       "Menu": "Fresh Banana"
       },
       {
        "Menu": "Vegan Almond Cookies (V)"
@@ -2432,246 +551,6 @@
   {
    "Time": "Wednesday, August 19, 2020",
    "TypeFood": [
-    {
-     "Type": "BREAKFAST",
-     "Table": [
-      {
-       "all_menu": "BREAKFAST PASTRY"
-      },
-      {
-       "all_menu": "Trail Mix Breakfast Cookie (V)"
-      },
-      {
-       "all_menu": "(2 Cookie)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "PLAT DU JOUR"
-      },
-      {
-       "all_menu": "Yogurt Parfait with Nuts (HOH)"
-      },
-      {
-       "all_menu": "(Yogurt Parfait)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Yogurt Parfait W/O Nuts (HOH)"
-      },
-      {
-       "all_menu": "(Yogurt Parfait)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Broccoli Quiche"
-      },
-      {
-       "all_menu": "(1 Slice)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Pork Sausage Links"
-      },
-      {
-       "all_menu": "(2 Link)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Potato Pancake (V)"
-      },
-      {
-       "all_menu": "(2 Oz Pancake)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "VEGAN SPECIAL"
-      },
-      {
-       "all_menu": "Tofu Scrambler (V)"
-      },
-      {
-       "all_menu": "(3/4 Cup)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Potato Pancake (V)"
-      },
-      {
-       "all_menu": "(2 Oz Pancake)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Pears Fresh"
-      },
-      {
-       "all_menu": "(Pear)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "GLUTEN FREE"
-      },
-      {
-       "all_menu": "Scrambled Eggs (OL)"
-      },
-      {
-       "all_menu": "(2.66 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Pork Sausage Links"
-      },
-      {
-       "all_menu": "(2 Link)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Potato Pancake (V)"
-      },
-      {
-       "all_menu": "(2 Oz Pancake)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      }
-     ],
-     "Stations": [
-      {
-       "station": "BREAKFAST PASTRY"
-      },
-      {
-       "station": "PLAT DU JOUR"
-      },
-      {
-       "station": "VEGAN SPECIAL"
-      },
-      {
-       "station": "GLUTEN FREE"
-      }
-     ],
-     "Menus": [
-      {
-       "Menu": "Trail Mix Breakfast Cookie (V)"
-      },
-      {
-       "Menu": "Yogurt Parfait with Nuts (HOH)"
-      },
-      {
-       "Menu": "Yogurt Parfait W/O Nuts (HOH)"
-      },
-      {
-       "Menu": "Broccoli Quiche"
-      },
-      {
-       "Menu": "Pork Sausage Links"
-      },
-      {
-       "Menu": "Potato Pancake (V)"
-      },
-      {
-       "Menu": "Tofu Scrambler (V)"
-      },
-      {
-       "Menu": "Potato Pancake (V)"
-      },
-      {
-       "Menu": "Pears Fresh"
-      },
-      {
-       "Menu": "Scrambled Eggs (OL)"
-      },
-      {
-       "Menu": "Pork Sausage Links"
-      },
-      {
-       "Menu": "Potato Pancake (V)"
-      }
-     ]
-    },
-    {
-     "Type": "LIGHT BREAKFAST",
-     "Table": [
-      {
-       "all_menu": "PLAT DU JOUR"
-      },
-      {
-       "all_menu": "Trail Mix Breakfast Cookie (V)"
-      },
-      {
-       "all_menu": "(2 Cookie)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Assorted Yogurts (OL)"
-      },
-      {
-       "all_menu": "Yogurt Cup/6 Oz"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Cereal Frosted Flakes To Go"
-      },
-      {
-       "all_menu": "(9.2 Oz Serving)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Pears Fresh"
-      },
-      {
-       "all_menu": "(Pear)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      }
-     ],
-     "Stations": [
-      {
-       "station": "PLAT DU JOUR"
-      }
-     ],
-     "Menus": [
-      {
-       "Menu": "Trail Mix Breakfast Cookie (V)"
-      },
-      {
-       "Menu": "Assorted Yogurts (OL)"
-      },
-      {
-       "Menu": "Cereal Frosted Flakes To Go"
-      },
-      {
-       "Menu": "Pears Fresh"
-      }
-     ]
-    },
     {
      "Type": "LUNCH",
      "Table": [
@@ -3317,270 +1196,6 @@
    "Time": "Thursday, August 20, 2020",
    "TypeFood": [
     {
-     "Type": "BREAKFAST",
-     "Table": [
-      {
-       "all_menu": "BREAKFAST PASTRY"
-      },
-      {
-       "all_menu": "Vegan Banana Muffin (V)"
-      },
-      {
-       "all_menu": "(Muffin)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "PLAT DU JOUR"
-      },
-      {
-       "all_menu": "Scrambled Eggs (OL)"
-      },
-      {
-       "all_menu": "(2.66 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Whole Wheat Honey Buttermilk Pancakes"
-      },
-      {
-       "all_menu": "(1 Pancake)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Maple Syrup (V)"
-      },
-      {
-       "all_menu": "(1 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Breakfast Chicken Sausage Patty"
-      },
-      {
-       "all_menu": "2 (1.5 Oz Patty)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "VEGAN SPECIAL"
-      },
-      {
-       "all_menu": "Oatmeal (V)"
-      },
-      {
-       "all_menu": "(6 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Dried Cherries (V)"
-      },
-      {
-       "all_menu": "(1 Tablespoon)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Walnuts (V)"
-      },
-      {
-       "all_menu": "(1 Oz)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Blueberries (V)"
-      },
-      {
-       "all_menu": "(1/4 Cup)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Maple Syrup (V)"
-      },
-      {
-       "all_menu": "(1 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "GLUTEN FREE"
-      },
-      {
-       "all_menu": "Scrambled Eggs (OL)"
-      },
-      {
-       "all_menu": "(2.66 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Pancakes (OL)"
-      },
-      {
-       "all_menu": "(Pancake)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Maple Syrup (V)"
-      },
-      {
-       "all_menu": "(1 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Breakfast Chicken Sausage Patty"
-      },
-      {
-       "all_menu": "2 (1.5 Oz Patty)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      }
-     ],
-     "Stations": [
-      {
-       "station": "BREAKFAST PASTRY"
-      },
-      {
-       "station": "PLAT DU JOUR"
-      },
-      {
-       "station": "VEGAN SPECIAL"
-      },
-      {
-       "station": "GLUTEN FREE"
-      }
-     ],
-     "Menus": [
-      {
-       "Menu": "Vegan Banana Muffin (V)"
-      },
-      {
-       "Menu": "Scrambled Eggs (OL)"
-      },
-      {
-       "Menu": "Whole Wheat Honey Buttermilk Pancakes"
-      },
-      {
-       "Menu": "Maple Syrup (V)"
-      },
-      {
-       "Menu": "Breakfast Chicken Sausage Patty"
-      },
-      {
-       "Menu": "Oatmeal (V)"
-      },
-      {
-       "Menu": "Dried Cherries (V)"
-      },
-      {
-       "Menu": "Walnuts (V)"
-      },
-      {
-       "Menu": "Blueberries (V)"
-      },
-      {
-       "Menu": "Maple Syrup (V)"
-      },
-      {
-       "Menu": "Scrambled Eggs (OL)"
-      },
-      {
-       "Menu": "Pancakes (OL)"
-      },
-      {
-       "Menu": "Maple Syrup (V)"
-      },
-      {
-       "Menu": "Breakfast Chicken Sausage Patty"
-      }
-     ]
-    },
-    {
-     "Type": "LIGHT BREAKFAST",
-     "Table": [
-      {
-       "all_menu": "PLAT DU JOUR"
-      },
-      {
-       "all_menu": "Vegan Banana Muffin (V)"
-      },
-      {
-       "all_menu": "(Muffin)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Cereal Toasted Oats To Go"
-      },
-      {
-       "all_menu": "(9 Oz Serving)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Assorted Yogurts (OL)"
-      },
-      {
-       "all_menu": "Yogurt Cup/6 Oz"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Orange Fresh"
-      },
-      {
-       "all_menu": "(Orange)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      }
-     ],
-     "Stations": [
-      {
-       "station": "PLAT DU JOUR"
-      }
-     ],
-     "Menus": [
-      {
-       "Menu": "Vegan Banana Muffin (V)"
-      },
-      {
-       "Menu": "Cereal Toasted Oats To Go"
-      },
-      {
-       "Menu": "Assorted Yogurts (OL)"
-      },
-      {
-       "Menu": "Orange Fresh"
-      }
-     ]
-    },
-    {
      "Type": "LUNCH",
      "Table": [
       {
@@ -3812,7 +1427,7 @@
        "all_menu": "1\n2\n3\n4\n5"
       },
       {
-       "all_menu": "Orange Fresh"
+       "all_menu": "Fresh Orange"
       },
       {
        "all_menu": "(Orange)"
@@ -3851,7 +1466,7 @@
        "all_menu": "1\n2\n3\n4\n5"
       },
       {
-       "all_menu": "Orange Fresh"
+       "all_menu": "Fresh Orange"
       },
       {
        "all_menu": "(Orange)"
@@ -3885,7 +1500,7 @@
        "Menu": "Chips Sea Salt Kettle"
       },
       {
-       "Menu": "Orange Fresh"
+       "Menu": "Fresh Orange"
       },
       {
        "Menu": "Chocolate Mint Brownies (V)"
@@ -3897,7 +1512,7 @@
        "Menu": "Chips Sea Salt Kettle"
       },
       {
-       "Menu": "Orange Fresh"
+       "Menu": "Fresh Orange"
       },
       {
        "Menu": "Chocolate Mint Brownies (V)"
@@ -4176,222 +1791,6 @@
   {
    "Time": "Friday, August 21, 2020",
    "TypeFood": [
-    {
-     "Type": "BREAKFAST",
-     "Table": [
-      {
-       "all_menu": "BREAKFAST PASTRY"
-      },
-      {
-       "all_menu": "Apple Turnover (V)"
-      },
-      {
-       "all_menu": "(1 Turnover)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "PLAT DU JOUR"
-      },
-      {
-       "all_menu": "Scrambled Eggs (OL)"
-      },
-      {
-       "all_menu": "(2.66 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Guacamole Bacon & Egg Breakfast Sandwich"
-      },
-      {
-       "all_menu": "(Sandwich)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Rosemary Herb Potatoes (V)"
-      },
-      {
-       "all_menu": "(4 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "VEGAN SPECIAL"
-      },
-      {
-       "all_menu": "Vegan Breakfast Biscuit (V)"
-      },
-      {
-       "all_menu": "Sandwich"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Rosemary Herb Potatoes (V)"
-      },
-      {
-       "all_menu": "(4 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Orange Fresh"
-      },
-      {
-       "all_menu": "(Orange)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "GLUTEN FREE"
-      },
-      {
-       "all_menu": "Scrambled Eggs (OL)"
-      },
-      {
-       "all_menu": "(2.66 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Guacamole Bacon & Egg Sandwich (GF)"
-      },
-      {
-       "all_menu": "(Sandwich)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Rosemary Herb Potatoes (V)"
-      },
-      {
-       "all_menu": "(4 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      }
-     ],
-     "Stations": [
-      {
-       "station": "BREAKFAST PASTRY"
-      },
-      {
-       "station": "PLAT DU JOUR"
-      },
-      {
-       "station": "VEGAN SPECIAL"
-      },
-      {
-       "station": "GLUTEN FREE"
-      }
-     ],
-     "Menus": [
-      {
-       "Menu": "Apple Turnover (V)"
-      },
-      {
-       "Menu": "Scrambled Eggs (OL)"
-      },
-      {
-       "Menu": "Guacamole Bacon & Egg Breakfast Sandwich"
-      },
-      {
-       "Menu": "Rosemary Herb Potatoes (V)"
-      },
-      {
-       "Menu": "Vegan Breakfast Biscuit (V)"
-      },
-      {
-       "Menu": "Rosemary Herb Potatoes (V)"
-      },
-      {
-       "Menu": "Orange Fresh"
-      },
-      {
-       "Menu": "Scrambled Eggs (OL)"
-      },
-      {
-       "Menu": "Guacamole Bacon & Egg Sandwich (GF)"
-      },
-      {
-       "Menu": "Rosemary Herb Potatoes (V)"
-      }
-     ]
-    },
-    {
-     "Type": "LIGHT BREAKFAST",
-     "Table": [
-      {
-       "all_menu": "PLAT DU JOUR"
-      },
-      {
-       "all_menu": "Apple Turnover (V)"
-      },
-      {
-       "all_menu": "(1 Turnover)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Cereal Raisin Bran To Go"
-      },
-      {
-       "all_menu": "(9.5 Oz Serving)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Assorted Yogurts (OL)"
-      },
-      {
-       "all_menu": "Yogurt Cup/6 Oz"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Fruit Cup"
-      },
-      {
-       "all_menu": "(7 Oz)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      }
-     ],
-     "Stations": [
-      {
-       "station": "PLAT DU JOUR"
-      }
-     ],
-     "Menus": [
-      {
-       "Menu": "Apple Turnover (V)"
-      },
-      {
-       "Menu": "Cereal Raisin Bran To Go"
-      },
-      {
-       "Menu": "Assorted Yogurts (OL)"
-      },
-      {
-       "Menu": "Fruit Cup"
-      }
-     ]
-    },
     {
      "Type": "LUNCH",
      "Table": [
@@ -4953,234 +2352,6 @@
    "Time": "Saturday, August 22, 2020",
    "TypeFood": [
     {
-     "Type": "BREAKFAST",
-     "Table": [
-      {
-       "all_menu": "BREAKFAST PASTRY"
-      },
-      {
-       "all_menu": "Pumpkin Crumb Cake with Pecans"
-      },
-      {
-       "all_menu": "(1 Piece)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "PLAT DU JOUR"
-      },
-      {
-       "all_menu": "Scrambled Eggs (OL)"
-      },
-      {
-       "all_menu": "(2.66 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Breakfast Chicken Sausage Patty"
-      },
-      {
-       "all_menu": "2 (1.5 Oz Patty)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Hash Browns (V)"
-      },
-      {
-       "all_menu": "(4 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Fruit Cup"
-      },
-      {
-       "all_menu": "(7 Oz)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "VEGAN SPECIAL"
-      },
-      {
-       "all_menu": "Hash Browns (V)"
-      },
-      {
-       "all_menu": "(4 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Tofu Scrambler (V)"
-      },
-      {
-       "all_menu": "(3/4 Cup)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Fruit Cup"
-      },
-      {
-       "all_menu": "(7 Oz)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "GLUTEN FREE"
-      },
-      {
-       "all_menu": "Scrambled Eggs (OL)"
-      },
-      {
-       "all_menu": "(2.66 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Breakfast Chicken Sausage Patty"
-      },
-      {
-       "all_menu": "2 (1.5 Oz Patty)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Hash Browns (V)"
-      },
-      {
-       "all_menu": "(4 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      }
-     ],
-     "Stations": [
-      {
-       "station": "BREAKFAST PASTRY"
-      },
-      {
-       "station": "PLAT DU JOUR"
-      },
-      {
-       "station": "VEGAN SPECIAL"
-      },
-      {
-       "station": "GLUTEN FREE"
-      }
-     ],
-     "Menus": [
-      {
-       "Menu": "Pumpkin Crumb Cake with Pecans"
-      },
-      {
-       "Menu": "Scrambled Eggs (OL)"
-      },
-      {
-       "Menu": "Breakfast Chicken Sausage Patty"
-      },
-      {
-       "Menu": "Hash Browns (V)"
-      },
-      {
-       "Menu": "Fruit Cup"
-      },
-      {
-       "Menu": "Hash Browns (V)"
-      },
-      {
-       "Menu": "Tofu Scrambler (V)"
-      },
-      {
-       "Menu": "Fruit Cup"
-      },
-      {
-       "Menu": "Scrambled Eggs (OL)"
-      },
-      {
-       "Menu": "Breakfast Chicken Sausage Patty"
-      },
-      {
-       "Menu": "Hash Browns (V)"
-      }
-     ]
-    },
-    {
-     "Type": "LIGHT BREAKFAST",
-     "Table": [
-      {
-       "all_menu": "PLAT DU JOUR"
-      },
-      {
-       "all_menu": "Cereal Frosted Flakes To Go"
-      },
-      {
-       "all_menu": "(9.2 Oz Serving)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Assorted Yogurts (OL)"
-      },
-      {
-       "all_menu": "Yogurt Cup/6 Oz"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Banana Marketplace"
-      },
-      {
-       "all_menu": "Banana"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Pumpkin Crumb Cake with Pecans"
-      },
-      {
-       "all_menu": "(1 Piece)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      }
-     ],
-     "Stations": [
-      {
-       "station": "PLAT DU JOUR"
-      }
-     ],
-     "Menus": [
-      {
-       "Menu": "Cereal Frosted Flakes To Go"
-      },
-      {
-       "Menu": "Assorted Yogurts (OL)"
-      },
-      {
-       "Menu": "Banana Marketplace"
-      },
-      {
-       "Menu": "Pumpkin Crumb Cake with Pecans"
-      }
-     ]
-    },
-    {
      "Type": "LUNCH",
      "Table": [
       {
@@ -5412,7 +2583,7 @@
        "all_menu": "1\n2\n3\n4\n5"
       },
       {
-       "all_menu": "Banana Marketplace"
+       "all_menu": "Fresh Banana"
       },
       {
        "all_menu": "Banana"
@@ -5442,7 +2613,7 @@
        "all_menu": "1\n2\n3\n4\n5"
       },
       {
-       "all_menu": "Banana Marketplace"
+       "all_menu": "Fresh Banana"
       },
       {
        "all_menu": "Banana"
@@ -5482,7 +2653,7 @@
        "Menu": "Chip Potato Lays Individual"
       },
       {
-       "Menu": "Banana Marketplace"
+       "Menu": "Fresh Banana"
       },
       {
        "Menu": "Santa Fe Salad To Go"
@@ -5491,7 +2662,7 @@
        "Menu": "Chip Potato Lays Individual"
       },
       {
-       "Menu": "Banana Marketplace"
+       "Menu": "Fresh Banana"
       },
       {
        "Menu": "Cupcake Apple Spice (V)"
@@ -5732,6 +2903,1656 @@
       },
       {
        "Menu": "Cupcake Apple Spice (V)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Time": "Sunday, August 23, 2020",
+   "TypeFood": [
+    {
+     "Type": "LUNCH",
+     "Table": [
+      {
+       "all_menu": "PLAT DU JOUR"
+      },
+      {
+       "all_menu": "Pasta Fettuccine Cooked In Advance (V)"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Cajun Chicken Sauce"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Garlic Breadsticks (OL)"
+      },
+      {
+       "all_menu": "(1 Breadstick)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Broccoli Florets (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "VEGAN SPECIAL"
+      },
+      {
+       "all_menu": "Chickpea Penne Pasta (V)"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Tomato Pesto with Sunflower Seeds (V)"
+      },
+      {
+       "all_menu": "(1 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Broccoli Florets (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "GLUTEN FREE"
+      },
+      {
+       "all_menu": "Pasta w/Artichoke, Tomato & Pine Nuts"
+      },
+      {
+       "all_menu": "(8 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Broccoli Florets (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "HALAL"
+      },
+      {
+       "all_menu": "Pasta w/Artichoke, Tomato & Pine Nuts"
+      },
+      {
+       "all_menu": "(8 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Broccoli Florets (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "DESSERTS"
+      },
+      {
+       "all_menu": "Chocolate Chip Cookie Dough Bars (OL)"
+      },
+      {
+       "all_menu": "(1 Piece)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Chocolate Chip Cookies (V)"
+      },
+      {
+       "all_menu": "(1 Cookie)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      }
+     ],
+     "Stations": [
+      {
+       "station": "PLAT DU JOUR"
+      },
+      {
+       "station": "VEGAN SPECIAL"
+      },
+      {
+       "station": "GLUTEN FREE"
+      },
+      {
+       "station": "HALAL"
+      },
+      {
+       "station": "DESSERTS"
+      }
+     ],
+     "Menus": [
+      {
+       "Menu": "Pasta Fettuccine Cooked In Advance (V)"
+      },
+      {
+       "Menu": "Cajun Chicken Sauce"
+      },
+      {
+       "Menu": "Garlic Breadsticks (OL)"
+      },
+      {
+       "Menu": "Broccoli Florets (V)"
+      },
+      {
+       "Menu": "Chickpea Penne Pasta (V)"
+      },
+      {
+       "Menu": "Tomato Pesto with Sunflower Seeds (V)"
+      },
+      {
+       "Menu": "Broccoli Florets (V)"
+      },
+      {
+       "Menu": "Pasta w/Artichoke, Tomato & Pine Nuts"
+      },
+      {
+       "Menu": "Broccoli Florets (V)"
+      },
+      {
+       "Menu": "Pasta w/Artichoke, Tomato & Pine Nuts"
+      },
+      {
+       "Menu": "Broccoli Florets (V)"
+      },
+      {
+       "Menu": "Chocolate Chip Cookie Dough Bars (OL)"
+      },
+      {
+       "Menu": "Chocolate Chip Cookies (V)"
+      }
+     ]
+    },
+    {
+     "Type": "LIGHT LUNCH",
+     "Table": [
+      {
+       "all_menu": "PLAT DU JOUR"
+      },
+      {
+       "all_menu": "Bob Cobb Salad To Go"
+      },
+      {
+       "all_menu": "Salad"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Multigrain Sun Chip"
+      },
+      {
+       "all_menu": "Bag/1.5 Oz"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Apples"
+      },
+      {
+       "all_menu": "(Red Apple)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "VEGAN SPECIAL"
+      },
+      {
+       "all_menu": "Roasted Vegetable Salad To Go"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Multigrain Sun Chip"
+      },
+      {
+       "all_menu": "Bag/1.5 Oz"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Apples"
+      },
+      {
+       "all_menu": "(Red Apple)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "DESSERTS"
+      },
+      {
+       "all_menu": "Chocolate Chip Cookies (V)"
+      },
+      {
+       "all_menu": "(1 Cookie)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      }
+     ],
+     "Stations": [
+      {
+       "station": "PLAT DU JOUR"
+      },
+      {
+       "station": "VEGAN SPECIAL"
+      },
+      {
+       "station": "DESSERTS"
+      }
+     ],
+     "Menus": [
+      {
+       "Menu": "Bob Cobb Salad To Go"
+      },
+      {
+       "Menu": "Multigrain Sun Chip"
+      },
+      {
+       "Menu": "Apples"
+      },
+      {
+       "Menu": "Roasted Vegetable Salad To Go"
+      },
+      {
+       "Menu": "Multigrain Sun Chip"
+      },
+      {
+       "Menu": "Apples"
+      },
+      {
+       "Menu": "Chocolate Chip Cookies (V)"
+      }
+     ]
+    },
+    {
+     "Type": "DINNER",
+     "Table": [
+      {
+       "all_menu": "PLAT DU JOUR"
+      },
+      {
+       "all_menu": "Beef Bourguignonne"
+      },
+      {
+       "all_menu": "(8 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Wide Egg Noodles (OL)"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Roasted Root Vegetables (V)"
+      },
+      {
+       "all_menu": "(3 Oz. Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "VEGAN SPECIAL"
+      },
+      {
+       "all_menu": "Portobello Mushroom Fajitas (V)"
+      },
+      {
+       "all_menu": "(1 Fajita)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Steamed White Rice (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Roasted Root Vegetables (V)"
+      },
+      {
+       "all_menu": "(3 Oz. Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "GLUTEN FREE"
+      },
+      {
+       "all_menu": "Portobello Mushroom Fajitas"
+      },
+      {
+       "all_menu": "(1 Fajita)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Steamed White Rice (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Roasted Root Vegetables (V)"
+      },
+      {
+       "all_menu": "(3 Oz. Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "HALAL"
+      },
+      {
+       "all_menu": "Beef Bourguignonne"
+      },
+      {
+       "all_menu": "(4 Oz Ladle)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Wide Egg Noodles (OL)"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Roasted Root Vegetables (V)"
+      },
+      {
+       "all_menu": "(3 Oz. Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "BREADS"
+      },
+      {
+       "all_menu": "Onion Bread with Pumpkin Seeds (OL)"
+      },
+      {
+       "all_menu": "(Slice)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "DESSERTS"
+      },
+      {
+       "all_menu": "Cinnamon and Cream Cheese Bars (OL)"
+      },
+      {
+       "all_menu": "(1 Bar)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Chocolate Chip Cookies (V)"
+      },
+      {
+       "all_menu": "(1 Cookie)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      }
+     ],
+     "Stations": [
+      {
+       "station": "PLAT DU JOUR"
+      },
+      {
+       "station": "VEGAN SPECIAL"
+      },
+      {
+       "station": "GLUTEN FREE"
+      },
+      {
+       "station": "HALAL"
+      },
+      {
+       "station": "BREADS"
+      },
+      {
+       "station": "DESSERTS"
+      }
+     ],
+     "Menus": [
+      {
+       "Menu": "Beef Bourguignonne"
+      },
+      {
+       "Menu": "Wide Egg Noodles (OL)"
+      },
+      {
+       "Menu": "Roasted Root Vegetables (V)"
+      },
+      {
+       "Menu": "Portobello Mushroom Fajitas (V)"
+      },
+      {
+       "Menu": "Steamed White Rice (V)"
+      },
+      {
+       "Menu": "Roasted Root Vegetables (V)"
+      },
+      {
+       "Menu": "Portobello Mushroom Fajitas"
+      },
+      {
+       "Menu": "Steamed White Rice (V)"
+      },
+      {
+       "Menu": "Roasted Root Vegetables (V)"
+      },
+      {
+       "Menu": "Beef Bourguignonne"
+      },
+      {
+       "Menu": "Wide Egg Noodles (OL)"
+      },
+      {
+       "Menu": "Roasted Root Vegetables (V)"
+      },
+      {
+       "Menu": "Onion Bread with Pumpkin Seeds (OL)"
+      },
+      {
+       "Menu": "Cinnamon and Cream Cheese Bars (OL)"
+      },
+      {
+       "Menu": "Chocolate Chip Cookies (V)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Time": "Monday, August 24, 2020",
+   "TypeFood": [
+    {
+     "Type": "LUNCH",
+     "Table": [
+      {
+       "all_menu": "PLAT DU JOUR"
+      },
+      {
+       "all_menu": "Pork Belly Steam Buns"
+      },
+      {
+       "all_menu": "(Steam Bun)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Steamed White Rice (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Spicy Snow Pea & Red Pepper (V)"
+      },
+      {
+       "all_menu": "3 Oz Portion"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "VEGAN SPECIAL"
+      },
+      {
+       "all_menu": "Szechuan-Style Tofu (V)"
+      },
+      {
+       "all_menu": "(6 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Brown Basmati Rice (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Spicy Snow Pea & Red Pepper (V)"
+      },
+      {
+       "all_menu": "3 Oz Portion"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "GLUTEN FREE"
+      },
+      {
+       "all_menu": "Szechuan-Style Tofu (V)"
+      },
+      {
+       "all_menu": "(6 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Brown Basmati Rice (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Spicy Snow Pea & Rd Pepper Stir Fry"
+      },
+      {
+       "all_menu": "3 Oz Portion"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "HALAL"
+      },
+      {
+       "all_menu": "Szechuan-Style Tofu (V)"
+      },
+      {
+       "all_menu": "(6 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Brown Basmati Rice (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Spicy Snow Pea & Red Pepper (V)"
+      },
+      {
+       "all_menu": "3 Oz Portion"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "DESSERTS"
+      },
+      {
+       "all_menu": "Choc Scotcheroos w/Peanut Butter (OL)"
+      },
+      {
+       "all_menu": "(1 Piece)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Rhubarb Bar (V)"
+      },
+      {
+       "all_menu": "(1 Piece)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      }
+     ],
+     "Stations": [
+      {
+       "station": "PLAT DU JOUR"
+      },
+      {
+       "station": "VEGAN SPECIAL"
+      },
+      {
+       "station": "GLUTEN FREE"
+      },
+      {
+       "station": "HALAL"
+      },
+      {
+       "station": "DESSERTS"
+      }
+     ],
+     "Menus": [
+      {
+       "Menu": "Pork Belly Steam Buns"
+      },
+      {
+       "Menu": "Steamed White Rice (V)"
+      },
+      {
+       "Menu": "Spicy Snow Pea & Red Pepper (V)"
+      },
+      {
+       "Menu": "Szechuan-Style Tofu (V)"
+      },
+      {
+       "Menu": "Brown Basmati Rice (V)"
+      },
+      {
+       "Menu": "Spicy Snow Pea & Red Pepper (V)"
+      },
+      {
+       "Menu": "Szechuan-Style Tofu (V)"
+      },
+      {
+       "Menu": "Brown Basmati Rice (V)"
+      },
+      {
+       "Menu": "Spicy Snow Pea & Rd Pepper Stir Fry"
+      },
+      {
+       "Menu": "Szechuan-Style Tofu (V)"
+      },
+      {
+       "Menu": "Brown Basmati Rice (V)"
+      },
+      {
+       "Menu": "Spicy Snow Pea & Red Pepper (V)"
+      },
+      {
+       "Menu": "Choc Scotcheroos w/Peanut Butter (OL)"
+      },
+      {
+       "Menu": "Rhubarb Bar (V)"
+      }
+     ]
+    },
+    {
+     "Type": "LIGHT LUNCH",
+     "Table": [
+      {
+       "all_menu": "PLAT DU JOUR"
+      },
+      {
+       "all_menu": "California Crab Wrap To Go"
+      },
+      {
+       "all_menu": "Wrap"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Salad with Raspberry Vinaigrette To Go"
+      },
+      {
+       "all_menu": "(5.5 Oz Side Salad)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Pears Fresh"
+      },
+      {
+       "all_menu": "(Pear)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "VEGAN SPECIAL"
+      },
+      {
+       "all_menu": "Trio Of Hummus w/Pita"
+      },
+      {
+       "all_menu": "(Hummus w/Pita)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Salad with Raspberry Vinaigrette To Go"
+      },
+      {
+       "all_menu": "(5.5 Oz Side Salad)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Pears Fresh"
+      },
+      {
+       "all_menu": "(Pear)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "DESSERTS"
+      },
+      {
+       "all_menu": "Rhubarb Bar (V)"
+      },
+      {
+       "all_menu": "(1 Piece)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      }
+     ],
+     "Stations": [
+      {
+       "station": "PLAT DU JOUR"
+      },
+      {
+       "station": "VEGAN SPECIAL"
+      },
+      {
+       "station": "DESSERTS"
+      }
+     ],
+     "Menus": [
+      {
+       "Menu": "California Crab Wrap To Go"
+      },
+      {
+       "Menu": "Salad with Raspberry Vinaigrette To Go"
+      },
+      {
+       "Menu": "Pears Fresh"
+      },
+      {
+       "Menu": "Trio Of Hummus w/Pita"
+      },
+      {
+       "Menu": "Salad with Raspberry Vinaigrette To Go"
+      },
+      {
+       "Menu": "Pears Fresh"
+      },
+      {
+       "Menu": "Rhubarb Bar (V)"
+      }
+     ]
+    },
+    {
+     "Type": "DINNER",
+     "Table": [
+      {
+       "all_menu": "PLAT DU JOUR"
+      },
+      {
+       "all_menu": "Shoyu Chicken"
+      },
+      {
+       "all_menu": "(Chicken Thigh)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Coconut Rice (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Grilled Eggplant (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "VEGAN SPECIAL"
+      },
+      {
+       "all_menu": "Tofu Vegetable Delight (V)"
+      },
+      {
+       "all_menu": "(6 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Coconut Rice (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Grilled Eggplant (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "GLUTEN FREE"
+      },
+      {
+       "all_menu": "Shoyu Chicken"
+      },
+      {
+       "all_menu": "(Chicken Thigh)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Coconut Rice (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Grilled Eggplant (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "HALAL"
+      },
+      {
+       "all_menu": "Shoyu Chicken (H)"
+      },
+      {
+       "all_menu": "(Chicken Breast)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Coconut Rice (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Grilled Eggplant (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "OL*Focaccia Bread"
+      },
+      {
+       "all_menu": "(Slice)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "BREADS"
+      },
+      {
+       "all_menu": "OL*Focaccia Bread"
+      },
+      {
+       "all_menu": "(Slice)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "DESSERTS"
+      },
+      {
+       "all_menu": "Chocolate Cream Pie (OL)"
+      },
+      {
+       "all_menu": "(Slice)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Rhubarb Bar (V)"
+      },
+      {
+       "all_menu": "(1 Piece)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      }
+     ],
+     "Stations": [
+      {
+       "station": "PLAT DU JOUR"
+      },
+      {
+       "station": "VEGAN SPECIAL"
+      },
+      {
+       "station": "GLUTEN FREE"
+      },
+      {
+       "station": "HALAL"
+      },
+      {
+       "station": "BREADS"
+      },
+      {
+       "station": "DESSERTS"
+      }
+     ],
+     "Menus": [
+      {
+       "Menu": "Shoyu Chicken"
+      },
+      {
+       "Menu": "Coconut Rice (V)"
+      },
+      {
+       "Menu": "Grilled Eggplant (V)"
+      },
+      {
+       "Menu": "Tofu Vegetable Delight (V)"
+      },
+      {
+       "Menu": "Coconut Rice (V)"
+      },
+      {
+       "Menu": "Grilled Eggplant (V)"
+      },
+      {
+       "Menu": "Shoyu Chicken"
+      },
+      {
+       "Menu": "Coconut Rice (V)"
+      },
+      {
+       "Menu": "Grilled Eggplant (V)"
+      },
+      {
+       "Menu": "Shoyu Chicken (H)"
+      },
+      {
+       "Menu": "Coconut Rice (V)"
+      },
+      {
+       "Menu": "Grilled Eggplant (V)"
+      },
+      {
+       "Menu": "OL*Focaccia Bread"
+      },
+      {
+       "Menu": "OL*Focaccia Bread"
+      },
+      {
+       "Menu": "Chocolate Cream Pie (OL)"
+      },
+      {
+       "Menu": "Rhubarb Bar (V)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Time": "Tuesday, August 25, 2020",
+   "TypeFood": [
+    {
+     "Type": "LUNCH",
+     "Table": [
+      {
+       "all_menu": "PLAT DU JOUR"
+      },
+      {
+       "all_menu": "Red Pepper Gouda (OL)"
+      },
+      {
+       "all_menu": "(4 Oz Porltion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Grilled Cheese Burger w/Carmelized Onion"
+      },
+      {
+       "all_menu": "(Sandwich)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Whole Wheat Crackers"
+      },
+      {
+       "all_menu": "Cracker"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Fruit Cup"
+      },
+      {
+       "all_menu": "(7 Oz)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "VEGAN SPECIAL"
+      },
+      {
+       "all_menu": "Red Lentil Vegetable Soup (V)"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Beyond Burger on a Bun (V)"
+      },
+      {
+       "all_menu": "(Sandwich)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Steak Cut Fries"
+      },
+      {
+       "all_menu": "(2.5 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Fruit Cup"
+      },
+      {
+       "all_menu": "(7 Oz)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "GLUTEN FREE"
+      },
+      {
+       "all_menu": "Red Lentil Vegetable Soup (V)"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Beyond Burger on a Bun (GF)"
+      },
+      {
+       "all_menu": "(Sandwich)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Oven Fried Steak Cut Fries"
+      },
+      {
+       "all_menu": "(2.5 Oz Potion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Fruit Cup"
+      },
+      {
+       "all_menu": "(7 Oz)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "HALAL"
+      },
+      {
+       "all_menu": "Red Lentil Vegetable Soup (V)"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Beef Burger (H) HOH"
+      },
+      {
+       "all_menu": "(Sandwich)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Whole Wheat Crackers"
+      },
+      {
+       "all_menu": "Cracker"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Fruit Cup"
+      },
+      {
+       "all_menu": "(7 Oz)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "DESSERTS"
+      },
+      {
+       "all_menu": "Oatmeal Pecan Cookies (OL)"
+      },
+      {
+       "all_menu": "(1 Cookie)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Southern Berry Cobbler (V)"
+      },
+      {
+       "all_menu": "(1 Piece)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      }
+     ],
+     "Stations": [
+      {
+       "station": "PLAT DU JOUR"
+      },
+      {
+       "station": "VEGAN SPECIAL"
+      },
+      {
+       "station": "GLUTEN FREE"
+      },
+      {
+       "station": "HALAL"
+      },
+      {
+       "station": "DESSERTS"
+      }
+     ],
+     "Menus": [
+      {
+       "Menu": "Red Pepper Gouda (OL)"
+      },
+      {
+       "Menu": "Grilled Cheese Burger w/Carmelized Onion"
+      },
+      {
+       "Menu": "Whole Wheat Crackers"
+      },
+      {
+       "Menu": "Fruit Cup"
+      },
+      {
+       "Menu": "Red Lentil Vegetable Soup (V)"
+      },
+      {
+       "Menu": "Beyond Burger on a Bun (V)"
+      },
+      {
+       "Menu": "Steak Cut Fries"
+      },
+      {
+       "Menu": "Fruit Cup"
+      },
+      {
+       "Menu": "Red Lentil Vegetable Soup (V)"
+      },
+      {
+       "Menu": "Beyond Burger on a Bun (GF)"
+      },
+      {
+       "Menu": "Oven Fried Steak Cut Fries"
+      },
+      {
+       "Menu": "Fruit Cup"
+      },
+      {
+       "Menu": "Red Lentil Vegetable Soup (V)"
+      },
+      {
+       "Menu": "Beef Burger (H) HOH"
+      },
+      {
+       "Menu": "Whole Wheat Crackers"
+      },
+      {
+       "Menu": "Fruit Cup"
+      },
+      {
+       "Menu": "Oatmeal Pecan Cookies (OL)"
+      },
+      {
+       "Menu": "Southern Berry Cobbler (V)"
+      }
+     ]
+    },
+    {
+     "Type": "LIGHT LUNCH",
+     "Table": [
+      {
+       "all_menu": "PLAT DU JOUR"
+      },
+      {
+       "all_menu": "Submarine Sandwich To Go"
+      },
+      {
+       "all_menu": "Sandwich"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Chip Potato Lays Individual"
+      },
+      {
+       "all_menu": "Bag"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Fruit Cup"
+      },
+      {
+       "all_menu": "(7 Oz)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "VEGAN SPECIAL"
+      },
+      {
+       "all_menu": "Veggie Sandwich (V) To Go"
+      },
+      {
+       "all_menu": "Sandwich"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Chip Potato Lays Individual"
+      },
+      {
+       "all_menu": "Bag"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Fruit Cup"
+      },
+      {
+       "all_menu": "(7 Oz)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "DESSERTS"
+      },
+      {
+       "all_menu": "Southern Berry Cobbler (V)"
+      },
+      {
+       "all_menu": "(1 Piece)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      }
+     ],
+     "Stations": [
+      {
+       "station": "PLAT DU JOUR"
+      },
+      {
+       "station": "VEGAN SPECIAL"
+      },
+      {
+       "station": "DESSERTS"
+      }
+     ],
+     "Menus": [
+      {
+       "Menu": "Submarine Sandwich To Go"
+      },
+      {
+       "Menu": "Chip Potato Lays Individual"
+      },
+      {
+       "Menu": "Fruit Cup"
+      },
+      {
+       "Menu": "Veggie Sandwich (V) To Go"
+      },
+      {
+       "Menu": "Chip Potato Lays Individual"
+      },
+      {
+       "Menu": "Fruit Cup"
+      },
+      {
+       "Menu": "Southern Berry Cobbler (V)"
+      }
+     ]
+    },
+    {
+     "Type": "DINNER",
+     "Table": [
+      {
+       "all_menu": "PLAT DU JOUR"
+      },
+      {
+       "all_menu": "Pepperoni Pizza Chicago Style"
+      },
+      {
+       "all_menu": "(Slice)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Tossed Salad"
+      },
+      {
+       "all_menu": "Salad"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "VEGAN SPECIAL"
+      },
+      {
+       "all_menu": "Black Bean & Avocado Pizza"
+      },
+      {
+       "all_menu": "(1/2 Pizza)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Tossed Salad (V)"
+      },
+      {
+       "all_menu": "Salad"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "GLUTEN FREE"
+      },
+      {
+       "all_menu": "Pizza w/Cheese, Beef, Pepper& Onion"
+      },
+      {
+       "all_menu": "(Half Pizza)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Tossed Salad"
+      },
+      {
+       "all_menu": "Salad"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "HALAL"
+      },
+      {
+       "all_menu": "Black Bean & Avocado Pizza"
+      },
+      {
+       "all_menu": "(1/2 Pizza)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Tossed Salad (V)"
+      },
+      {
+       "all_menu": "Salad"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "DESSERTS"
+      },
+      {
+       "all_menu": "Angel Food Cake (OL)"
+      },
+      {
+       "all_menu": "(1 Piece)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Sliced Strawberries (V)"
+      },
+      {
+       "all_menu": "(2 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Real Whipped Topping (OL)"
+      },
+      {
+       "all_menu": "(2 Tablespoons)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Southern Berry Cobbler (V)"
+      },
+      {
+       "all_menu": "(1 Piece)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      }
+     ],
+     "Stations": [
+      {
+       "station": "PLAT DU JOUR"
+      },
+      {
+       "station": "VEGAN SPECIAL"
+      },
+      {
+       "station": "GLUTEN FREE"
+      },
+      {
+       "station": "HALAL"
+      },
+      {
+       "station": "DESSERTS"
+      }
+     ],
+     "Menus": [
+      {
+       "Menu": "Pepperoni Pizza Chicago Style"
+      },
+      {
+       "Menu": "Tossed Salad"
+      },
+      {
+       "Menu": "Black Bean & Avocado Pizza"
+      },
+      {
+       "Menu": "Tossed Salad (V)"
+      },
+      {
+       "Menu": "Pizza w/Cheese, Beef, Pepper& Onion"
+      },
+      {
+       "Menu": "Tossed Salad"
+      },
+      {
+       "Menu": "Black Bean & Avocado Pizza"
+      },
+      {
+       "Menu": "Tossed Salad (V)"
+      },
+      {
+       "Menu": "Angel Food Cake (OL)"
+      },
+      {
+       "Menu": "Sliced Strawberries (V)"
+      },
+      {
+       "Menu": "Real Whipped Topping (OL)"
+      },
+      {
+       "Menu": "Southern Berry Cobbler (V)"
       }
      ]
     }
