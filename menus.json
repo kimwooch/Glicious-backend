@@ -1,566 +1,6 @@
 {
  "Date": [
   {
-   "Time": "Saturday, August 22, 2020",
-   "TypeFood": [
-    {
-     "Type": "LUNCH",
-     "Table": [
-      {
-       "all_menu": "PLAT DU JOUR"
-      },
-      {
-       "all_menu": "Galley Boy Burger"
-      },
-      {
-       "all_menu": "(Sandwich)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Crinkle Cut Fries"
-      },
-      {
-       "all_menu": "(2.5 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "California Blend Vegetables (V)"
-      },
-      {
-       "all_menu": "(3 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "VEGAN SPECIAL"
-      },
-      {
-       "all_menu": "Beyond Burger on a Bun (V)"
-      },
-      {
-       "all_menu": "(Sandwich)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Oven Fried Crinkle Cut Potatoes"
-      },
-      {
-       "all_menu": "(2.5 Oz Potion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "California Blend Vegetables (V)"
-      },
-      {
-       "all_menu": "(3 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "GLUTEN FREE"
-      },
-      {
-       "all_menu": "Galley Boy Burger"
-      },
-      {
-       "all_menu": "Sandwich"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Oven Fried Crinkle Cut Potatoes"
-      },
-      {
-       "all_menu": "(2.5 Oz Potion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "California Blend Vegetables (V)"
-      },
-      {
-       "all_menu": "(3 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "HALAL"
-      },
-      {
-       "all_menu": "Galley Boy Burger"
-      },
-      {
-       "all_menu": "(Sandwich)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Oven Fried Crinkle Cut Potatoes"
-      },
-      {
-       "all_menu": "(2.5 Oz Potion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "California Blend Vegetables (V)"
-      },
-      {
-       "all_menu": "(3 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "DESSERTS"
-      },
-      {
-       "all_menu": "Choc & Peanut Butter Chip Cookies (OL)"
-      },
-      {
-       "all_menu": "(1 Cookie)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Cupcake Apple Spice (V)"
-      },
-      {
-       "all_menu": "(1 Cupcake)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      }
-     ],
-     "Stations": [
-      {
-       "station": "PLAT DU JOUR"
-      },
-      {
-       "station": "VEGAN SPECIAL"
-      },
-      {
-       "station": "GLUTEN FREE"
-      },
-      {
-       "station": "HALAL"
-      },
-      {
-       "station": "DESSERTS"
-      }
-     ],
-     "Menus": [
-      {
-       "Menu": "Galley Boy Burger"
-      },
-      {
-       "Menu": "Crinkle Cut Fries"
-      },
-      {
-       "Menu": "California Blend Vegetables (V)"
-      },
-      {
-       "Menu": "Beyond Burger on a Bun (V)"
-      },
-      {
-       "Menu": "Oven Fried Crinkle Cut Potatoes"
-      },
-      {
-       "Menu": "California Blend Vegetables (V)"
-      },
-      {
-       "Menu": "Galley Boy Burger"
-      },
-      {
-       "Menu": "Oven Fried Crinkle Cut Potatoes"
-      },
-      {
-       "Menu": "California Blend Vegetables (V)"
-      },
-      {
-       "Menu": "Galley Boy Burger"
-      },
-      {
-       "Menu": "Oven Fried Crinkle Cut Potatoes"
-      },
-      {
-       "Menu": "California Blend Vegetables (V)"
-      },
-      {
-       "Menu": "Choc & Peanut Butter Chip Cookies (OL)"
-      },
-      {
-       "Menu": "Cupcake Apple Spice (V)"
-      }
-     ]
-    },
-    {
-     "Type": "LIGHT LUNCH",
-     "Table": [
-      {
-       "all_menu": "PLAT DU JOUR"
-      },
-      {
-       "all_menu": "Chicken Salad Croissant To Go"
-      },
-      {
-       "all_menu": "Sandwich"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Chip Potato Lays Individual"
-      },
-      {
-       "all_menu": "Bag"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Fresh Banana"
-      },
-      {
-       "all_menu": "Banana"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "VEGAN SPECIAL"
-      },
-      {
-       "all_menu": "Santa Fe Salad To Go"
-      },
-      {
-       "all_menu": "(6 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Chip Potato Lays Individual"
-      },
-      {
-       "all_menu": "Bag"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Fresh Banana"
-      },
-      {
-       "all_menu": "Banana"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "DESSERTS"
-      },
-      {
-       "all_menu": "Cupcake Apple Spice (V)"
-      },
-      {
-       "all_menu": "(1 Cupcake)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      }
-     ],
-     "Stations": [
-      {
-       "station": "PLAT DU JOUR"
-      },
-      {
-       "station": "VEGAN SPECIAL"
-      },
-      {
-       "station": "DESSERTS"
-      }
-     ],
-     "Menus": [
-      {
-       "Menu": "Chicken Salad Croissant To Go"
-      },
-      {
-       "Menu": "Chip Potato Lays Individual"
-      },
-      {
-       "Menu": "Fresh Banana"
-      },
-      {
-       "Menu": "Santa Fe Salad To Go"
-      },
-      {
-       "Menu": "Chip Potato Lays Individual"
-      },
-      {
-       "Menu": "Fresh Banana"
-      },
-      {
-       "Menu": "Cupcake Apple Spice (V)"
-      }
-     ]
-    },
-    {
-     "Type": "DINNER",
-     "Table": [
-      {
-       "all_menu": "PLAT DU JOUR"
-      },
-      {
-       "all_menu": "Roasted Peruvian Chicken"
-      },
-      {
-       "all_menu": "(1/4 Chicken)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Vegan Dirty Rice (V)"
-      },
-      {
-       "all_menu": "(6 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Roasted Cauliflower (V)"
-      },
-      {
-       "all_menu": "(4 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "VEGAN SPECIAL"
-      },
-      {
-       "all_menu": "Sauteed Polenta (V)"
-      },
-      {
-       "all_menu": "(Triangle)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Black-eyed Pea Relish (V)"
-      },
-      {
-       "all_menu": "(1/4 Cup Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Vegan Dirty Rice (V)"
-      },
-      {
-       "all_menu": "(6 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Roasted Cauliflower (V)"
-      },
-      {
-       "all_menu": "(4 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "GLUTEN FREE"
-      },
-      {
-       "all_menu": "Roasted Peruvian Chicken"
-      },
-      {
-       "all_menu": "(1/4 Chicken)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Vegan Dirty Rice (V)"
-      },
-      {
-       "all_menu": "(6 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Roasted Cauliflower (V)"
-      },
-      {
-       "all_menu": "(4 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "HALAL"
-      },
-      {
-       "all_menu": "Roasted Peruvian Halal Chicken"
-      },
-      {
-       "all_menu": "(1/4 Chicken)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Vegan Dirty Rice (V)"
-      },
-      {
-       "all_menu": "(6 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Roasted Cauliflower (V)"
-      },
-      {
-       "all_menu": "(4 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "BREADS"
-      },
-      {
-       "all_menu": "Provolone & Mozzarella Bread (OL)"
-      },
-      {
-       "all_menu": "(Slice)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "DESSERTS"
-      },
-      {
-       "all_menu": "Red Velvet Bars (OL)"
-      },
-      {
-       "all_menu": "(1 Piece)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Cupcake Apple Spice (V)"
-      },
-      {
-       "all_menu": "(1 Cupcake)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      }
-     ],
-     "Stations": [
-      {
-       "station": "PLAT DU JOUR"
-      },
-      {
-       "station": "VEGAN SPECIAL"
-      },
-      {
-       "station": "GLUTEN FREE"
-      },
-      {
-       "station": "HALAL"
-      },
-      {
-       "station": "BREADS"
-      },
-      {
-       "station": "DESSERTS"
-      }
-     ],
-     "Menus": [
-      {
-       "Menu": "Roasted Peruvian Chicken"
-      },
-      {
-       "Menu": "Vegan Dirty Rice (V)"
-      },
-      {
-       "Menu": "Roasted Cauliflower (V)"
-      },
-      {
-       "Menu": "Sauteed Polenta (V)"
-      },
-      {
-       "Menu": "Black-eyed Pea Relish (V)"
-      },
-      {
-       "Menu": "Vegan Dirty Rice (V)"
-      },
-      {
-       "Menu": "Roasted Cauliflower (V)"
-      },
-      {
-       "Menu": "Roasted Peruvian Chicken"
-      },
-      {
-       "Menu": "Vegan Dirty Rice (V)"
-      },
-      {
-       "Menu": "Roasted Cauliflower (V)"
-      },
-      {
-       "Menu": "Roasted Peruvian Halal Chicken"
-      },
-      {
-       "Menu": "Vegan Dirty Rice (V)"
-      },
-      {
-       "Menu": "Roasted Cauliflower (V)"
-      },
-      {
-       "Menu": "Provolone & Mozzarella Bread (OL)"
-      },
-      {
-       "Menu": "Red Velvet Bars (OL)"
-      },
-      {
-       "Menu": "Cupcake Apple Spice (V)"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "Time": "Sunday, August 23, 2020",
    "TypeFood": [
     {
@@ -4775,6 +4215,569 @@
       },
       {
        "Menu": "Vegan Sun Butter Bars (V)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Time": "Sunday, August 30, 2020",
+   "TypeFood": [
+    {
+     "Type": "BREAKFAST"
+    },
+    {
+     "Type": "LUNCH",
+     "Table": [
+      {
+       "all_menu": "PLAT DU JOUR"
+      },
+      {
+       "all_menu": "Beef Tamale with Pork"
+      },
+      {
+       "all_menu": "(5 Oz Tamale)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Homemade Tomatillo Salsa (V)"
+      },
+      {
+       "all_menu": "(1 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Sour Cream (OL)"
+      },
+      {
+       "all_menu": "(1 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Churro Beans (V)"
+      },
+      {
+       "all_menu": "(6 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Mixed Vegetables (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "VEGAN SPECIAL"
+      },
+      {
+       "all_menu": "Aloo Gobi Methi ka Tuk (V)"
+      },
+      {
+       "all_menu": "(6 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Basmati Rice (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Mixed Vegetables (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "GLUTEN FREE"
+      },
+      {
+       "all_menu": "Aloo Gobi Methi ka Tuk (V)"
+      },
+      {
+       "all_menu": "(6 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Basmati Rice (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Mixed Vegetables (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "HALAL"
+      },
+      {
+       "all_menu": "Aloo Gobi Methi ka Tuk (V)"
+      },
+      {
+       "all_menu": "(6 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Basmati Rice (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Mixed Vegetables (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "DESSERTS"
+      },
+      {
+       "all_menu": "Berries and Cream Cake w/Coconut"
+      },
+      {
+       "all_menu": "(1 Piece)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Crunchy Granola Cookie (V)"
+      },
+      {
+       "all_menu": "(1 Cookie)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      }
+     ],
+     "Stations": [
+      {
+       "station": "PLAT DU JOUR"
+      },
+      {
+       "station": "VEGAN SPECIAL"
+      },
+      {
+       "station": "GLUTEN FREE"
+      },
+      {
+       "station": "HALAL"
+      },
+      {
+       "station": "DESSERTS"
+      }
+     ],
+     "Menus": [
+      {
+       "Menu": "Beef Tamale with Pork"
+      },
+      {
+       "Menu": "Homemade Tomatillo Salsa (V)"
+      },
+      {
+       "Menu": "Sour Cream (OL)"
+      },
+      {
+       "Menu": "Churro Beans (V)"
+      },
+      {
+       "Menu": "Mixed Vegetables (V)"
+      },
+      {
+       "Menu": "Aloo Gobi Methi ka Tuk (V)"
+      },
+      {
+       "Menu": "Basmati Rice (V)"
+      },
+      {
+       "Menu": "Mixed Vegetables (V)"
+      },
+      {
+       "Menu": "Aloo Gobi Methi ka Tuk (V)"
+      },
+      {
+       "Menu": "Basmati Rice (V)"
+      },
+      {
+       "Menu": "Mixed Vegetables (V)"
+      },
+      {
+       "Menu": "Aloo Gobi Methi ka Tuk (V)"
+      },
+      {
+       "Menu": "Basmati Rice (V)"
+      },
+      {
+       "Menu": "Mixed Vegetables (V)"
+      },
+      {
+       "Menu": "Berries and Cream Cake w/Coconut"
+      },
+      {
+       "Menu": "Crunchy Granola Cookie (V)"
+      }
+     ]
+    },
+    {
+     "Type": "LIGHT LUNCH",
+     "Table": [
+      {
+       "all_menu": "PLAT DU JOUR"
+      },
+      {
+       "all_menu": "Adobo Chicken Wrap"
+      },
+      {
+       "all_menu": "Wrap"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Brown Rice Tomato Basil Salad To Go"
+      },
+      {
+       "all_menu": "Serving"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Fresh Banana"
+      },
+      {
+       "all_menu": "Banana"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "VEGAN SPECIAL"
+      },
+      {
+       "all_menu": "Vegetable & Portobello Wrap To Go"
+      },
+      {
+       "all_menu": "Wrap"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Brown Rice Tomato Basil Salad To Go"
+      },
+      {
+       "all_menu": "Serving"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Fresh Banana"
+      },
+      {
+       "all_menu": "Banana"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "DESSERTS"
+      },
+      {
+       "all_menu": "Crunchy Granola Cookie (V)"
+      },
+      {
+       "all_menu": "(1 Cookie)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      }
+     ],
+     "Stations": [
+      {
+       "station": "PLAT DU JOUR"
+      },
+      {
+       "station": "VEGAN SPECIAL"
+      },
+      {
+       "station": "DESSERTS"
+      }
+     ],
+     "Menus": [
+      {
+       "Menu": "Adobo Chicken Wrap"
+      },
+      {
+       "Menu": "Brown Rice Tomato Basil Salad To Go"
+      },
+      {
+       "Menu": "Fresh Banana"
+      },
+      {
+       "Menu": "Vegetable & Portobello Wrap To Go"
+      },
+      {
+       "Menu": "Brown Rice Tomato Basil Salad To Go"
+      },
+      {
+       "Menu": "Fresh Banana"
+      },
+      {
+       "Menu": "Crunchy Granola Cookie (V)"
+      }
+     ]
+    },
+    {
+     "Type": "DINNER",
+     "Table": [
+      {
+       "all_menu": "PLAT DU JOUR"
+      },
+      {
+       "all_menu": "Chicken Chardonnay"
+      },
+      {
+       "all_menu": "(6 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Mashed Redskin Potatoes (OL)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Roasted Cauliflower (V)"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "VEGAN SPECIAL"
+      },
+      {
+       "all_menu": "Teriyaki Tofu & Rice Noodles (V)"
+      },
+      {
+       "all_menu": "(6 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Steamed White Rice (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Roasted Cauliflower (V)"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "GLUTEN FREE"
+      },
+      {
+       "all_menu": "Tofu & Vegetable Stir Fry (V)"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Steamed White Rice (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Roasted Cauliflower (V)"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "HALAL"
+      },
+      {
+       "all_menu": "Teriyaki Tofu & Rice Noodles (V)"
+      },
+      {
+       "all_menu": "(6 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Steamed White Rice (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Roasted Cauliflower (V)"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "BREADS"
+      },
+      {
+       "all_menu": "Cinnamon Butter Ranch Rolls w/Honey"
+      },
+      {
+       "all_menu": "(1 Roll)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "DESSERTS"
+      },
+      {
+       "all_menu": "Crunchy Granola Cookie (V)"
+      },
+      {
+       "all_menu": "(1 Cookie)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      }
+     ],
+     "Stations": [
+      {
+       "station": "PLAT DU JOUR"
+      },
+      {
+       "station": "VEGAN SPECIAL"
+      },
+      {
+       "station": "GLUTEN FREE"
+      },
+      {
+       "station": "HALAL"
+      },
+      {
+       "station": "BREADS"
+      },
+      {
+       "station": "DESSERTS"
+      }
+     ],
+     "Menus": [
+      {
+       "Menu": "Chicken Chardonnay"
+      },
+      {
+       "Menu": "Mashed Redskin Potatoes (OL)"
+      },
+      {
+       "Menu": "Roasted Cauliflower (V)"
+      },
+      {
+       "Menu": "Teriyaki Tofu & Rice Noodles (V)"
+      },
+      {
+       "Menu": "Steamed White Rice (V)"
+      },
+      {
+       "Menu": "Roasted Cauliflower (V)"
+      },
+      {
+       "Menu": "Tofu & Vegetable Stir Fry (V)"
+      },
+      {
+       "Menu": "Steamed White Rice (V)"
+      },
+      {
+       "Menu": "Roasted Cauliflower (V)"
+      },
+      {
+       "Menu": "Teriyaki Tofu & Rice Noodles (V)"
+      },
+      {
+       "Menu": "Steamed White Rice (V)"
+      },
+      {
+       "Menu": "Roasted Cauliflower (V)"
+      },
+      {
+       "Menu": "Cinnamon Butter Ranch Rolls w/Honey"
+      },
+      {
+       "Menu": "Crunchy Granola Cookie (V)"
       }
      ]
     }
