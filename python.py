@@ -159,6 +159,7 @@ def api_test():
         hashmap1 = {}
         timeTypeFood = data["Date"][i]
         date = timeTypeFood["Time"]
+        print(date)
         # to get the day only so that phone can compare the clicked day with this day
         wordList = date.split(", ")
         word = wordList[1]
@@ -174,6 +175,9 @@ def api_test():
             typeTableStationMenu = typeFood[j]
             type = typeTableStationMenu["Type"]
             currMenuType.append(type)
+            print("hello")
+            print(typeTableStationMenu)
+            
             menu = typeTableStationMenu["Menus"]
             for k in range(0, len(menu)):
                 menuObj = menu[k]
