@@ -175,14 +175,12 @@ def api_test():
             typeTableStationMenu = typeFood[j]
             type = typeTableStationMenu["Type"]
             currMenuType.append(type)
-            print("hello")
-            print(typeTableStationMenu)
-            
-            menu = typeTableStationMenu["Menus"]
-            for k in range(0, len(menu)):
-                menuObj = menu[k]
-                food = menuObj["Menu"]
-                setMenu.add(food)
+            if "Menus" in typeTableStationMenu:
+                menu = typeTableStationMenu["Menus"]
+                for k in range(0, len(menu)):
+                    menuObj = menu[k]
+                    food = menuObj["Menu"]
+                    setMenu.add(food)
             
             # remove the duplicates
             arrMenu = list(setMenu)
