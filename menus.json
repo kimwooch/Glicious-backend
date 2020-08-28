@@ -1,572 +1,6 @@
 {
  "Date": [
   {
-   "Time": "Wednesday, August 26, 2020",
-   "TypeFood": [
-    {
-     "Type": "LIGHT BREAKFAST",
-     "Table": [
-      {
-       "all_menu": "BREAKFAST PASTRY"
-      },
-      {
-       "all_menu": "Cherry Turnovers (V)"
-      },
-      {
-       "all_menu": "(1 Turnover)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "PLAT DU JOUR"
-      },
-      {
-       "all_menu": "Bagel Blueberry"
-      },
-      {
-       "all_menu": "Bagel"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Plain Cream Cheese (OL)"
-      },
-      {
-       "all_menu": "(.75 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Assorted Yogurts (OL)"
-      },
-      {
-       "all_menu": "Yogurt Cup/6 Oz"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Fresh Banana"
-      },
-      {
-       "all_menu": "Banana"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      }
-     ],
-     "Stations": [
-      {
-       "station": "BREAKFAST PASTRY"
-      },
-      {
-       "station": "PLAT DU JOUR"
-      }
-     ],
-     "Menus": [
-      {
-       "Menu": "Cherry Turnovers (V)"
-      },
-      {
-       "Menu": "Bagel Blueberry"
-      },
-      {
-       "Menu": "Plain Cream Cheese (OL)"
-      },
-      {
-       "Menu": "Assorted Yogurts (OL)"
-      },
-      {
-       "Menu": "Fresh Banana"
-      }
-     ]
-    },
-    {
-     "Type": "LUNCH",
-     "Table": [
-      {
-       "all_menu": "PLAT DU JOUR"
-      },
-      {
-       "all_menu": "General TSO Chicken"
-      },
-      {
-       "all_menu": "(6 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Steamed White Rice (V)"
-      },
-      {
-       "all_menu": "(3 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Sugar Snap Peas (V)"
-      },
-      {
-       "all_menu": "(3 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "VEGAN SPECIAL"
-      },
-      {
-       "all_menu": "Thai Lentil Stew (V)"
-      },
-      {
-       "all_menu": "(6 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Steamed White Rice (V)"
-      },
-      {
-       "all_menu": "(3 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Sugar Snap Peas (V)"
-      },
-      {
-       "all_menu": "(3 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "GLUTEN FREE"
-      },
-      {
-       "all_menu": "Thai Lentil Stew (V)"
-      },
-      {
-       "all_menu": "(6 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Steamed White Rice (V)"
-      },
-      {
-       "all_menu": "(3 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Sugar Snap Peas (V)"
-      },
-      {
-       "all_menu": "(3 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "HALAL"
-      },
-      {
-       "all_menu": "H*Stir Fry Garlic Halal Beef w/Broccoli"
-      },
-      {
-       "all_menu": "(12 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Steamed White Rice (V)"
-      },
-      {
-       "all_menu": "(3 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Sugar Snap Peas (V)"
-      },
-      {
-       "all_menu": "(3 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "DESSERTS"
-      },
-      {
-       "all_menu": "Mound Bars with Almonds (OL)"
-      },
-      {
-       "all_menu": "(1 Piece)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Cherry Pie (V)"
-      },
-      {
-       "all_menu": "(Slice)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Fruits of the Forest Pie (V)"
-      },
-      {
-       "all_menu": "(Slice)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      }
-     ],
-     "Stations": [
-      {
-       "station": "PLAT DU JOUR"
-      },
-      {
-       "station": "VEGAN SPECIAL"
-      },
-      {
-       "station": "GLUTEN FREE"
-      },
-      {
-       "station": "HALAL"
-      },
-      {
-       "station": "DESSERTS"
-      }
-     ],
-     "Menus": [
-      {
-       "Menu": "General TSO Chicken"
-      },
-      {
-       "Menu": "Steamed White Rice (V)"
-      },
-      {
-       "Menu": "Sugar Snap Peas (V)"
-      },
-      {
-       "Menu": "Thai Lentil Stew (V)"
-      },
-      {
-       "Menu": "Steamed White Rice (V)"
-      },
-      {
-       "Menu": "Sugar Snap Peas (V)"
-      },
-      {
-       "Menu": "Thai Lentil Stew (V)"
-      },
-      {
-       "Menu": "Steamed White Rice (V)"
-      },
-      {
-       "Menu": "Sugar Snap Peas (V)"
-      },
-      {
-       "Menu": "H*Stir Fry Garlic Halal Beef w/Broccoli"
-      },
-      {
-       "Menu": "Steamed White Rice (V)"
-      },
-      {
-       "Menu": "Sugar Snap Peas (V)"
-      },
-      {
-       "Menu": "Mound Bars with Almonds (OL)"
-      },
-      {
-       "Menu": "Cherry Pie (V)"
-      },
-      {
-       "Menu": "Fruits of the Forest Pie (V)"
-      }
-     ]
-    },
-    {
-     "Type": "DINNER",
-     "Table": [
-      {
-       "all_menu": "PLAT DU JOUR"
-      },
-      {
-       "all_menu": "Herb Crusted Sirloin of Beef"
-      },
-      {
-       "all_menu": "(4 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Mashed Redskin Potatoes (OL)"
-      },
-      {
-       "all_menu": "(3 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Beef Gravy"
-      },
-      {
-       "all_menu": "(2 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Vegetable Melange (V)"
-      },
-      {
-       "all_menu": "3 Oz Serving"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "VEGAN SPECIAL"
-      },
-      {
-       "all_menu": "Curry Coconut Quinoa w/ Cauliflower (V)"
-      },
-      {
-       "all_menu": "(3 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Jasmine Rice (V)"
-      },
-      {
-       "all_menu": "(3 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Vegetable Melange (V)"
-      },
-      {
-       "all_menu": "3 Oz Serving"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "GLUTEN FREE"
-      },
-      {
-       "all_menu": "Herb Crusted Sirloin of Beef"
-      },
-      {
-       "all_menu": "(4 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Mashed Redskin Potatoes (OL)"
-      },
-      {
-       "all_menu": "(3 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Vegetable Melange (V)"
-      },
-      {
-       "all_menu": "3 Oz Serving"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "HALAL"
-      },
-      {
-       "all_menu": "Herb Crusted Sirloin of Beef"
-      },
-      {
-       "all_menu": "(4 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Mashed Redskin Potatoes (OL)"
-      },
-      {
-       "all_menu": "(3 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Vegetable Melange (V)"
-      },
-      {
-       "all_menu": "3 Oz Serving"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "BREADS"
-      },
-      {
-       "all_menu": "Potato Bread (OL)"
-      },
-      {
-       "all_menu": "(Slice)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "DESSERTS"
-      },
-      {
-       "all_menu": "Peppermint Cheesecake (OL)"
-      },
-      {
-       "all_menu": "(1 Piece)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Cherry Pie (V)"
-      },
-      {
-       "all_menu": "(Slice)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Fruits of the Forest Pie (V)"
-      },
-      {
-       "all_menu": "(Slice)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Whipped Topping (V)"
-      },
-      {
-       "all_menu": "(1 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      }
-     ],
-     "Stations": [
-      {
-       "station": "PLAT DU JOUR"
-      },
-      {
-       "station": "VEGAN SPECIAL"
-      },
-      {
-       "station": "GLUTEN FREE"
-      },
-      {
-       "station": "HALAL"
-      },
-      {
-       "station": "BREADS"
-      },
-      {
-       "station": "DESSERTS"
-      }
-     ],
-     "Menus": [
-      {
-       "Menu": "Herb Crusted Sirloin of Beef"
-      },
-      {
-       "Menu": "Mashed Redskin Potatoes (OL)"
-      },
-      {
-       "Menu": "Beef Gravy"
-      },
-      {
-       "Menu": "Vegetable Melange (V)"
-      },
-      {
-       "Menu": "Curry Coconut Quinoa w/ Cauliflower (V)"
-      },
-      {
-       "Menu": "Jasmine Rice (V)"
-      },
-      {
-       "Menu": "Vegetable Melange (V)"
-      },
-      {
-       "Menu": "Herb Crusted Sirloin of Beef"
-      },
-      {
-       "Menu": "Mashed Redskin Potatoes (OL)"
-      },
-      {
-       "Menu": "Vegetable Melange (V)"
-      },
-      {
-       "Menu": "Herb Crusted Sirloin of Beef"
-      },
-      {
-       "Menu": "Mashed Redskin Potatoes (OL)"
-      },
-      {
-       "Menu": "Vegetable Melange (V)"
-      },
-      {
-       "Menu": "Potato Bread (OL)"
-      },
-      {
-       "Menu": "Peppermint Cheesecake (OL)"
-      },
-      {
-       "Menu": "Cherry Pie (V)"
-      },
-      {
-       "Menu": "Fruits of the Forest Pie (V)"
-      },
-      {
-       "Menu": "Whipped Topping (V)"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "Time": "Thursday, August 27, 2020",
    "TypeFood": [
     {
@@ -1131,45 +565,6 @@
       },
       {
        "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "HONOR G GRILL"
-      },
-      {
-       "all_menu": "Denver Duo Casserole w/Pork"
-      },
-      {
-       "all_menu": "(3.52 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Rosemary Herb Potatoes (V)"
-      },
-      {
-       "all_menu": "(4 Oz Portion)\n(4 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Fruit Cup"
-      },
-      {
-       "all_menu": "(7 Oz)\n(7 Oz)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Tofu Scrambler (V)"
-      },
-      {
-       "all_menu": "(3/4 Cup)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
       }
      ],
      "Stations": [
@@ -1181,9 +576,6 @@
       },
       {
        "station": "GLUTEN FREE"
-      },
-      {
-       "station": "HONOR G GRILL"
       }
      ],
      "Menus": [
@@ -1213,18 +605,6 @@
       },
       {
        "Menu": "Fruit Cup"
-      },
-      {
-       "Menu": "Denver Duo Casserole w/Pork"
-      },
-      {
-       "Menu": "Rosemary Herb Potatoes (V)"
-      },
-      {
-       "Menu": "Fruit Cup"
-      },
-      {
-       "Menu": "Tofu Scrambler (V)"
       }
      ]
     },
@@ -1985,7 +1365,115 @@
      ]
     },
     {
-     "Type": "DAILY OFFERINGS"
+     "Type": "DAILY OFFERINGS",
+     "Table": [
+      {
+       "all_menu": "BEVERAGES"
+      },
+      {
+       "all_menu": "Apple Juice Bottle"
+      },
+      {
+       "all_menu": "(10 Oz Bottle)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Milk Carton Skim"
+      },
+      {
+       "all_menu": "Carton"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Milk Carton 2%"
+      },
+      {
+       "all_menu": "Carton"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Milk Chocolate Carton 2%"
+      },
+      {
+       "all_menu": "Carton"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Soy Milk"
+      },
+      {
+       "all_menu": "(8 Oz)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Vanilla Soy Milk"
+      },
+      {
+       "all_menu": "(8 Oz)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Canned Coke Pop"
+      },
+      {
+       "all_menu": "Can"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Canned Diet Coke Pop"
+      },
+      {
+       "all_menu": "Can"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      }
+     ],
+     "Stations": [
+      {
+       "station": "BEVERAGES"
+      }
+     ],
+     "Menus": [
+      {
+       "Menu": "Apple Juice Bottle"
+      },
+      {
+       "Menu": "Milk Carton Skim"
+      },
+      {
+       "Menu": "Milk Carton 2%"
+      },
+      {
+       "Menu": "Milk Chocolate Carton 2%"
+      },
+      {
+       "Menu": "Soy Milk"
+      },
+      {
+       "Menu": "Vanilla Soy Milk"
+      },
+      {
+       "Menu": "Canned Coke Pop"
+      },
+      {
+       "Menu": "Canned Diet Coke Pop"
+      }
+     ]
     }
    ]
   },
@@ -2038,7 +1526,7 @@
        "all_menu": "1\n2\n3\n4\n5"
       },
       {
-       "all_menu": "Red Grapes (V)"
+       "all_menu": "Red Grapes"
       },
       {
        "all_menu": "(4 Oz Portion)\n(4 Oz Portion)"
@@ -2095,64 +1583,7 @@
        "all_menu": "1\n2\n3\n4\n5"
       },
       {
-       "all_menu": "Red Grapes (V)"
-      },
-      {
-       "all_menu": "(4 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "HONOR G GRILL"
-      },
-      {
-       "all_menu": "Scrambled Eggs (OL)"
-      },
-      {
-       "all_menu": "(2.66 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Breakfast Chicken Sausage Patty"
-      },
-      {
-       "all_menu": "2 (1.5 Oz Patty)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Hash Browns (V)"
-      },
-      {
-       "all_menu": "(4 Oz Portion)\n(4 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Whole Wheat Oat Pancakes (V)"
-      },
-      {
-       "all_menu": "(Pancake)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Maple Syrup (V)"
-      },
-      {
-       "all_menu": "(1 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Red Grapes (V)"
+       "all_menu": "Red Grapes"
       },
       {
        "all_menu": "(4 Oz Portion)"
@@ -2170,9 +1601,6 @@
       },
       {
        "station": "GLUTEN FREE"
-      },
-      {
-       "station": "HONOR G GRILL"
       }
      ],
      "Menus": [
@@ -2189,7 +1617,7 @@
        "Menu": "Hash Browns (V)"
       },
       {
-       "Menu": "Red Grapes (V)"
+       "Menu": "Red Grapes"
       },
       {
        "Menu": "Whole Wheat Oat Pancakes (V)"
@@ -2207,25 +1635,7 @@
        "Menu": "Hash Browns (V)"
       },
       {
-       "Menu": "Red Grapes (V)"
-      },
-      {
-       "Menu": "Scrambled Eggs (OL)"
-      },
-      {
-       "Menu": "Breakfast Chicken Sausage Patty"
-      },
-      {
-       "Menu": "Hash Browns (V)"
-      },
-      {
-       "Menu": "Whole Wheat Oat Pancakes (V)"
-      },
-      {
-       "Menu": "Maple Syrup (V)"
-      },
-      {
-       "Menu": "Red Grapes (V)"
+       "Menu": "Red Grapes"
       }
      ]
     },
@@ -2266,7 +1676,7 @@
        "all_menu": "1\n2\n3\n4\n5"
       },
       {
-       "all_menu": "Red Grapes (V)"
+       "all_menu": "Red Grapes"
       },
       {
        "all_menu": "(4 Oz Portion)"
@@ -2294,7 +1704,7 @@
        "Menu": "Assorted Yogurts (OL)"
       },
       {
-       "Menu": "Red Grapes (V)"
+       "Menu": "Red Grapes"
       }
      ]
     },
@@ -2578,7 +1988,7 @@
        "all_menu": "1\n2\n3\n4\n5"
       },
       {
-       "all_menu": "Red Grapes (V)"
+       "all_menu": "Red Grapes"
       },
       {
        "all_menu": "(4 Oz Portion)\n(4 Oz Portion)"
@@ -2624,7 +2034,7 @@
        "Menu": "Tossed Salad (V)"
       },
       {
-       "Menu": "Red Grapes (V)"
+       "Menu": "Red Grapes"
       },
       {
        "Menu": "Grilled Vegetable Club Sandwich(V) To Go"
@@ -2962,7 +2372,103 @@
      ]
     },
     {
-     "Type": "DAILY OFFERINGS"
+     "Type": "DAILY OFFERINGS",
+     "Table": [
+      {
+       "all_menu": "BEVERAGES"
+      },
+      {
+       "all_menu": "Apple Juice Bottle"
+      },
+      {
+       "all_menu": "(10 Oz Bottle)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Milk Carton Skim"
+      },
+      {
+       "all_menu": "Carton"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Milk Carton 2%"
+      },
+      {
+       "all_menu": "Carton"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Milk Chocolate Carton 2%"
+      },
+      {
+       "all_menu": "Carton"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Soy Milk"
+      },
+      {
+       "all_menu": "(8 Oz)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Vanilla Soy Milk"
+      },
+      {
+       "all_menu": "(8 Oz)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Canned Mountain Dew Pop"
+      },
+      {
+       "all_menu": "Can"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      }
+     ],
+     "Stations": [
+      {
+       "station": "BEVERAGES"
+      }
+     ],
+     "Menus": [
+      {
+       "Menu": "Apple Juice Bottle"
+      },
+      {
+       "Menu": "Milk Carton Skim"
+      },
+      {
+       "Menu": "Milk Carton 2%"
+      },
+      {
+       "Menu": "Milk Chocolate Carton 2%"
+      },
+      {
+       "Menu": "Soy Milk"
+      },
+      {
+       "Menu": "Vanilla Soy Milk"
+      },
+      {
+       "Menu": "Canned Mountain Dew Pop"
+      }
+     ]
     }
    ]
   },
@@ -3627,7 +3133,103 @@
      ]
     },
     {
-     "Type": "DAILY OFFERINGS"
+     "Type": "DAILY OFFERINGS",
+     "Table": [
+      {
+       "all_menu": "BEVERAGES"
+      },
+      {
+       "all_menu": "Milk Carton Skim"
+      },
+      {
+       "all_menu": "Carton"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Milk Carton 2%"
+      },
+      {
+       "all_menu": "Carton"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Milk Chocolate Carton 2%"
+      },
+      {
+       "all_menu": "Carton"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Soy Milk"
+      },
+      {
+       "all_menu": "(8 Oz)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Vanilla Soy Milk"
+      },
+      {
+       "all_menu": "(8 Oz)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Canned Pepsi Pop"
+      },
+      {
+       "all_menu": "Can"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Canned Diet Mountain Dew Pop"
+      },
+      {
+       "all_menu": "12 Oz Can"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      }
+     ],
+     "Stations": [
+      {
+       "station": "BEVERAGES"
+      }
+     ],
+     "Menus": [
+      {
+       "Menu": "Milk Carton Skim"
+      },
+      {
+       "Menu": "Milk Carton 2%"
+      },
+      {
+       "Menu": "Milk Chocolate Carton 2%"
+      },
+      {
+       "Menu": "Soy Milk"
+      },
+      {
+       "Menu": "Vanilla Soy Milk"
+      },
+      {
+       "Menu": "Canned Pepsi Pop"
+      },
+      {
+       "Menu": "Canned Diet Mountain Dew Pop"
+      }
+     ]
     }
    ]
   },
@@ -3680,7 +3282,7 @@
        "all_menu": "1\n2\n3\n4\n5"
       },
       {
-       "all_menu": "Red Grapes (V)"
+       "all_menu": "Red Grapes"
       },
       {
        "all_menu": "(4 Oz Portion)\n(4 Oz Portion)"
@@ -3737,7 +3339,7 @@
        "all_menu": "1\n2\n3\n4\n5"
       },
       {
-       "all_menu": "Red Grapes (V)"
+       "all_menu": "Red Grapes"
       },
       {
        "all_menu": "(4 Oz Portion)"
@@ -3771,7 +3373,7 @@
        "Menu": "Whole Grain Quinoa Hashbrowns (OL)"
       },
       {
-       "Menu": "Red Grapes (V)"
+       "Menu": "Red Grapes"
       },
       {
        "Menu": "Tofu Scrambler (V)"
@@ -3789,7 +3391,7 @@
        "Menu": "Whole Grain Quinoa Hashbrowns (OL)"
       },
       {
-       "Menu": "Red Grapes (V)"
+       "Menu": "Red Grapes"
       }
      ]
     },
@@ -3815,7 +3417,7 @@
        "all_menu": "Sliced Brie Cheese"
       },
       {
-       "all_menu": "Pound"
+       "all_menu": "(2 Oz Portion)"
       },
       {
        "all_menu": "1\n2\n3\n4\n5"
@@ -3833,7 +3435,7 @@
        "all_menu": "Black Cherry Preserves"
       },
       {
-       "all_menu": "(1 Tablespoon)"
+       "all_menu": "(2 Tablespoon)"
       },
       {
        "all_menu": "1\n2\n3\n4\n5"
@@ -3842,7 +3444,7 @@
        "all_menu": "Fruit Medley (V)"
       },
       {
-       "all_menu": "Pound"
+       "all_menu": "(1/4 Cup)"
       },
       {
        "all_menu": "1\n2\n3\n4\n5"
@@ -3857,7 +3459,7 @@
        "all_menu": "1\n2\n3\n4\n5"
       },
       {
-       "all_menu": "Red Grapes (V)"
+       "all_menu": "Red Grapes"
       },
       {
        "all_menu": "(4 Oz Portion)"
@@ -3894,7 +3496,7 @@
        "Menu": "Hard Boiled Eggs"
       },
       {
-       "Menu": "Red Grapes (V)"
+       "Menu": "Red Grapes"
       }
      ]
     },
@@ -4178,7 +3780,7 @@
        "all_menu": "1\n2\n3\n4\n5"
       },
       {
-       "all_menu": "Red Grapes (V)"
+       "all_menu": "Red Grapes"
       },
       {
        "all_menu": "(4 Oz Portion)\n(4 Oz Portion)"
@@ -4224,7 +3826,7 @@
        "Menu": "Chip Potato Lays Individual"
       },
       {
-       "Menu": "Red Grapes (V)"
+       "Menu": "Red Grapes"
       },
       {
        "Menu": "Santa Fe Salad To Go"
@@ -4538,7 +4140,103 @@
      ]
     },
     {
-     "Type": "DAILY OFFERINGS"
+     "Type": "DAILY OFFERINGS",
+     "Table": [
+      {
+       "all_menu": "BEVERAGES"
+      },
+      {
+       "all_menu": "Cranberry Juice Bottle"
+      },
+      {
+       "all_menu": "(10 Oz Bottle)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Milk Carton Skim"
+      },
+      {
+       "all_menu": "Carton"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Milk Carton 2%"
+      },
+      {
+       "all_menu": "Carton"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Milk Chocolate Carton 2%"
+      },
+      {
+       "all_menu": "Carton"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Soy Milk"
+      },
+      {
+       "all_menu": "(8 Oz)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Vanilla Soy Milk"
+      },
+      {
+       "all_menu": "(8 Oz)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Canned Diet Coke Pop"
+      },
+      {
+       "all_menu": "Can"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      }
+     ],
+     "Stations": [
+      {
+       "station": "BEVERAGES"
+      }
+     ],
+     "Menus": [
+      {
+       "Menu": "Cranberry Juice Bottle"
+      },
+      {
+       "Menu": "Milk Carton Skim"
+      },
+      {
+       "Menu": "Milk Carton 2%"
+      },
+      {
+       "Menu": "Milk Chocolate Carton 2%"
+      },
+      {
+       "Menu": "Soy Milk"
+      },
+      {
+       "Menu": "Vanilla Soy Milk"
+      },
+      {
+       "Menu": "Canned Diet Coke Pop"
+      }
+     ]
     }
    ]
   },
@@ -4714,7 +4412,7 @@
        "all_menu": "Goat Cheese (OL)"
       },
       {
-       "all_menu": "(1 Oz Portion)"
+       "all_menu": "(2 Oz Portion)"
       },
       {
        "all_menu": "1\n2\n3\n4\n5"
@@ -4723,7 +4421,7 @@
        "all_menu": "Baguette Slices HOH"
       },
       {
-       "all_menu": "Slices"
+       "all_menu": "(3 Slices)"
       },
       {
        "all_menu": "1\n2\n3\n4\n5"
@@ -4732,7 +4430,7 @@
        "all_menu": "Apricot Preserves"
       },
       {
-       "all_menu": "(1 Tbsp)"
+       "all_menu": "(2 Tablespoon)"
       },
       {
        "all_menu": "1\n2\n3\n4\n5"
@@ -4741,7 +4439,7 @@
        "all_menu": "Fruit Medley (V)"
       },
       {
-       "all_menu": "Pound"
+       "all_menu": "(1/4 Cup)"
       },
       {
        "all_menu": "1\n2\n3\n4\n5"
@@ -5509,7 +5207,103 @@
      ]
     },
     {
-     "Type": "DAILY OFFERINGS"
+     "Type": "DAILY OFFERINGS",
+     "Table": [
+      {
+       "all_menu": "BEVERAGES"
+      },
+      {
+       "all_menu": "Cranberry Juice Bottle"
+      },
+      {
+       "all_menu": "(10 Oz Bottle)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Milk Carton Skim"
+      },
+      {
+       "all_menu": "Carton"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Milk Carton 2%"
+      },
+      {
+       "all_menu": "Carton"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Milk Chocolate Carton 2%"
+      },
+      {
+       "all_menu": "Carton"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Soy Milk"
+      },
+      {
+       "all_menu": "(8 Oz)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Vanilla Soy Milk"
+      },
+      {
+       "all_menu": "(8 Oz)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Canned Pepsi Pop"
+      },
+      {
+       "all_menu": "Can"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      }
+     ],
+     "Stations": [
+      {
+       "station": "BEVERAGES"
+      }
+     ],
+     "Menus": [
+      {
+       "Menu": "Cranberry Juice Bottle"
+      },
+      {
+       "Menu": "Milk Carton Skim"
+      },
+      {
+       "Menu": "Milk Carton 2%"
+      },
+      {
+       "Menu": "Milk Chocolate Carton 2%"
+      },
+      {
+       "Menu": "Soy Milk"
+      },
+      {
+       "Menu": "Vanilla Soy Milk"
+      },
+      {
+       "Menu": "Canned Pepsi Pop"
+      }
+     ]
     }
    ]
   },
@@ -5709,7 +5503,7 @@
        "all_menu": "Sliced Brie Cheese"
       },
       {
-       "all_menu": "Pound"
+       "all_menu": "(2 Oz Portion)"
       },
       {
        "all_menu": "1\n2\n3\n4\n5"
@@ -5727,7 +5521,7 @@
        "all_menu": "Black Cherry Preserves"
       },
       {
-       "all_menu": "6/10 Oz"
+       "all_menu": "(2 Tablespoon)"
       },
       {
        "all_menu": "1\n2\n3\n4\n5"
@@ -5736,7 +5530,7 @@
        "all_menu": "Fruit Medley (V)"
       },
       {
-       "all_menu": "Pound"
+       "all_menu": "(1/4 Cup)"
       },
       {
        "all_menu": "1\n2\n3\n4\n5"
@@ -5844,7 +5638,7 @@
        "all_menu": "1\n2\n3\n4\n5"
       },
       {
-       "all_menu": "Red Grapes (V)"
+       "all_menu": "Red Grapes"
       },
       {
        "all_menu": "(4 Oz Portion)\n(4 Oz Portion)"
@@ -5901,7 +5695,7 @@
        "all_menu": "1\n2\n3\n4\n5"
       },
       {
-       "all_menu": "Red Grapes (V)"
+       "all_menu": "Red Grapes"
       },
       {
        "all_menu": "(4 Oz Portion)"
@@ -5940,7 +5734,7 @@
        "all_menu": "1\n2\n3\n4\n5"
       },
       {
-       "all_menu": "Red Grapes (V)"
+       "all_menu": "Red Grapes"
       },
       {
        "all_menu": "(4 Oz Portion)"
@@ -5997,7 +5791,7 @@
        "all_menu": "1\n2\n3\n4\n5"
       },
       {
-       "all_menu": "Red Grapes (V)"
+       "all_menu": "Red Grapes"
       },
       {
        "all_menu": "(4 Oz Portion)\n(4 Oz Portion)"
@@ -6079,7 +5873,7 @@
        "Menu": "Mixed Vegetables (V)"
       },
       {
-       "Menu": "Red Grapes (V)"
+       "Menu": "Red Grapes"
       },
       {
        "Menu": "Pad Thai (V)"
@@ -6097,7 +5891,7 @@
        "Menu": "Mixed Vegetables (V)"
       },
       {
-       "Menu": "Red Grapes (V)"
+       "Menu": "Red Grapes"
       },
       {
        "Menu": "Pad Thai (V)"
@@ -6109,7 +5903,7 @@
        "Menu": "Mixed Vegetables (V)"
       },
       {
-       "Menu": "Red Grapes (V)"
+       "Menu": "Red Grapes"
       },
       {
        "Menu": "Tempura Battered Chicken Nuggets"
@@ -6127,7 +5921,7 @@
        "Menu": "Mixed Vegetables (V)"
       },
       {
-       "Menu": "Red Grapes (V)"
+       "Menu": "Red Grapes"
       },
       {
        "Menu": "Pad Thai (V)"
@@ -6672,7 +6466,1254 @@
      ]
     },
     {
-     "Type": "DAILY OFFERINGS"
+     "Type": "DAILY OFFERINGS",
+     "Table": [
+      {
+       "all_menu": "BEVERAGES"
+      },
+      {
+       "all_menu": "Cranberry Juice Bottle"
+      },
+      {
+       "all_menu": "(10 Oz Bottle)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Milk Carton Skim"
+      },
+      {
+       "all_menu": "Carton"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Milk Carton 2%"
+      },
+      {
+       "all_menu": "Carton"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Milk Chocolate Carton 2%"
+      },
+      {
+       "all_menu": "Carton"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Soy Milk"
+      },
+      {
+       "all_menu": "(8 Oz)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Vanilla Soy Milk"
+      },
+      {
+       "all_menu": "(8 Oz)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Canned Coke Pop"
+      },
+      {
+       "all_menu": "Can"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Canned Diet Mountain Dew Pop"
+      },
+      {
+       "all_menu": "Can"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      }
+     ],
+     "Stations": [
+      {
+       "station": "BEVERAGES"
+      }
+     ],
+     "Menus": [
+      {
+       "Menu": "Cranberry Juice Bottle"
+      },
+      {
+       "Menu": "Milk Carton Skim"
+      },
+      {
+       "Menu": "Milk Carton 2%"
+      },
+      {
+       "Menu": "Milk Chocolate Carton 2%"
+      },
+      {
+       "Menu": "Soy Milk"
+      },
+      {
+       "Menu": "Vanilla Soy Milk"
+      },
+      {
+       "Menu": "Canned Coke Pop"
+      },
+      {
+       "Menu": "Canned Diet Mountain Dew Pop"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Time": "Thursday, September 3, 2020",
+   "TypeFood": [
+    {
+     "Type": "BREAKFAST",
+     "Table": [
+      {
+       "all_menu": "BREAKFAST PASTRY"
+      },
+      {
+       "all_menu": "Chocolate Zucchini Muffin (V)"
+      },
+      {
+       "all_menu": "(Muffin)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "PLAT DU JOUR"
+      },
+      {
+       "all_menu": "Huevos Rancheros Casserole (OL)"
+      },
+      {
+       "all_menu": "(6.6 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Chorizo Hash w/Pork"
+      },
+      {
+       "all_menu": "(6 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Yogurt Parfait with Nuts (HOH)"
+      },
+      {
+       "all_menu": "(Yogurt Parfait)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Yogurt Parfait W/O Nuts (HOH)"
+      },
+      {
+       "all_menu": "(Yogurt Parfait)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Fresh Blueberries"
+      },
+      {
+       "all_menu": "3 Oz Portion\n3 Oz Portion"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Oatmeal (V)"
+      },
+      {
+       "all_menu": "(6 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Dried Cherries (V)"
+      },
+      {
+       "all_menu": "(1 Tablespoon)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Maple Syrup (V)"
+      },
+      {
+       "all_menu": "(1 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Walnuts (V)"
+      },
+      {
+       "all_menu": "(1 Oz)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "GLUTEN FREE"
+      },
+      {
+       "all_menu": "Huevos Rancheros Casserole (OL)"
+      },
+      {
+       "all_menu": "(6 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Chorizo Hash w/Pork"
+      },
+      {
+       "all_menu": "(6 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Fresh Blueberries"
+      },
+      {
+       "all_menu": "3 Oz Portion"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      }
+     ],
+     "Stations": [
+      {
+       "station": "BREAKFAST PASTRY"
+      },
+      {
+       "station": "PLAT DU JOUR"
+      },
+      {
+       "station": "GLUTEN FREE"
+      }
+     ],
+     "Menus": [
+      {
+       "Menu": "Chocolate Zucchini Muffin (V)"
+      },
+      {
+       "Menu": "Huevos Rancheros Casserole (OL)"
+      },
+      {
+       "Menu": "Chorizo Hash w/Pork"
+      },
+      {
+       "Menu": "Yogurt Parfait with Nuts (HOH)"
+      },
+      {
+       "Menu": "Yogurt Parfait W/O Nuts (HOH)"
+      },
+      {
+       "Menu": "Fresh Blueberries"
+      },
+      {
+       "Menu": "Oatmeal (V)"
+      },
+      {
+       "Menu": "Dried Cherries (V)"
+      },
+      {
+       "Menu": "Maple Syrup (V)"
+      },
+      {
+       "Menu": "Walnuts (V)"
+      },
+      {
+       "Menu": "Huevos Rancheros Casserole (OL)"
+      },
+      {
+       "Menu": "Chorizo Hash w/Pork"
+      },
+      {
+       "Menu": "Fresh Blueberries"
+      }
+     ]
+    },
+    {
+     "Type": "LIGHT BREAKFAST",
+     "Table": [
+      {
+       "all_menu": "BREAKFAST PASTRY"
+      },
+      {
+       "all_menu": "Chocolate Zucchini Muffin (V)"
+      },
+      {
+       "all_menu": "(Muffin)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "PLAT DU JOUR"
+      },
+      {
+       "all_menu": "Goat Cheese (OL)"
+      },
+      {
+       "all_menu": "(2 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Baguette Slices HOH"
+      },
+      {
+       "all_menu": "(3 Slices)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Apricot Preserves"
+      },
+      {
+       "all_menu": "(2 Tablespoon)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Fruit Medley (V)"
+      },
+      {
+       "all_menu": "(1/4 Cup)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Hard Boiled Eggs"
+      },
+      {
+       "all_menu": "(Egg)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Fresh Blueberries"
+      },
+      {
+       "all_menu": "3 Oz Portion"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      }
+     ],
+     "Stations": [
+      {
+       "station": "BREAKFAST PASTRY"
+      },
+      {
+       "station": "PLAT DU JOUR"
+      }
+     ],
+     "Menus": [
+      {
+       "Menu": "Chocolate Zucchini Muffin (V)"
+      },
+      {
+       "Menu": "Goat Cheese (OL)"
+      },
+      {
+       "Menu": "Baguette Slices HOH"
+      },
+      {
+       "Menu": "Apricot Preserves"
+      },
+      {
+       "Menu": "Fruit Medley (V)"
+      },
+      {
+       "Menu": "Hard Boiled Eggs"
+      },
+      {
+       "Menu": "Fresh Blueberries"
+      }
+     ]
+    },
+    {
+     "Type": "LUNCH",
+     "Table": [
+      {
+       "all_menu": "PLAT DU JOUR"
+      },
+      {
+       "all_menu": "Ropa Vieja"
+      },
+      {
+       "all_menu": "(8 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Steamed White Rice (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Black Beans (V)"
+      },
+      {
+       "all_menu": "(6 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Lime Wedges (V)"
+      },
+      {
+       "all_menu": "(Wedge)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Roasted Zucchini (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)\n(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Quinoa with Lime, Corn & Jalapeno (V)"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Churro Beans (V)"
+      },
+      {
+       "all_menu": "(6 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "GLUTEN FREE"
+      },
+      {
+       "all_menu": "Ropa Vieja"
+      },
+      {
+       "all_menu": "(8 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Steamed White Rice (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Black Beans (V)"
+      },
+      {
+       "all_menu": "(6 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Lime Wedges (V)"
+      },
+      {
+       "all_menu": "(Wedge)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Roasted Zucchini (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "HALAL"
+      },
+      {
+       "all_menu": "Ropa Vieja"
+      },
+      {
+       "all_menu": "(8 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Steamed White Rice (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Black Beans (V)"
+      },
+      {
+       "all_menu": "(6 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Lime Wedges (V)"
+      },
+      {
+       "all_menu": "(Wedge)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Roasted Zucchini (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "HONOR G GRILL"
+      },
+      {
+       "all_menu": "Ropa Vieja"
+      },
+      {
+       "all_menu": "(8 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Steamed White Rice (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Black Beans (V)"
+      },
+      {
+       "all_menu": "(6 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Lime Wedges (V)"
+      },
+      {
+       "all_menu": "(Wedge)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Roasted Zucchini (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)\n(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Quinoa with Lime, Corn & Jalapeno (V)"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Churro Beans (V)"
+      },
+      {
+       "all_menu": "(6 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "DESSERTS"
+      },
+      {
+       "all_menu": "Brown Butter Rice Krispy Bar (OL)"
+      },
+      {
+       "all_menu": "Piece"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Cherry Pie (V)"
+      },
+      {
+       "all_menu": "(Slice)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      }
+     ],
+     "Stations": [
+      {
+       "station": "PLAT DU JOUR"
+      },
+      {
+       "station": "GLUTEN FREE"
+      },
+      {
+       "station": "HALAL"
+      },
+      {
+       "station": "HONOR G GRILL"
+      },
+      {
+       "station": "DESSERTS"
+      }
+     ],
+     "Menus": [
+      {
+       "Menu": "Ropa Vieja"
+      },
+      {
+       "Menu": "Steamed White Rice (V)"
+      },
+      {
+       "Menu": "Black Beans (V)"
+      },
+      {
+       "Menu": "Lime Wedges (V)"
+      },
+      {
+       "Menu": "Roasted Zucchini (V)"
+      },
+      {
+       "Menu": "Quinoa with Lime, Corn & Jalapeno (V)"
+      },
+      {
+       "Menu": "Churro Beans (V)"
+      },
+      {
+       "Menu": "Ropa Vieja"
+      },
+      {
+       "Menu": "Steamed White Rice (V)"
+      },
+      {
+       "Menu": "Black Beans (V)"
+      },
+      {
+       "Menu": "Lime Wedges (V)"
+      },
+      {
+       "Menu": "Roasted Zucchini (V)"
+      },
+      {
+       "Menu": "Ropa Vieja"
+      },
+      {
+       "Menu": "Steamed White Rice (V)"
+      },
+      {
+       "Menu": "Black Beans (V)"
+      },
+      {
+       "Menu": "Lime Wedges (V)"
+      },
+      {
+       "Menu": "Roasted Zucchini (V)"
+      },
+      {
+       "Menu": "Ropa Vieja"
+      },
+      {
+       "Menu": "Steamed White Rice (V)"
+      },
+      {
+       "Menu": "Black Beans (V)"
+      },
+      {
+       "Menu": "Lime Wedges (V)"
+      },
+      {
+       "Menu": "Roasted Zucchini (V)"
+      },
+      {
+       "Menu": "Quinoa with Lime, Corn & Jalapeno (V)"
+      },
+      {
+       "Menu": "Churro Beans (V)"
+      },
+      {
+       "Menu": "Brown Butter Rice Krispy Bar (OL)"
+      },
+      {
+       "Menu": "Cherry Pie (V)"
+      }
+     ]
+    },
+    {
+     "Type": "LIGHT LUNCH",
+     "Table": [
+      {
+       "all_menu": "PLAT DU JOUR"
+      },
+      {
+       "all_menu": "Caprese Sandwich To Go"
+      },
+      {
+       "all_menu": "(Sandwich)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Salad with Raspberry Vinaigrette To Go"
+      },
+      {
+       "all_menu": "(5.5 Oz Side Salad)\n(5.5 Oz Side Salad)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Fresh Blueberries"
+      },
+      {
+       "all_menu": "3 Oz Portion\n3 Oz Portion"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Eggplant & Red Onion Sandwich (V)"
+      },
+      {
+       "all_menu": "Sandwich"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "DESSERTS"
+      },
+      {
+       "all_menu": "Cherry Pie (V)"
+      },
+      {
+       "all_menu": "(Slice)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      }
+     ],
+     "Stations": [
+      {
+       "station": "PLAT DU JOUR"
+      },
+      {
+       "station": "DESSERTS"
+      }
+     ],
+     "Menus": [
+      {
+       "Menu": "Caprese Sandwich To Go"
+      },
+      {
+       "Menu": "Salad with Raspberry Vinaigrette To Go"
+      },
+      {
+       "Menu": "Fresh Blueberries"
+      },
+      {
+       "Menu": "Eggplant & Red Onion Sandwich (V)"
+      },
+      {
+       "Menu": "Cherry Pie (V)"
+      }
+     ]
+    },
+    {
+     "Type": "DINNER",
+     "Table": [
+      {
+       "all_menu": "PLAT DU JOUR"
+      },
+      {
+       "all_menu": "Salmon Bulgogi"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Basmati Rice (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)\n(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Wok-Fried Edamame with Chilies (V)"
+      },
+      {
+       "all_menu": "(4 Oz Portion)\n(6 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Stone Ground Wheat Bread with Honey (OL)"
+      },
+      {
+       "all_menu": "(Slice)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Apples Granny Smith"
+      },
+      {
+       "all_menu": "(Granny Smith Apple)\n(Granny Smith Apple)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Braised Bok Choy"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "GLUTEN FREE"
+      },
+      {
+       "all_menu": "Salmon Bulgogi"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Basmati Rice (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Wok-Fried Edamame with Chilies (V)"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Apples Granny Smith"
+      },
+      {
+       "all_menu": "(Granny Smith Apple)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "HALAL"
+      },
+      {
+       "all_menu": "Salmon Bulgogi Halal"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Basmati Rice (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Wok-Fried Edamame with Chilies (V)"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Apples Granny Smith"
+      },
+      {
+       "all_menu": "(Granny Smith Apple)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "HONOR G GRILL"
+      },
+      {
+       "all_menu": "Salmon Bulgogi"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Basmati Rice (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)\n(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Wok-Fried Edamame with Chilies (V)"
+      },
+      {
+       "all_menu": "(4 Oz Portion)\n(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Stone Ground Wheat Bread with Honey (OL)"
+      },
+      {
+       "all_menu": "(Slice)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Apples Granny Smith"
+      },
+      {
+       "all_menu": "(Granny Smith Apple)\n(Granny Smith Apple)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Braised Bok Choy"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "DESSERTS"
+      },
+      {
+       "all_menu": "Root Beer Cake"
+      },
+      {
+       "all_menu": "(1 Piece)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Apple Pie (V)"
+      },
+      {
+       "all_menu": "(Slice)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      }
+     ],
+     "Stations": [
+      {
+       "station": "PLAT DU JOUR"
+      },
+      {
+       "station": "GLUTEN FREE"
+      },
+      {
+       "station": "HALAL"
+      },
+      {
+       "station": "HONOR G GRILL"
+      },
+      {
+       "station": "DESSERTS"
+      }
+     ],
+     "Menus": [
+      {
+       "Menu": "Salmon Bulgogi"
+      },
+      {
+       "Menu": "Basmati Rice (V)"
+      },
+      {
+       "Menu": "Wok-Fried Edamame with Chilies (V)"
+      },
+      {
+       "Menu": "Stone Ground Wheat Bread with Honey (OL)"
+      },
+      {
+       "Menu": "Apples Granny Smith"
+      },
+      {
+       "Menu": "Braised Bok Choy"
+      },
+      {
+       "Menu": "Salmon Bulgogi"
+      },
+      {
+       "Menu": "Basmati Rice (V)"
+      },
+      {
+       "Menu": "Wok-Fried Edamame with Chilies (V)"
+      },
+      {
+       "Menu": "Apples Granny Smith"
+      },
+      {
+       "Menu": "Salmon Bulgogi Halal"
+      },
+      {
+       "Menu": "Basmati Rice (V)"
+      },
+      {
+       "Menu": "Wok-Fried Edamame with Chilies (V)"
+      },
+      {
+       "Menu": "Apples Granny Smith"
+      },
+      {
+       "Menu": "Salmon Bulgogi"
+      },
+      {
+       "Menu": "Basmati Rice (V)"
+      },
+      {
+       "Menu": "Wok-Fried Edamame with Chilies (V)"
+      },
+      {
+       "Menu": "Stone Ground Wheat Bread with Honey (OL)"
+      },
+      {
+       "Menu": "Apples Granny Smith"
+      },
+      {
+       "Menu": "Braised Bok Choy"
+      },
+      {
+       "Menu": "Root Beer Cake"
+      },
+      {
+       "Menu": "Apple Pie (V)"
+      }
+     ]
+    },
+    {
+     "Type": "DAILY OFFERINGS",
+     "Table": [
+      {
+       "all_menu": "BEVERAGES"
+      },
+      {
+       "all_menu": "Cranberry Juice Bottle"
+      },
+      {
+       "all_menu": "(10 Oz Bottle)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Milk Carton Skim"
+      },
+      {
+       "all_menu": "Carton"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Milk Carton 2%"
+      },
+      {
+       "all_menu": "Carton"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Milk Chocolate Carton 2%"
+      },
+      {
+       "all_menu": "Carton"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Soy Milk"
+      },
+      {
+       "all_menu": "(8 Oz)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Vanilla Soy Milk"
+      },
+      {
+       "all_menu": "(8 Oz)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Canned Coke Pop"
+      },
+      {
+       "all_menu": "Can"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Canned Diet Coke Pop"
+      },
+      {
+       "all_menu": "Can"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      }
+     ],
+     "Stations": [
+      {
+       "station": "BEVERAGES"
+      }
+     ],
+     "Menus": [
+      {
+       "Menu": "Cranberry Juice Bottle"
+      },
+      {
+       "Menu": "Milk Carton Skim"
+      },
+      {
+       "Menu": "Milk Carton 2%"
+      },
+      {
+       "Menu": "Milk Chocolate Carton 2%"
+      },
+      {
+       "Menu": "Soy Milk"
+      },
+      {
+       "Menu": "Vanilla Soy Milk"
+      },
+      {
+       "Menu": "Canned Coke Pop"
+      },
+      {
+       "Menu": "Canned Diet Coke Pop"
+      }
+     ]
     }
    ]
   }
