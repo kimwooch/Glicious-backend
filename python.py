@@ -44,6 +44,7 @@ def api_test():
             "LUNCH": "11:30 AM to 1:00 PM",
             "LIGHT LUNCH": "1:30 PM to 5:00 PM",
             "DINNER": "5:30 PM to 7:00 PM",
+            "DAILY OFFERINGS": ""
         },
         "Tuesday": {
             "BREAKFAST": "7:15 AM to 9:00 AM",
@@ -51,6 +52,7 @@ def api_test():
             "LUNCH": "11:30 AM to 1:00 PM",
             "LIGHT LUNCH": "1:30 PM to 5:00 PM",
             "DINNER": "5:30 PM to 7:00 PM",
+            "DAILY OFFERINGS": ""
         },
         "Wednesday": {
             "BREAKFAST": "7:15 AM to 9:00 AM",
@@ -58,6 +60,7 @@ def api_test():
             "LUNCH": "11:30 AM to 1:00 PM",
             "LIGHT LUNCH": "1:30 PM to 5:00 PM",
             "DINNER": "5:30 PM to 7:00 PM",
+            "DAILY OFFERINGS": ""
         },
         "Thursday": {
             "BREAKFAST": "7:15 AM to 9:00 AM",
@@ -65,6 +68,7 @@ def api_test():
             "LUNCH": "11:30 AM to 1:00 PM",
             "LIGHT LUNCH": "1:30 PM to 5:00 PM",
             "DINNER": "5:30 PM to 7:00 PM",
+            "DAILY OFFERINGS": ""
         },
         "Friday": {
             "BREAKFAST": "7:15 AM to 9:00 AM",
@@ -72,6 +76,7 @@ def api_test():
             "LUNCH": "11:30 AM to 1:00 PM",
             "LIGHT LUNCH": "1:30 PM to 5:00 PM",
             "DINNER": "5:30 PM to 7:00 PM",
+            "DAILY OFFERINGS": ""
         },
         "Saturday": {
             "BREAKFAST": "7:15 AM to 9:00 AM",
@@ -79,6 +84,7 @@ def api_test():
             "LUNCH": "11:30 AM to 1:00 PM",
             "LIGHT LUNCH": "",
             "DINNER": "5:30 PM to 7:00 PM",
+            "DAILY OFFERINGS": ""
         },
         "Sunday": {
             "BREAKFAST": "",
@@ -86,6 +92,7 @@ def api_test():
             "LUNCH": "11:30 AM to 1:00 PM",
             "LIGHT LUNCH": "",
             "DINNER": "5:30 PM to 7:00 PM",
+            "DAILY OFFERINGS": ""
         },
     }
     
@@ -95,42 +102,53 @@ def api_test():
             "LIGHT BREAKFAST": [0.0, 0.0],
             "LUNCH": [11.5, 13.0],
             "LIGHT LUNCH": [0.0, 0.0],
-            "DINNER": [17.5, 19.0]
+            "DINNER": [17.5, 19.0],
+            "DAILY OFFERINGS": [0,0]
         },
         "Tuesday": {
             "BREAKFAST": [7.25, 9.0],
             "LIGHT BREAKFAST": [0.0, 0.0],
             "LUNCH": [11.5, 13.0],
             "LIGHT LUNCH": [0.0, 0.0],
-            "DINNER": [17.5, 19.0]
+            "DINNER": [17.5, 19.0],
+            "DAILY OFFERINGS": [0,0]
+
         },
         "Wednesday": {
             "BREAKFAST": [7.25, 9.0],
             "LIGHT BREAKFAST": [0.0, 0.0],
             "LUNCH": [11.5, 13.0],
             "LIGHT LUNCH": [0.0, 0.0],
-            "DINNER": [17.5, 19.0]
+            "DINNER": [17.5, 19.0],
+            "DAILY OFFERINGS": [0,0]
+
         },
         "Thursday": {
             "BREAKFAST": [7.25, 9.0],
             "LIGHT BREAKFAST": [0.0, 0.0],
             "LUNCH": [11.5, 13.0],
             "LIGHT LUNCH": [0.0, 0.0],
-            "DINNER": [17.5, 19.0]
+            "DINNER": [17.5, 19.0],
+            "DAILY OFFERINGS": [0,0]
+
         },
         "Friday": {
             "BREAKFAST": [7.25, 9.0],
             "LIGHT BREAKFAST": [0.0, 0.0],
             "LUNCH": [11.5, 13.0],
             "LIGHT LUNCH": [0.0, 0.0],
-            "DINNER": [17.5, 19.0]
+            "DINNER": [17.5, 19.0],
+            "DAILY OFFERINGS": [0,0]
+
         },
         "Saturday": {
            "BREAKFAST": [7.25, 9.0],
            "LIGHT BREAKFAST": [0.0, 0.0],
             "LUNCH": [11.5, 13.0],
             "LIGHT LUNCH": [0.0, 0.0],
-            "DINNER": [17.5, 19.0]
+            "DINNER": [17.5, 19.0],
+            "DAILY OFFERINGS": [0,0]
+
         },
         "Sunday": {
             "BREAKFAST": [0.0, 0.0],
@@ -138,6 +156,8 @@ def api_test():
             "LUNCH": [11.5, 13.0],
             "LIGHT LUNCH": [0.0, 0.0],
             "DINNER": [17.5, 19.0],
+            "DAILY OFFERINGS": [0,0]
+
         },
     }
 
