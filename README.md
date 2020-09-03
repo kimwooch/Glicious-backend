@@ -10,14 +10,17 @@ Next, install [Flask].
 
 $ pip3 install Flask
 
+
 Next, go to flask folder.
 
 $ cd flask
 
-Run python.py
+
+Finally, run python.py
 
 $ export FLASK_APP=python
 $ flask run
+
 
 The api should be available at <http://localhost:5000/api/v1/menus/all>.
 
