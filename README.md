@@ -2,7 +2,7 @@
 
 Flask app to fetch dining menus everyday and create api to display opening time and menus for Glicious application.
 
-<img width="1126" alt="Screen Shot 2020-09-04 at 12 04 10 AM" src="https://user-images.githubusercontent.com/25372543/92132554-43256d80-ee42-11ea-8503-525c317ae5d4.png">
+<img width="800" alt="Screen Shot 2020-09-04 at 12 04 10 AM" src="https://user-images.githubusercontent.com/25372543/92132554-43256d80-ee42-11ea-8503-525c317ae5d4.png">
 
 
 ## Getting Started
