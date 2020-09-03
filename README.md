@@ -1,8 +1,8 @@
 # Glicious-backend
 
-Flask app to fetch dining menus everyday and create api to display opening time and menus for Glicious application.
+<img width="900" alt="Screen Shot 2020-09-04 at 12 04 10 AM" src="https://user-images.githubusercontent.com/25372543/92132554-43256d80-ee42-11ea-8503-525c317ae5d4.png">
 
-<img width="1124" alt="Screen Shot 2020-09-04 at 12 04 10 AM" src="https://user-images.githubusercontent.com/25372543/92132554-43256d80-ee42-11ea-8503-525c317ae5d4.png">
+Flask app to fetch dining menus everyday and create api to display opening time and menus for Glicious application.
 
 
 ## Getting Started
