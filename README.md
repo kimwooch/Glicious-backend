@@ -6,21 +6,24 @@ Flask app to fetch dining menus everyday and create api to display opening time 
 
 To get started with the app, clone the repo.
 
-Next, install [Flask]. 
+Next, Install [Flask]:
 
+```
 $ pip3 install Flask
+```
 
+Next, Go to flask folder:
 
-Next, go to flask folder.
-
+```
 $ cd flask
+```
 
+Finally, Run python.py:
 
-Finally, run python.py
-
+```
 $ export FLASK_APP=python
 $ flask run
-
+```
 
 The api should be available at <http://localhost:5000/api/v1/menus/all>.
 
