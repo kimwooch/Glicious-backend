@@ -1,1181 +1,6 @@
 {
  "Date": [
   {
-   "Time": "Saturday, November 21, 2020",
-   "TypeFood": [
-    {
-     "Type": "BREAKFAST",
-     "Table": [
-      {
-       "all_menu": "BREAKFAST PASTRY"
-      },
-      {
-       "all_menu": "Mocha Chocolate Muffin (V)"
-      },
-      {
-       "all_menu": "(1 Muffin)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Red Grapes (V)"
-      },
-      {
-       "all_menu": "(6 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Fresh Pear (V)"
-      },
-      {
-       "all_menu": "(Pear)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "PLAT DU JOUR"
-      },
-      {
-       "all_menu": "Scrambled Eggs (OL)"
-      },
-      {
-       "all_menu": "(5 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Breakfast Chicken Sausage Patty"
-      },
-      {
-       "all_menu": "2 (1.5 Oz Patty)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Hash Browns (V)"
-      },
-      {
-       "all_menu": "(4 Oz Portion)\n(4 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Whole Wheat Oat Pancakes (V)"
-      },
-      {
-       "all_menu": "(2 Pancake)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Maple Syrup (V)"
-      },
-      {
-       "all_menu": "(1 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "GLUTEN FREE"
-      },
-      {
-       "all_menu": "Scrambled Eggs (OL)"
-      },
-      {
-       "all_menu": "(5 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Breakfast Chicken Sausage Patty"
-      },
-      {
-       "all_menu": "2 (1.5 Oz Patty)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Hash Browns (V)"
-      },
-      {
-       "all_menu": "(4 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      }
-     ],
-     "Stations": [
-      {
-       "station": "BREAKFAST PASTRY"
-      },
-      {
-       "station": "PLAT DU JOUR"
-      },
-      {
-       "station": "GLUTEN FREE"
-      }
-     ],
-     "Menus": [
-      {
-       "Menu": "Mocha Chocolate Muffin (V)"
-      },
-      {
-       "Menu": "Red Grapes (V)"
-      },
-      {
-       "Menu": "Fresh Pear (V)"
-      },
-      {
-       "Menu": "Scrambled Eggs (OL)"
-      },
-      {
-       "Menu": "Breakfast Chicken Sausage Patty"
-      },
-      {
-       "Menu": "Hash Browns (V)"
-      },
-      {
-       "Menu": "Whole Wheat Oat Pancakes (V)"
-      },
-      {
-       "Menu": "Maple Syrup (V)"
-      },
-      {
-       "Menu": "Scrambled Eggs (OL)"
-      },
-      {
-       "Menu": "Breakfast Chicken Sausage Patty"
-      },
-      {
-       "Menu": "Hash Browns (V)"
-      }
-     ]
-    },
-    {
-     "Type": "LIGHT BREAKFAST",
-     "Table": [
-      {
-       "all_menu": "BREAKFAST PASTRY"
-      },
-      {
-       "all_menu": "Mocha Chocolate Muffin (V)"
-      },
-      {
-       "all_menu": "(1 Muffin)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Red Grapes (V)"
-      },
-      {
-       "all_menu": "(6 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Fresh Pear (V)"
-      },
-      {
-       "all_menu": "(Pear)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "PLAT DU JOUR"
-      },
-      {
-       "all_menu": "Blueberry Bagel w/Cream Cheese"
-      },
-      {
-       "all_menu": "Bagel"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Cinnamon Raisin Bagel w/ Cream Cheese"
-      },
-      {
-       "all_menu": "Bagel"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Plain Bagel w/Cream Cheese"
-      },
-      {
-       "all_menu": "Bagel"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Yogurt Parfait with Nuts (HOH)"
-      },
-      {
-       "all_menu": "(Yogurt Parfait)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Yogurt Parfait W/O Nuts (HOH)"
-      },
-      {
-       "all_menu": "(Yogurt Parfait)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      }
-     ],
-     "Stations": [
-      {
-       "station": "BREAKFAST PASTRY"
-      },
-      {
-       "station": "PLAT DU JOUR"
-      }
-     ],
-     "Menus": [
-      {
-       "Menu": "Mocha Chocolate Muffin (V)"
-      },
-      {
-       "Menu": "Red Grapes (V)"
-      },
-      {
-       "Menu": "Fresh Pear (V)"
-      },
-      {
-       "Menu": "Blueberry Bagel w/Cream Cheese"
-      },
-      {
-       "Menu": "Cinnamon Raisin Bagel w/ Cream Cheese"
-      },
-      {
-       "Menu": "Plain Bagel w/Cream Cheese"
-      },
-      {
-       "Menu": "Yogurt Parfait with Nuts (HOH)"
-      },
-      {
-       "Menu": "Yogurt Parfait W/O Nuts (HOH)"
-      }
-     ]
-    },
-    {
-     "Type": "LUNCH",
-     "Table": [
-      {
-       "all_menu": "PLAT DU JOUR"
-      },
-      {
-       "all_menu": "Macaroni & Cheese Pizza (OL)"
-      },
-      {
-       "all_menu": "(3 Slice)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Salad Caesar To Go"
-      },
-      {
-       "all_menu": "(6 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Roasted Fresh Green Beans (V)"
-      },
-      {
-       "all_menu": "(3 Oz Portion)\n(3 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Vegan Spicy Santa Fe Pizza (V)"
-      },
-      {
-       "all_menu": "(3 Slice)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Tossed Salad (V)"
-      },
-      {
-       "all_menu": "Salad"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "GLUTEN FREE"
-      },
-      {
-       "all_menu": "Pepperoni Pizza (GF)"
-      },
-      {
-       "all_menu": "(3 Slice)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Tossed Salad (V)"
-      },
-      {
-       "all_menu": "Salad"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Roasted Fresh Green Beans (V)"
-      },
-      {
-       "all_menu": "(3 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "HALAL"
-      },
-      {
-       "all_menu": "Vegan Spicy Santa Fe Pizza (V)"
-      },
-      {
-       "all_menu": "(3 Slice)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Tossed Salad (V)"
-      },
-      {
-       "all_menu": "Salad"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Roasted Fresh Green Beans (V)"
-      },
-      {
-       "all_menu": "(3 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "HONOR G GRILL"
-      },
-      {
-       "all_menu": "Macaroni & Cheese Pizza (OL)"
-      },
-      {
-       "all_menu": "(3 Slice)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Salad Caesar To Go"
-      },
-      {
-       "all_menu": "(6 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Roasted Fresh Green Beans (V)"
-      },
-      {
-       "all_menu": "(3 Oz Portion)\n(3 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Vegan Spicy Santa Fe Pizza (V)"
-      },
-      {
-       "all_menu": "(3 Slice)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Tossed Salad (V)"
-      },
-      {
-       "all_menu": "Salad"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "DESSERTS"
-      },
-      {
-       "all_menu": "Red Grapes (V)"
-      },
-      {
-       "all_menu": "(4 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Fresh Pear (V)"
-      },
-      {
-       "all_menu": "(Pear)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "OL*Benne Wafers"
-      },
-      {
-       "all_menu": "(2 Cookies)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Vegan Sun Butter Bars (V)"
-      },
-      {
-       "all_menu": "(1 Piece)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Chocolate Chip Cookies (OL)"
-      },
-      {
-       "all_menu": "(1 Cookie)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      }
-     ],
-     "Stations": [
-      {
-       "station": "PLAT DU JOUR"
-      },
-      {
-       "station": "GLUTEN FREE"
-      },
-      {
-       "station": "HALAL"
-      },
-      {
-       "station": "HONOR G GRILL"
-      },
-      {
-       "station": "DESSERTS"
-      }
-     ],
-     "Menus": [
-      {
-       "Menu": "Macaroni & Cheese Pizza (OL)"
-      },
-      {
-       "Menu": "Salad Caesar To Go"
-      },
-      {
-       "Menu": "Roasted Fresh Green Beans (V)"
-      },
-      {
-       "Menu": "Vegan Spicy Santa Fe Pizza (V)"
-      },
-      {
-       "Menu": "Tossed Salad (V)"
-      },
-      {
-       "Menu": "Pepperoni Pizza (GF)"
-      },
-      {
-       "Menu": "Tossed Salad (V)"
-      },
-      {
-       "Menu": "Roasted Fresh Green Beans (V)"
-      },
-      {
-       "Menu": "Vegan Spicy Santa Fe Pizza (V)"
-      },
-      {
-       "Menu": "Tossed Salad (V)"
-      },
-      {
-       "Menu": "Roasted Fresh Green Beans (V)"
-      },
-      {
-       "Menu": "Macaroni & Cheese Pizza (OL)"
-      },
-      {
-       "Menu": "Salad Caesar To Go"
-      },
-      {
-       "Menu": "Roasted Fresh Green Beans (V)"
-      },
-      {
-       "Menu": "Vegan Spicy Santa Fe Pizza (V)"
-      },
-      {
-       "Menu": "Tossed Salad (V)"
-      },
-      {
-       "Menu": "Red Grapes (V)"
-      },
-      {
-       "Menu": "Fresh Pear (V)"
-      },
-      {
-       "Menu": "OL*Benne Wafers"
-      },
-      {
-       "Menu": "Vegan Sun Butter Bars (V)"
-      },
-      {
-       "Menu": "Chocolate Chip Cookies (OL)"
-      }
-     ]
-    },
-    {
-     "Type": "LIGHT LUNCH",
-     "Table": [
-      {
-       "all_menu": "PLAT DU JOUR"
-      },
-      {
-       "all_menu": "California Avocado Sandwich To Go"
-      },
-      {
-       "all_menu": "Sandwich"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Tossed Salad (V)"
-      },
-      {
-       "all_menu": "Salad\nSalad"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Grilled Vegetable Club Sandwich(V) To Go"
-      },
-      {
-       "all_menu": "Sandwich"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "DESSERTS"
-      },
-      {
-       "all_menu": "Red Grapes (V)"
-      },
-      {
-       "all_menu": "(4 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Fresh Pear (V)"
-      },
-      {
-       "all_menu": "(Pear)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Vegan Sun Butter Bars (V)"
-      },
-      {
-       "all_menu": "(1 Piece)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      }
-     ],
-     "Stations": [
-      {
-       "station": "PLAT DU JOUR"
-      },
-      {
-       "station": "DESSERTS"
-      }
-     ],
-     "Menus": [
-      {
-       "Menu": "California Avocado Sandwich To Go"
-      },
-      {
-       "Menu": "Tossed Salad (V)"
-      },
-      {
-       "Menu": "Grilled Vegetable Club Sandwich(V) To Go"
-      },
-      {
-       "Menu": "Red Grapes (V)"
-      },
-      {
-       "Menu": "Fresh Pear (V)"
-      },
-      {
-       "Menu": "Vegan Sun Butter Bars (V)"
-      }
-     ]
-    },
-    {
-     "Type": "DINNER",
-     "Table": [
-      {
-       "all_menu": "PLAT DU JOUR"
-      },
-      {
-       "all_menu": "Soup Mushroom & Smoked Gouda Bisque"
-      },
-      {
-       "all_menu": "(8 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Beef & Pork Lasagna"
-      },
-      {
-       "all_menu": "(8 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Grilled Lemon Chicken Wrap"
-      },
-      {
-       "all_menu": "(Chicken Wrap)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Jalapeno & Cornmeal Crackers (OL)"
-      },
-      {
-       "all_menu": "(3 Cracker)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Roasted Baby Carrots (V)"
-      },
-      {
-       "all_menu": "(3 Oz Portion)\n(3 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Southwest Black Bean Soup (V)"
-      },
-      {
-       "all_menu": "(8 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Mediterranean Sandwich (V) To Go"
-      },
-      {
-       "all_menu": "Sandwich"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Chip Potato Lays Individual"
-      },
-      {
-       "all_menu": "Bag"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "GLUTEN FREE"
-      },
-      {
-       "all_menu": "Southwest Black Bean Soup (V)"
-      },
-      {
-       "all_menu": "(8 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Mediterranean Sandwich To Go (GF)"
-      },
-      {
-       "all_menu": "Sandwich"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Chip Potato Lays Individual"
-      },
-      {
-       "all_menu": "Bag"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Roasted Baby Carrots (V)"
-      },
-      {
-       "all_menu": "(3 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "HALAL"
-      },
-      {
-       "all_menu": "Southwest Black Bean Soup (V)"
-      },
-      {
-       "all_menu": "(8 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Mediterranean Sandwich (V) To Go"
-      },
-      {
-       "all_menu": "Sandwich"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Jalapeno & Cornmeal Crackers (OL)"
-      },
-      {
-       "all_menu": "(3 Cracker)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Roasted Baby Carrots (V)"
-      },
-      {
-       "all_menu": "(3 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "HONOR G GRILL"
-      },
-      {
-       "all_menu": "Soup Mushroom & Smoked Gouda Bisque"
-      },
-      {
-       "all_menu": "(8 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Beef & Pork Lasagna"
-      },
-      {
-       "all_menu": "(8 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Grilled Lemon Chicken Wrap"
-      },
-      {
-       "all_menu": "(Chicken Wrap)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Jalapeno & Cornmeal Crackers (OL)"
-      },
-      {
-       "all_menu": "(3 Cracker)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Roasted Baby Carrots (V)"
-      },
-      {
-       "all_menu": "(3 Oz Portion)\n(3 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Southwest Black Bean Soup (V)"
-      },
-      {
-       "all_menu": "(8 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Mediterranean Sandwich (V) To Go"
-      },
-      {
-       "all_menu": "Sandwich"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Chip Potato Lays Individual"
-      },
-      {
-       "all_menu": "Bag"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "DESSERTS"
-      },
-      {
-       "all_menu": "Red Grapes (V)"
-      },
-      {
-       "all_menu": "(4 Oz Portion)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Fresh Pear (V)"
-      },
-      {
-       "all_menu": "(Pear)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Cheesecake Brownies (OL)"
-      },
-      {
-       "all_menu": "(1 Piece)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Vegan Sun Butter Bars (V)"
-      },
-      {
-       "all_menu": "(1 Piece)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Everything Bread (OL)"
-      },
-      {
-       "all_menu": "(Sice)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Chocolate Chip Cookies (OL)"
-      },
-      {
-       "all_menu": "(1 Cookie)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      }
-     ],
-     "Stations": [
-      {
-       "station": "PLAT DU JOUR"
-      },
-      {
-       "station": "GLUTEN FREE"
-      },
-      {
-       "station": "HALAL"
-      },
-      {
-       "station": "HONOR G GRILL"
-      },
-      {
-       "station": "DESSERTS"
-      }
-     ],
-     "Menus": [
-      {
-       "Menu": "Soup Mushroom & Smoked Gouda Bisque"
-      },
-      {
-       "Menu": "Beef & Pork Lasagna"
-      },
-      {
-       "Menu": "Grilled Lemon Chicken Wrap"
-      },
-      {
-       "Menu": "Jalapeno & Cornmeal Crackers (OL)"
-      },
-      {
-       "Menu": "Roasted Baby Carrots (V)"
-      },
-      {
-       "Menu": "Southwest Black Bean Soup (V)"
-      },
-      {
-       "Menu": "Mediterranean Sandwich (V) To Go"
-      },
-      {
-       "Menu": "Chip Potato Lays Individual"
-      },
-      {
-       "Menu": "Southwest Black Bean Soup (V)"
-      },
-      {
-       "Menu": "Mediterranean Sandwich To Go (GF)"
-      },
-      {
-       "Menu": "Chip Potato Lays Individual"
-      },
-      {
-       "Menu": "Roasted Baby Carrots (V)"
-      },
-      {
-       "Menu": "Southwest Black Bean Soup (V)"
-      },
-      {
-       "Menu": "Mediterranean Sandwich (V) To Go"
-      },
-      {
-       "Menu": "Jalapeno & Cornmeal Crackers (OL)"
-      },
-      {
-       "Menu": "Roasted Baby Carrots (V)"
-      },
-      {
-       "Menu": "Soup Mushroom & Smoked Gouda Bisque"
-      },
-      {
-       "Menu": "Beef & Pork Lasagna"
-      },
-      {
-       "Menu": "Grilled Lemon Chicken Wrap"
-      },
-      {
-       "Menu": "Jalapeno & Cornmeal Crackers (OL)"
-      },
-      {
-       "Menu": "Roasted Baby Carrots (V)"
-      },
-      {
-       "Menu": "Southwest Black Bean Soup (V)"
-      },
-      {
-       "Menu": "Mediterranean Sandwich (V) To Go"
-      },
-      {
-       "Menu": "Chip Potato Lays Individual"
-      },
-      {
-       "Menu": "Red Grapes (V)"
-      },
-      {
-       "Menu": "Fresh Pear (V)"
-      },
-      {
-       "Menu": "Cheesecake Brownies (OL)"
-      },
-      {
-       "Menu": "Vegan Sun Butter Bars (V)"
-      },
-      {
-       "Menu": "Everything Bread (OL)"
-      },
-      {
-       "Menu": "Chocolate Chip Cookies (OL)"
-      }
-     ]
-    },
-    {
-     "Type": "DAILY OFFERINGS",
-     "Table": [
-      {
-       "all_menu": "BEVERAGES"
-      },
-      {
-       "all_menu": "Apple Juice Bottle"
-      },
-      {
-       "all_menu": "(10 Oz Bottle)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Milk Carton Skim"
-      },
-      {
-       "all_menu": "Carton"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Milk Carton 2%"
-      },
-      {
-       "all_menu": "Carton"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Milk Chocolate Carton 2%"
-      },
-      {
-       "all_menu": "Carton"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Soy Milk"
-      },
-      {
-       "all_menu": "(8 Oz)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Milk Soy Choc (Prisma)"
-      },
-      {
-       "all_menu": "8 Oz"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Vanilla Soy Milk"
-      },
-      {
-       "all_menu": "(8 Oz)"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      },
-      {
-       "all_menu": "Canned Mountain Dew Pop"
-      },
-      {
-       "all_menu": "Can"
-      },
-      {
-       "all_menu": "1\n2\n3\n4\n5"
-      }
-     ],
-     "Stations": [
-      {
-       "station": "BEVERAGES"
-      }
-     ],
-     "Menus": [
-      {
-       "Menu": "Apple Juice Bottle"
-      },
-      {
-       "Menu": "Milk Carton Skim"
-      },
-      {
-       "Menu": "Milk Carton 2%"
-      },
-      {
-       "Menu": "Milk Chocolate Carton 2%"
-      },
-      {
-       "Menu": "Soy Milk"
-      },
-      {
-       "Menu": "Milk Soy Choc (Prisma)"
-      },
-      {
-       "Menu": "Vanilla Soy Milk"
-      },
-      {
-       "Menu": "Canned Mountain Dew Pop"
-      }
-     ]
-    }
-   ]
-  },
-  {
    "Time": "Sunday, November 22, 2020",
    "TypeFood": [
     {
@@ -1216,6 +41,15 @@
       },
       {
        "all_menu": "(6 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Spaghetti Squash (V)"
+      },
+      {
+       "all_menu": "Pound\nPound"
       },
       {
        "all_menu": "1\n2\n3\n4\n5"
@@ -1287,6 +121,15 @@
        "all_menu": "1\n2\n3\n4\n5"
       },
       {
+       "all_menu": "Spaghetti Squash (V)"
+      },
+      {
+       "all_menu": "Pound"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
        "all_menu": "Mixed Vegetables (V)"
       },
       {
@@ -1360,6 +203,15 @@
       },
       {
        "all_menu": "(6 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Spaghetti Squash (V)"
+      },
+      {
+       "all_menu": "Pound\nPound"
       },
       {
        "all_menu": "1\n2\n3\n4\n5"
@@ -1471,6 +323,9 @@
        "Menu": "Churro Beans (V)"
       },
       {
+       "Menu": "Spaghetti Squash (V)"
+      },
+      {
        "Menu": "Mixed Vegetables (V)"
       },
       {
@@ -1490,6 +345,9 @@
       },
       {
        "Menu": "Churro Beans (V)"
+      },
+      {
+       "Menu": "Spaghetti Squash (V)"
       },
       {
        "Menu": "Mixed Vegetables (V)"
@@ -1514,6 +372,9 @@
       },
       {
        "Menu": "Churro Beans (V)"
+      },
+      {
+       "Menu": "Spaghetti Squash (V)"
       },
       {
        "Menu": "Mixed Vegetables (V)"
@@ -2483,7 +1344,7 @@
        "all_menu": "1\n2\n3\n4\n5"
       },
       {
-       "all_menu": "Semolina Cake"
+       "all_menu": "Semolina Cake (V)"
       },
       {
        "all_menu": "(1 Piece)"
@@ -2577,7 +1438,7 @@
        "Menu": "Chocolate Chip Cookies (OL)"
       },
       {
-       "Menu": "Semolina Cake"
+       "Menu": "Semolina Cake (V)"
       },
       {
        "Menu": "Chocolate Chip Cookies (OL)"
@@ -2639,7 +1500,7 @@
        "all_menu": "1\n2\n3\n4\n5"
       },
       {
-       "all_menu": "Semolina Cake"
+       "all_menu": "Semolina Cake (V)"
       },
       {
        "all_menu": "(1 Piece)"
@@ -2673,7 +1534,7 @@
        "Menu": "Gala Apple (V)"
       },
       {
-       "Menu": "Semolina Cake"
+       "Menu": "Semolina Cake (V)"
       }
      ]
     },
@@ -2867,7 +1728,7 @@
        "all_menu": "1\n2\n3\n4\n5"
       },
       {
-       "all_menu": "Semolina Cake"
+       "all_menu": "Semolina Cake (V)"
       },
       {
        "all_menu": "(1 Piece)"
@@ -2961,7 +1822,7 @@
        "Menu": "Eclair Pie with Coconut (OL)"
       },
       {
-       "Menu": "Semolina Cake"
+       "Menu": "Semolina Cake (V)"
       },
       {
        "Menu": "Chocolate Chip Cookies (OL)"
@@ -5813,7 +4674,7 @@
        "all_menu": "PLAT DU JOUR"
       },
       {
-       "all_menu": "Dinner Sack (Meat Lasagna)"
+       "all_menu": "Meat Lasagna Meal"
       },
       {
        "all_menu": "Dinner Sack"
@@ -5822,7 +4683,7 @@
        "all_menu": "1\n2\n3\n4\n5"
       },
       {
-       "all_menu": "Dinner Sack (Vegan)"
+       "all_menu": "Enchilada Meal (Vegan)"
       },
       {
        "all_menu": "Dinner Sack"
@@ -5834,7 +4695,7 @@
        "all_menu": "GLUTEN FREE"
       },
       {
-       "all_menu": "Dinner Sack"
+       "all_menu": "Enchilada Meal GF"
       },
       {
        "all_menu": "Dinner Sack"
@@ -5853,13 +4714,13 @@
      ],
      "Menus": [
       {
-       "Menu": "Dinner Sack (Meat Lasagna)"
+       "Menu": "Meat Lasagna Meal"
       },
       {
-       "Menu": "Dinner Sack (Vegan)"
+       "Menu": "Enchilada Meal (Vegan)"
       },
       {
-       "Menu": "Dinner Sack"
+       "Menu": "Enchilada Meal GF"
       }
      ]
     },
@@ -7823,6 +6684,938 @@
       },
       {
        "Menu": "Canned Diet Mountain Dew Pop"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "Time": "Sunday, November 29, 2020",
+   "TypeFood": [
+    {
+     "Type": "LIGHT BREAKFAST",
+     "Table": [
+      {
+       "all_menu": "BREAKFAST PASTRY"
+      },
+      {
+       "all_menu": "Pumpkin Muffin (V)"
+      },
+      {
+       "all_menu": "(1 Muffin)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Fresh Blueberries (V)"
+      },
+      {
+       "all_menu": "3 Oz Portion"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "PLAT DU JOUR"
+      },
+      {
+       "all_menu": "Blueberry Bagel w/Cream Cheese"
+      },
+      {
+       "all_menu": "Bagel"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Cinnamon Raisin Bagel w/ Cream Cheese"
+      },
+      {
+       "all_menu": "Bagel"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Plain Bagel w/Cream Cheese"
+      },
+      {
+       "all_menu": "Bagel"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Yogurt Parfait with Nuts (HOH)"
+      },
+      {
+       "all_menu": "(Yogurt Parfait)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Yogurt Parfait W/O Nuts (HOH)"
+      },
+      {
+       "all_menu": "(Yogurt Parfait)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Hard Boiled Eggs"
+      },
+      {
+       "all_menu": "2 (Egg)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      }
+     ],
+     "Stations": [
+      {
+       "station": "BREAKFAST PASTRY"
+      },
+      {
+       "station": "PLAT DU JOUR"
+      }
+     ],
+     "Menus": [
+      {
+       "Menu": "Pumpkin Muffin (V)"
+      },
+      {
+       "Menu": "Fresh Blueberries (V)"
+      },
+      {
+       "Menu": "Blueberry Bagel w/Cream Cheese"
+      },
+      {
+       "Menu": "Cinnamon Raisin Bagel w/ Cream Cheese"
+      },
+      {
+       "Menu": "Plain Bagel w/Cream Cheese"
+      },
+      {
+       "Menu": "Yogurt Parfait with Nuts (HOH)"
+      },
+      {
+       "Menu": "Yogurt Parfait W/O Nuts (HOH)"
+      },
+      {
+       "Menu": "Hard Boiled Eggs"
+      }
+     ]
+    },
+    {
+     "Type": "LUNCH",
+     "Table": [
+      {
+       "all_menu": "PLAT DU JOUR"
+      },
+      {
+       "all_menu": "Mongolian Beef"
+      },
+      {
+       "all_menu": "(6 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Steamed White Rice (V)"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Broccoli Florets (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)\n(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Eggplant Caponata (V)"
+      },
+      {
+       "all_menu": "(8 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Cannellini Bean Sautee (V)"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Sauteed Polenta (V)"
+      },
+      {
+       "all_menu": "(3 Triangle)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "GLUTEN FREE"
+      },
+      {
+       "all_menu": "Beef Panang Nua"
+      },
+      {
+       "all_menu": "(8 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Steamed White Rice (V)"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Broccoli Florets (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "HALAL"
+      },
+      {
+       "all_menu": "Mongolian Halal Beef"
+      },
+      {
+       "all_menu": "(8 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Steamed White Rice (V)"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Broccoli Florets (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "HONOR G GRILL"
+      },
+      {
+       "all_menu": "Mongolian Beef"
+      },
+      {
+       "all_menu": "(6 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Steamed White Rice (V)"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Broccoli Florets (V)"
+      },
+      {
+       "all_menu": "(3 Oz Portion)\n(3 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Eggplant Caponata (V)"
+      },
+      {
+       "all_menu": "(8 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Cannellini Bean Sautee (V)"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Sauteed Polenta (V)"
+      },
+      {
+       "all_menu": "(3 Triangle)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "DESSERTS"
+      },
+      {
+       "all_menu": "Red Grapes (V)"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Apples Granny Smith"
+      },
+      {
+       "all_menu": "(Granny Smith Apple)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Chocolate Cupcakes (V)"
+      },
+      {
+       "all_menu": "(1 Cupcake)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "White Choc Macadmia Nut Cookie (OL)"
+      },
+      {
+       "all_menu": "(1 Cookie)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Chocolate Chip Cookies (OL)"
+      },
+      {
+       "all_menu": "(1 Cookie)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      }
+     ],
+     "Stations": [
+      {
+       "station": "PLAT DU JOUR"
+      },
+      {
+       "station": "GLUTEN FREE"
+      },
+      {
+       "station": "HALAL"
+      },
+      {
+       "station": "HONOR G GRILL"
+      },
+      {
+       "station": "DESSERTS"
+      }
+     ],
+     "Menus": [
+      {
+       "Menu": "Mongolian Beef"
+      },
+      {
+       "Menu": "Steamed White Rice (V)"
+      },
+      {
+       "Menu": "Broccoli Florets (V)"
+      },
+      {
+       "Menu": "Eggplant Caponata (V)"
+      },
+      {
+       "Menu": "Cannellini Bean Sautee (V)"
+      },
+      {
+       "Menu": "Sauteed Polenta (V)"
+      },
+      {
+       "Menu": "Beef Panang Nua"
+      },
+      {
+       "Menu": "Steamed White Rice (V)"
+      },
+      {
+       "Menu": "Broccoli Florets (V)"
+      },
+      {
+       "Menu": "Mongolian Halal Beef"
+      },
+      {
+       "Menu": "Steamed White Rice (V)"
+      },
+      {
+       "Menu": "Broccoli Florets (V)"
+      },
+      {
+       "Menu": "Mongolian Beef"
+      },
+      {
+       "Menu": "Steamed White Rice (V)"
+      },
+      {
+       "Menu": "Broccoli Florets (V)"
+      },
+      {
+       "Menu": "Eggplant Caponata (V)"
+      },
+      {
+       "Menu": "Cannellini Bean Sautee (V)"
+      },
+      {
+       "Menu": "Sauteed Polenta (V)"
+      },
+      {
+       "Menu": "Red Grapes (V)"
+      },
+      {
+       "Menu": "Apples Granny Smith"
+      },
+      {
+       "Menu": "Chocolate Cupcakes (V)"
+      },
+      {
+       "Menu": "White Choc Macadmia Nut Cookie (OL)"
+      },
+      {
+       "Menu": "Chocolate Chip Cookies (OL)"
+      }
+     ]
+    },
+    {
+     "Type": "LIGHT LUNCH",
+     "Table": [
+      {
+       "all_menu": "PLAT DU JOUR"
+      },
+      {
+       "all_menu": "Chicken Caesar Salad To Go"
+      },
+      {
+       "all_menu": "(Salad)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Chip Potato Lays Individual"
+      },
+      {
+       "all_menu": "Bag\nBag"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Roasted Vegetable Salad To Go"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "DESSERTS"
+      },
+      {
+       "all_menu": "Red Grapes (V)"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Apples Granny Smith"
+      },
+      {
+       "all_menu": "(Granny Smith Apple)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Chocolate Cupcakes (V)"
+      },
+      {
+       "all_menu": "(1 Cupcake)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      }
+     ],
+     "Stations": [
+      {
+       "station": "PLAT DU JOUR"
+      },
+      {
+       "station": "DESSERTS"
+      }
+     ],
+     "Menus": [
+      {
+       "Menu": "Chicken Caesar Salad To Go"
+      },
+      {
+       "Menu": "Chip Potato Lays Individual"
+      },
+      {
+       "Menu": "Roasted Vegetable Salad To Go"
+      },
+      {
+       "Menu": "Red Grapes (V)"
+      },
+      {
+       "Menu": "Apples Granny Smith"
+      },
+      {
+       "Menu": "Chocolate Cupcakes (V)"
+      }
+     ]
+    },
+    {
+     "Type": "DINNER",
+     "Table": [
+      {
+       "all_menu": "PLAT DU JOUR"
+      },
+      {
+       "all_menu": "Tomato Soup (V)"
+      },
+      {
+       "all_menu": "(8 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Grilled Cheese Burger w/Carmelized Onion"
+      },
+      {
+       "all_menu": "(Sandwich)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Parmesan Bread (OL)"
+      },
+      {
+       "all_menu": "(Slice)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Roasted Root Vegetables (V)"
+      },
+      {
+       "all_menu": "(3 Oz. Portion)\n(3 Oz. Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Beet & Tofu Curry (V)"
+      },
+      {
+       "all_menu": "(7.5 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Jasmine Rice (V)"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "GLUTEN FREE"
+      },
+      {
+       "all_menu": "Grilled Cheese Burger w/Carmelized Onion"
+      },
+      {
+       "all_menu": "(Sandwich)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Roasted Redskin Potatoes (V)"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Roasted Root Vegetables (V)"
+      },
+      {
+       "all_menu": "(3 Oz. Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "HALAL"
+      },
+      {
+       "all_menu": "Tomato Soup (V)"
+      },
+      {
+       "all_menu": "(8 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Turkey Pastrami Sandwich"
+      },
+      {
+       "all_menu": "(Sandwich)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Roasted Root Vegetables (V)"
+      },
+      {
+       "all_menu": "(3 Oz. Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "HONOR G GRILL"
+      },
+      {
+       "all_menu": "Tomato Soup (V)"
+      },
+      {
+       "all_menu": "(8 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Grilled Cheese Burger w/Carmelized Onion"
+      },
+      {
+       "all_menu": "(Sandwich)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Roasted Root Vegetables (V)"
+      },
+      {
+       "all_menu": "(3 Oz. Portion)\n(3 Oz. Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Beet & Tofu Curry (V)"
+      },
+      {
+       "all_menu": "(7.5 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Jasmine Rice (V)"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "DESSERTS"
+      },
+      {
+       "all_menu": "Red Grapes (V)"
+      },
+      {
+       "all_menu": "(4 Oz Portion)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Apples Granny Smith"
+      },
+      {
+       "all_menu": "(Granny Smith Apple)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "White Chocolate Vanilla Bean Cupcake"
+      },
+      {
+       "all_menu": "(1 Cupcake)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Chocolate Cupcakes (V)"
+      },
+      {
+       "all_menu": "(1 Cupcake)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Chocolate Chip Cookies (OL)"
+      },
+      {
+       "all_menu": "(1 Cookie)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      }
+     ],
+     "Stations": [
+      {
+       "station": "PLAT DU JOUR"
+      },
+      {
+       "station": "GLUTEN FREE"
+      },
+      {
+       "station": "HALAL"
+      },
+      {
+       "station": "HONOR G GRILL"
+      },
+      {
+       "station": "DESSERTS"
+      }
+     ],
+     "Menus": [
+      {
+       "Menu": "Tomato Soup (V)"
+      },
+      {
+       "Menu": "Grilled Cheese Burger w/Carmelized Onion"
+      },
+      {
+       "Menu": "Parmesan Bread (OL)"
+      },
+      {
+       "Menu": "Roasted Root Vegetables (V)"
+      },
+      {
+       "Menu": "Beet & Tofu Curry (V)"
+      },
+      {
+       "Menu": "Jasmine Rice (V)"
+      },
+      {
+       "Menu": "Grilled Cheese Burger w/Carmelized Onion"
+      },
+      {
+       "Menu": "Roasted Redskin Potatoes (V)"
+      },
+      {
+       "Menu": "Roasted Root Vegetables (V)"
+      },
+      {
+       "Menu": "Tomato Soup (V)"
+      },
+      {
+       "Menu": "Turkey Pastrami Sandwich"
+      },
+      {
+       "Menu": "Roasted Root Vegetables (V)"
+      },
+      {
+       "Menu": "Tomato Soup (V)"
+      },
+      {
+       "Menu": "Grilled Cheese Burger w/Carmelized Onion"
+      },
+      {
+       "Menu": "Roasted Root Vegetables (V)"
+      },
+      {
+       "Menu": "Beet & Tofu Curry (V)"
+      },
+      {
+       "Menu": "Jasmine Rice (V)"
+      },
+      {
+       "Menu": "Red Grapes (V)"
+      },
+      {
+       "Menu": "Apples Granny Smith"
+      },
+      {
+       "Menu": "White Chocolate Vanilla Bean Cupcake"
+      },
+      {
+       "Menu": "Chocolate Cupcakes (V)"
+      },
+      {
+       "Menu": "Chocolate Chip Cookies (OL)"
+      }
+     ]
+    },
+    {
+     "Type": "DAILY OFFERINGS",
+     "Table": [
+      {
+       "all_menu": "BEVERAGES"
+      },
+      {
+       "all_menu": "Orange Juice Bottle"
+      },
+      {
+       "all_menu": "(10 Oz Bottle)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Milk Carton Skim"
+      },
+      {
+       "all_menu": "Carton"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Milk Carton 2%"
+      },
+      {
+       "all_menu": "Carton"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Milk Chocolate Carton 2%"
+      },
+      {
+       "all_menu": "Carton"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Soy Milk"
+      },
+      {
+       "all_menu": "(8 Oz)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Vanilla Soy Milk"
+      },
+      {
+       "all_menu": "(8 Oz)"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      },
+      {
+       "all_menu": "Canned Diet Coke Pop"
+      },
+      {
+       "all_menu": "Can"
+      },
+      {
+       "all_menu": "1\n2\n3\n4\n5"
+      }
+     ],
+     "Stations": [
+      {
+       "station": "BEVERAGES"
+      }
+     ],
+     "Menus": [
+      {
+       "Menu": "Orange Juice Bottle"
+      },
+      {
+       "Menu": "Milk Carton Skim"
+      },
+      {
+       "Menu": "Milk Carton 2%"
+      },
+      {
+       "Menu": "Milk Chocolate Carton 2%"
+      },
+      {
+       "Menu": "Soy Milk"
+      },
+      {
+       "Menu": "Vanilla Soy Milk"
+      },
+      {
+       "Menu": "Canned Diet Coke Pop"
       }
      ]
     }
